@@ -12,7 +12,7 @@ type Step = 'welcome' | 'name' | 'role' | 'intro'
 
 const ROLES: { code: RoleCode; label: string; description: string }[] = [
   { code: 'WL', label: 'Worship Leader',                   description: "Your beautiful voice won't be able to save you." },
-  { code: 'TL', label: 'Tech Leader',                      description: "There ain't enough gaff tape in the world for the day you're about to have." },
+  { code: 'TL', label: 'Tech Leader',                      description: "Not enough gaff tape in the world for the day you're about to have." },
   { code: 'KM', label: 'Kids Ministry Leader',             description: 'Okay, this might actually feel like a normal Sunday.' },
   { code: 'FI', label: 'First Impressions Leader',         description: 'Your handshakes are about to get extra sweaty.' },
   { code: 'AD', label: 'Administrator',                    description: "You're busy saving the ministry, but who will save you?" },
