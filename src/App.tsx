@@ -39,6 +39,7 @@ export default function App() {
       <Screen>
         <ProgressBar segments={segments} />
         <ScenePlayer
+          key={scene.sceneNumber}
           scene={scene}
           state={state}
           onStateChange={updateState}
