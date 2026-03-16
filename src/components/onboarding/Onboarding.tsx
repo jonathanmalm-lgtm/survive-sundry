@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import type { PlayerProfile, RoleCode, Gender, MaritalStatus } from '../../types/game'
-import { getIntro } from '../../content/parser'
+import { getIntro, personalize } from '../../content/parser'
 import { analytics } from '../../engine/analytics'
 import Button from '../ui/Button'
 
@@ -123,10 +123,14 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
 
   if (step === 'intro') {
     const intro = role ? getIntro(role) : null
+    const narrative = (intro?.narrative ?? '')
+    const personalized = (role && gender && maritalStatus)
+      ? personalize(narrative, name.trim(), gender, maritalStatus)
+      : narrative
     return (
       <div className="flex flex-col flex-1 px-4 py-8 gap-6 max-w-lg mx-auto w-full">
         <div className="flex-1 space-y-3 text-sm leading-relaxed text-[#4b4b4b]">
-          {(intro?.narrative ?? '').split('\n\n').map((para, i) => (
+          {personalized.split('\n\n').map((para, i) => (
             <p key={i}>{para}</p>
           ))}
         </div>
