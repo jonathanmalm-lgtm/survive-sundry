@@ -62,13 +62,13 @@ endings:
 
 ## Ending 1
 
-Pastor Dave is sitting at his desk. Not on his phone. Just looking at you. There's a banker's box on the corner. Your badge and your subwoofer remote are on top of it. He lets the silence do the work. "We love you. We believe God has a plan for your life." Pause. "We've also been talking to someone else about the tech role." The meeting takes nine minutes. On the way out Brenda from admin hands you a card. Someone drew a little soundboard on it. Someone wrote "God has a plan!" You sit in your car. You text your husband. He calls immediately. He is not surprised. He is kind. That is somehow harder.
+Pastor Dave is sitting at his desk. Not on his phone. Just looking at you. There's a banker's box on the corner. Your badge and your subwoofer remote are on top of it. He lets the silence do the work. "We love you. We believe God has a plan for your life." Pause. "We've also been talking to someone else about the tech role." The meeting takes nine minutes. On the way out Brenda from admin hands you a card. Someone drew a little soundboard on it. Someone wrote "God has a plan!" You sit in your car. You look at the card for a while. You look at the parking lot. You pull out.
 
 Your first listing is Ron's house. Ron has a lot of feedback about the lighting.
 
 ## Ending 2
 
-Pastor Dave slides a piece of paper across the desk. "Tech Scheduling and Compliance Coordinator." Compliance. The word just sits there. "We think your attention to systems is actually a real gift," he says. "You're going to be great at identifying gaps." Your husband asks about it at dinner. You tell him. He is quiet for a moment. "Compliance," he says. "Yeah," you say.
+Pastor Dave slides a piece of paper across the desk. "Tech Scheduling and Compliance Coordinator." Compliance. The word just sits there. "We think your attention to systems is actually a real gift," he says. "You're going to be great at identifying gaps." You drive home. The word compliance rides in the passenger seat the whole way.
 
 You will spend the next three years sending calendar reminders to people who do not read calendar reminders. Gary will cc himself on several of them.
 
@@ -80,7 +80,7 @@ Tanner's first directive is to remove the subwoofer. He calls it "sonically prid
 
 ## Ending 4
 
-You're in the parking lot. Four minutes before the meeting. Your phone rings. It's Redemption City Church. "We've been watching your team for a while. We'd love to have a conversation." You look at the clock. Three minutes until the meeting. You look at Pastor Dave's window. He's in there. Your husband doesn't know about the call yet. That's fine. You'll tell him tonight.
+You're in the parking lot. Four minutes before the meeting. Your phone rings. It's Redemption City Church. "We've been watching your team for a while. We'd love to have a conversation." You look at the clock. Three minutes until the meeting. You look at Pastor Dave's window. He's in there.
 
 You go into the meeting anyway. You sit down. Pastor Dave talks. You hear about every other word. Dave from the parking lot somehow already knows about the call. Dave always knows. You still take the meeting.
 
@@ -98,25 +98,23 @@ The color-coded recap lives on your desk for three weeks. You look at the red ci
 
 ## Ending 7
 
-The meeting goes well. Suspiciously well. He slides an envelope across. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful." On the way home you stop at the store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You tell your husband when you get home. He is quiet for a long moment. Then: "Do you want to go out to dinner?" You look at the Maruchan. You put it in the pantry anyway.
+The meeting goes well. Suspiciously well. He slides an envelope across. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful." On the way home you stop at the store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You put it in the pantry.
 
-You frame the letter. Your husband helps you hang it straight.
+You frame the letter. It hangs a little crooked. You leave it.
 
 ## Ending 8
 
-He presents the new title. It is genuinely better. Then he presents the new responsibilities. The list is long. "—oversight of the full tech team, which will now include staging and lighting — plus the second campus launching in the fall — and the budget remains the same for now, we'll revisit that in—" he checks something, "—eighteen to twenty-four months." He closes the folder. He's beaming. "Congratulations." You shake his hand. You smile. You mean it. You get to your car. You open your calendar app. You stare at it for a long time.
-
-Your husband asks how it went. "I got promoted," you say. He hugs you. Later, he asks about the raise. You are quiet. He understands.
+He presents the new title. It is genuinely better. Then he presents the new responsibilities. The list is long. "—oversight of the full tech team, which will now include staging and lighting — plus the second campus launching in the fall — and the budget remains the same for now, we'll revisit that in—" he checks something, "—eighteen to twenty-four months." He closes the folder. He's beaming. "Congratulations." You shake his hand. You smile. You mean it. You get to your car. You open your calendar app. You stare at it for a long time. You put your phone face-down on the seat. You sit there for a minute. Then you drive home.
 
 ## Blippicoin Win
 
 You tell him about BlippiCoin. All of it. The $200. Chad. The Chili's. You show him your portfolio on your phone. The number on the screen is $124,000. Pastor Dave stares at the phone. Then at you. Then at the phone. "You invested in a cryptocurrency backed by Blippi," he says slowly, "during the service." "During the between-service reset," you clarify. He starts laughing. Slowly at first. Then fully. He composes himself. "What do you even do with that?" You have thought about this. "Tithe it," you say. "And replace the subwoofer." He starts laughing again.
 
-You tell your husband when you get home. His first question is: "How much do we tithe on Blippi money?" You do not have a theological answer. Chad texts seventeen times in one day. You do not respond to Chad.
+You still do not have a theological answer on the tithing question. Chad texts seventeen times in one day. You do not respond to Chad.
 
 ## Blippicoin Lose
 
-The $200 is gone. You will never get it back. Your husband asks about it exactly once. You tell him the whole story. He is quiet. Then he laughs. Then you both laugh. The story gets funnier every time you tell it. Chad still follows up. Chad is still a bartender at Chili's.
+The $200 is gone. You will never get it back. You tell the story exactly once, to someone who needed a laugh. It lands. The story gets funnier every time you tell it. Chad still follows up. Chad is still a bartender at Chili's.
 
 ## Meme Account
 
