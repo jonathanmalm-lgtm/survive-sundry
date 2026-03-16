@@ -9,7 +9,7 @@ export default function Screen({ children, centered = false }: ScreenProps) {
       {/* Header */}
       <header className="bg-[#1c1c1c] text-white px-4 py-3 flex-shrink-0">
         <div className="max-w-lg mx-auto text-center">
-          <p className="text-xs tracking-[0.2em] uppercase text-gray-400 leading-none mb-0.5">
+          <p className="text-xs font-bold tracking-[0.2em] uppercase text-gray-400 leading-none mb-0.5">
             Survive Sunday
           </p>
           <p className="text-[10px] tracking-widest uppercase text-gray-600 leading-none">
