@@ -1,0 +1,105 @@
+---
+endings:
+  - id: 1
+    title: "Fired. You are now a realtor."
+    condition: "All three meters below 40"
+    shareText: "I GOT FIRED FROM EXECUTION CHURCH."
+    shareVariants:
+      - "I GOT FIRED FROM EXECUTION CHURCH."
+      - "EXECUTION CHURCH LET ME GO. I'M A REALTOR NOW."
+      - "FIRED. THE KIDS WILL MISS ME."
+  - id: 2
+    title: "Reassigned. Kids Ministry Scheduling and Compliance Coordinator."
+    condition: "Ministry < 40, Relational < 40, Self-Aware > 60"
+    shareText: "I'M NOW THE KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR."
+    shareVariants:
+      - "I'M NOW THE KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR."
+      - "KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH."
+  - id: 3
+    title: "Tanner is your new boss. He has thoughts about frequency."
+    condition: "Ministry > 60, Relational < 40, Self-Aware < 40"
+    shareText: "TANNER IS MY NEW BOSS AT EXECUTION CHURCH."
+    shareVariants:
+      - "TANNER IS MY NEW BOSS AT EXECUTION CHURCH."
+      - "MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL."
+  - id: 4
+    title: "They called. Redemption City Church. Full benefits. Relocation package."
+    condition: "Ministry > 60, Relational < 40, Self-Aware > 60"
+    shareText: "REDEMPTION CITY CHURCH CALLED. I'M OUT."
+    shareVariants:
+      - "REDEMPTION CITY CHURCH CALLED. I'M OUT."
+      - "THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. I ANSWERED."
+  - id: 5
+    title: "Well done, good and faithful servant. Let's plan next Sunday."
+    condition: "All three meters above 70"
+    shareText: "I SURVIVED SUNDAY AT EXECUTION CHURCH."
+    shareVariants:
+      - "I SURVIVED SUNDAY AT EXECUTION CHURCH."
+      - "WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY."
+      - "I SURVIVED EXECUTION CHURCH. ASK ME HOW."
+  - id: 6
+    title: "We'll do better next time."
+    condition: "Ministry < 60, Relational > 60, Self-Aware > 60"
+    shareText: "WE'LL DO BETTER NEXT TIME. APPARENTLY."
+    shareVariants:
+      - "WE'LL DO BETTER NEXT TIME. APPARENTLY."
+      - "THERE WAS A RED CIRCLE ON THE RECAP. I KNOW WHAT IT WAS."
+  - id: 7
+    title: "Pay raise. You can now afford brand name Ramen noodles."
+    condition: "Ministry < 40, Relational > 60, Self-Aware < 40"
+    shareText: "I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW."
+    shareVariants:
+      - "I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW."
+      - "PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER."
+  - id: 8
+    title: "Promoted. Better title. Real authority. Absolutely no pay raise."
+    condition: "Ministry > 70, Relational > 70, Self-Aware < 40"
+    shareText: "I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH."
+    shareVariants:
+      - "I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH."
+      - "NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH."
+---
+
+## Ending 1
+
+[Placeholder — to be written]
+
+## Ending 2
+
+[Placeholder — to be written]
+
+## Ending 3
+
+[Placeholder — to be written]
+
+## Ending 4
+
+[Placeholder — to be written]
+
+## Ending 5
+
+[Placeholder — to be written]
+
+## Ending 6
+
+[Placeholder — to be written]
+
+## Ending 7
+
+[Placeholder — to be written]
+
+## Ending 8
+
+[Placeholder — to be written]
+
+## Blippicoin Win
+
+[Placeholder — to be written]
+
+## Blippicoin Lose
+
+[Placeholder — to be written]
+
+## Meme Account
+
+[Placeholder — to be written]
