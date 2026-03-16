@@ -38,10 +38,9 @@ endings:
   - id: 6
     title: "We'll do better next time."
     condition: "Ministry < 60, Relational > 60, Self-Aware > 60"
-    shareText: "WE'LL DO BETTER NEXT TIME. APPARENTLY."
+    shareText: "I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH."
     shareVariants:
-      - "WE'LL DO BETTER NEXT TIME. APPARENTLY."
-      - "THERE WAS A RED CIRCLE ON THE RECAP. I KNOW WHAT IT WAS."
+      - "I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH."
   - id: 7
     title: "Pay raise. You can now afford brand name Ramen noodles."
     condition: "Ministry < 40, Relational > 60, Self-Aware < 40"
