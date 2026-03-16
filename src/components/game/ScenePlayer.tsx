@@ -116,13 +116,15 @@ export default function ScenePlayer({
       <ImagePlaceholder imageKey={scene.image} />
 
       {/* Narrative */}
-      <div className="text-sm leading-relaxed text-[#4b4b4b] space-y-3">
-        {p(scene.narrative)
-          .split('\n\n')
-          .map((para, i) => (
-            <p key={i}>{para}</p>
-          ))}
-      </div>
+      {!outcomeText && (
+        <div className="text-sm leading-relaxed text-[#4b4b4b] space-y-3">
+          {p(scene.narrative)
+            .split('\n\n')
+            .map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+        </div>
+      )}
 
       {/* Outcome (shown after choice) */}
       {outcomeText && (
