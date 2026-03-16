@@ -30,10 +30,10 @@ export default function Screen({ children, centered = false }: ScreenProps) {
         <div className="max-w-lg mx-auto flex items-center justify-between">
           {/* Branding */}
           <div className="text-center flex-1">
-            <p className="text-xs font-bold tracking-[0.2em] uppercase text-gray-400 leading-none mb-0.5">
+            <p style={{ fontSize: '16px', color: '#fff', fontWeight: 'bold', letterSpacing: '0.2em', textTransform: 'uppercase', lineHeight: 1 }}>
               Survive Sunday
             </p>
-            <p className="text-[10px] tracking-widest uppercase text-gray-600 leading-none">
+            <p style={{ fontSize: '12px', color: '#ddd', marginTop: '6px', letterSpacing: '0.1em', textTransform: 'uppercase', lineHeight: 1 }}>
               A choose-your-own ministry adventure game.
             </p>
           </div>
