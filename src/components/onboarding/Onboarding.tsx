@@ -8,7 +8,7 @@ interface OnboardingProps {
   onComplete: (player: PlayerProfile) => void
 }
 
-type Step = 'welcome' | 'name' | 'role' | 'intro' | 'gender' | 'marital'
+type Step = 'welcome' | 'name' | 'role' | 'gender' | 'marital' | 'intro'
 
 const ROLES: { code: RoleCode; label: string; description: string }[] = [
   { code: 'WL', label: 'Worship Leader',                   description: 'Full band. Production-heavy. Five Elevation songs.' },
@@ -61,7 +61,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
       <div className="flex flex-col flex-1 justify-center px-4 py-12 gap-6 max-w-lg mx-auto w-full">
         <div>
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">Step 1 of 4</p>
-          <h2 className="text-2xl font-semibold text-[#1c1c1c]">What's your name?</h2>
+          <h2 className="text-2xl font-semibold text-[#1c1c1c]">What's your first name?</h2>
         </div>
         <input
           type="text"
@@ -97,7 +97,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
           {ROLES.map(r => (
             <button
               key={r.code}
-              onClick={() => setRole(r.code)}
+              onClick={() => { setRole(r.code); setStep('gender') }}
               className={[
                 'w-full text-left px-4 py-3.5 rounded-lg border transition-colors duration-150',
                 role === r.code
@@ -115,14 +115,6 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
             </button>
           ))}
         </div>
-        <Button
-          onClick={() => setStep('intro')}
-          disabled={!role}
-          fullWidth
-          className="mt-2"
-        >
-          Next
-        </Button>
       </div>
     )
   }
@@ -138,7 +130,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
             <p key={i}>{para}</p>
           ))}
         </div>
-        <Button onClick={() => setStep('gender')} fullWidth>
+        <Button onClick={handleComplete} fullWidth>
           That's me. Let's go.
         </Button>
       </div>
@@ -148,46 +140,27 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
   // ── Gender ────────────────────────────────────────────────────────────────
 
   if (step === 'gender') {
-    const options: { value: Gender; label: string; sub: string }[] = [
-      { value: 'male',    label: 'Male',              sub: 'He / him' },
-      { value: 'female',  label: 'Female',            sub: 'She / her' },
-      { value: 'neutral', label: 'Prefer not to say', sub: 'They / them' },
+    const options: { value: Gender; label: string }[] = [
+      { value: 'male',   label: 'Male' },
+      { value: 'female', label: 'Female' },
     ]
     return (
       <div className="flex flex-col flex-1 justify-center px-4 py-12 gap-6 max-w-lg mx-auto w-full">
         <div>
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">Step 3 of 4</p>
-          <h2 className="text-2xl font-semibold text-[#1c1c1c]">How do you identify?</h2>
+          <h2 className="text-2xl font-semibold text-[#1c1c1c]">What's your gender?</h2>
         </div>
         <div className="space-y-2">
           {options.map(opt => (
             <button
               key={opt.value}
-              onClick={() => setGender(opt.value)}
-              className={[
-                'w-full text-left px-4 py-3.5 rounded-lg border transition-colors duration-150',
-                gender === opt.value
-                  ? 'bg-[#1c1c1c] text-white border-[#1c1c1c]'
-                  : 'bg-white text-[#1c1c1c] border-[#dddbd8] hover:border-[#1c1c1c] hover:bg-[#f0efed]',
-              ].join(' ')}
+              onClick={() => { setGender(opt.value); setStep('marital') }}
+              className="w-full text-left px-4 py-3.5 rounded-lg border transition-colors duration-150 bg-white text-[#1c1c1c] border-[#dddbd8] hover:border-[#1c1c1c] hover:bg-[#f0efed]"
             >
               <span className="block text-sm font-medium">{opt.label}</span>
-              <span className={[
-                'block text-xs mt-0.5',
-                gender === opt.value ? 'text-gray-300' : 'text-gray-500',
-              ].join(' ')}>
-                {opt.sub}
-              </span>
             </button>
           ))}
         </div>
-        <Button
-          onClick={() => setStep('marital')}
-          disabled={!gender}
-          fullWidth
-        >
-          Next
-        </Button>
       </div>
     )
   }
@@ -210,31 +183,14 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
           {options.map(opt => (
             <button
               key={opt.value}
-              onClick={() => setMaritalStatus(opt.value)}
-              className={[
-                'w-full text-left px-4 py-3.5 rounded-lg border transition-colors duration-150',
-                maritalStatus === opt.value
-                  ? 'bg-[#1c1c1c] text-white border-[#1c1c1c]'
-                  : 'bg-white text-[#1c1c1c] border-[#dddbd8] hover:border-[#1c1c1c] hover:bg-[#f0efed]',
-              ].join(' ')}
+              onClick={() => { setMaritalStatus(opt.value); setStep('intro') }}
+              className="w-full text-left px-4 py-3.5 rounded-lg border transition-colors duration-150 bg-white text-[#1c1c1c] border-[#dddbd8] hover:border-[#1c1c1c] hover:bg-[#f0efed]"
             >
               <span className="block text-sm font-medium">{opt.label}</span>
-              <span className={[
-                'block text-xs mt-0.5',
-                maritalStatus === opt.value ? 'text-gray-300' : 'text-gray-500',
-              ].join(' ')}>
-                {opt.sub}
-              </span>
+              <span className="block text-xs mt-0.5 text-gray-500">{opt.sub}</span>
             </button>
           ))}
         </div>
-        <Button
-          onClick={handleComplete}
-          disabled={!maritalStatus}
-          fullWidth
-        >
-          Start
-        </Button>
       </div>
     )
   }
