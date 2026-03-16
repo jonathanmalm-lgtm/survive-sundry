@@ -48,7 +48,7 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
   const isMemeAccount = resolved.specialVariants.includes('meme_account')
 
   function p(text: string): string {
-    return personalize(text, player.name, player.gender, player.maritalStatus)
+    return personalize(text, player.name)
   }
 
   const mainNarrative = isBlippiWin

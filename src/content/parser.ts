@@ -232,56 +232,8 @@ export function getAllScenes(role: RoleCode): Scene[] {
   return scenes
 }
 
-// ─── Personalization ──────────────────────────────────────────────────────────
-// Tokens used in markdown content:
-//   {name}      → player's name
-//   {they}      → he / she / they
-//   {them}      → him / her / them
-//   {their}     → his / her / their
-//   {theyre}    → he's / she's / they're
-//   {theyve}    → he's / she's / they've
-//   {They}      → He / She / They  (capitalized)
-//   {Them}      → Him / Her / Them
-//   {Their}     → His / Her / Their
-//   {spouse}    → wife / husband / partner
-//   {spouseposs}→ wife's / husband's / partner's
-
-import type { Gender, MaritalStatus } from '../types/game'
-
-const pronounMap: Record<Gender, Record<string, string>> = {
-  male: {
-    they: 'he', them: 'him', their: 'his', theyre: "he's", theyve: "he's",
-    They: 'He', Them: 'Him', Their: 'His',
-  },
-  female: {
-    they: 'she', them: 'her', their: 'her', theyre: "she's", theyve: "she's",
-    They: 'She', Them: 'Her', Their: 'Her',
-  },
-  neutral: {
-    they: 'they', them: 'them', their: 'their', theyre: "they're", theyve: "they've",
-    They: 'They', Them: 'Them', Their: 'Their',
-  },
-}
-
-const spouseMap: Record<MaritalStatus, Record<string, string>> = {
-  married: { spouse: 'spouse', spouseposs: "spouse's" },
-  single: { spouse: 'partner', spouseposs: "partner's" },
-  complicated: { spouse: 'partner', spouseposs: "partner's" },
-}
-
-export function personalize(
-  text: string,
-  name: string,
-  gender: Gender,
-  maritalStatus: MaritalStatus
-): string {
-  let out = text.replace(/\{name\}/g, name)
-  const pronouns = pronounMap[gender]
-  const spouses = spouseMap[maritalStatus]
-  for (const [token, value] of Object.entries({ ...pronouns, ...spouses })) {
-    out = out.replace(new RegExp(`\\{${token}\\}`, 'g'), value)
-  }
-  return out
+export function personalize(text: string, name: string): string {
+  return text.replace(/\{name\}/g, name)
 }
 
 // ─── Ending variant helpers ───────────────────────────────────────────────────

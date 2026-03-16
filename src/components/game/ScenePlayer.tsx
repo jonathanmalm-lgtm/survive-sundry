@@ -41,8 +41,7 @@ export default function ScenePlayer({
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [outcomeText, setOutcomeText] = useState<string | null>(null)
 
-  const p = (text: string) =>
-    personalize(text, player.name, player.gender, player.maritalStatus)
+  const p = (text: string) => personalize(text, player.name)
 
   function handleChoice(choiceId: string) {
     if (selectedId) return

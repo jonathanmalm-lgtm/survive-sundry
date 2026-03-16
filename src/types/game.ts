@@ -1,14 +1,10 @@
 // ─── Player ───────────────────────────────────────────────────────────────────
 
 export type RoleCode = 'WL' | 'TL' | 'KM' | 'FI' | 'AD' | 'CP' | 'SM'
-export type Gender = 'male' | 'female' | 'neutral'
-export type MaritalStatus = 'married' | 'single' | 'complicated'
 
 export interface PlayerProfile {
   name: string
   role: RoleCode
-  gender: Gender
-  maritalStatus: MaritalStatus
 }
 
 // ─── Scores ───────────────────────────────────────────────────────────────────
