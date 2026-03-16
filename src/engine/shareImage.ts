@@ -69,11 +69,11 @@ export async function generateShareImage({
   // ── Top branding ──────────────────────────────────────────────────────────
   ctx.fillStyle = '#9ca3af'
   ctx.font = '600 38px system-ui, -apple-system, sans-serif'
-  ctx.fillText('EXECUTION CHURCH', S / 2, 110)
+  ctx.fillText('SURVIVE SUNDAY', S / 2, 110)
 
   ctx.fillStyle = '#6b7280'
   ctx.font = '400 24px system-ui, -apple-system, sans-serif'
-  ctx.fillText('"Make Disciples or Else"', S / 2, 158)
+  ctx.fillText('A choose-your-own ministry adventure game.', S / 2, 158)
 
   // Red accent bar
   const barW = 120
