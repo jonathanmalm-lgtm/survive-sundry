@@ -6,8 +6,6 @@ endings:
     shareText: "I GOT FIRED FROM EXECUTION CHURCH."
     shareVariants:
       - "I GOT FIRED FROM EXECUTION CHURCH."
-      - "EXECUTION CHURCH LET ME GO. I'M A REALTOR NOW."
-      - "FIRED. AT LEAST I HAVE THE GUITAR."
   - id: 2
     title: "Reassigned. Worship Scheduling and Compliance Coordinator."
     condition: "Ministry < 40, Relational < 40, Self-Aware > 60"
