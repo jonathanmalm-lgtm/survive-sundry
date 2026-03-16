@@ -204,7 +204,7 @@ function parseEndings(raw: string): Ending[] {
 // ─── Public API ───────────────────────────────────────────────────────────────
 
 function fileKey(role: RoleCode, filename: string): string {
-  return `../content/roles/${role}/${filename}`
+  return `./roles/${role}/${filename}`
 }
 
 export function getIntro(role: RoleCode): IntroContent | null {
