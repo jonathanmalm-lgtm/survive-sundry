@@ -113,7 +113,7 @@ export default function ScenePlayer({
       </h2>
 
       {/* Scene image placeholder */}
-      <ImagePlaceholder imageKey={scene.image} />
+      {!outcomeText && <ImagePlaceholder imageKey={scene.image} />}
 
       {/* Narrative */}
       {!outcomeText && (
