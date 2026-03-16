@@ -35,19 +35,32 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
 
   if (step === 'welcome') {
     return (
-      <div className="flex flex-col flex-1 justify-center items-center text-center px-4 py-12 gap-6">
-        <div>
-          <h1 className="text-4xl font-bold text-[#1c1c1c] tracking-tight leading-none mb-2">
+      <div className="flex flex-col flex-1">
+        {/* Black bar */}
+        <div className="bg-[#1c1c1c] px-6 py-5">
+          <h1 className="text-2xl font-bold text-white tracking-tight leading-none mb-1">
             Survive Sunday
           </h1>
-          <p className="text-[#4b4b4b] text-sm">This Sunday could make or break everything.</p>
+          <p className="text-sm text-gray-400">A choose-your-own ministry adventure game.</p>
         </div>
-        <p className="text-xs text-gray-500 max-w-xs">
-          A choose-your-own-adventure for church staff. Your choices are hidden from the congregation. Your scores are hidden from you.
-        </p>
-        <Button onClick={() => setStep('name')} className="px-8">
-          Begin
-        </Button>
+
+        {/* Main block */}
+        <div className="flex flex-col flex-1 justify-center px-6 py-10 gap-5 max-w-lg mx-auto w-full">
+          <div>
+            <h2 className="text-2xl font-bold text-[#1c1c1c] leading-tight mb-1">
+              Greetings, brave minister.
+            </h2>
+            <p className="text-base font-medium text-[#4b4b4b]">
+              Welcome to the most important Sunday of your life.
+            </p>
+          </div>
+          <p className="text-sm leading-relaxed text-[#4b4b4b]">
+            You're about to face the most challenging Sunday you've ever had in ministry. Will you play it safe? Will you risk it all? Every decision leads to one critical moment. It'll determine your future as a staff member at Execution Church. Will you survive?
+          </p>
+          <Button onClick={() => setStep('name')} fullWidth>
+            Begin
+          </Button>
+        </div>
       </div>
     )
   }
