@@ -233,7 +233,9 @@ export function getAllScenes(role: RoleCode): Scene[] {
 }
 
 export function personalize(text: string, name: string): string {
-  return text.replace(/\{name\}/g, name)
+  return text
+    .replace(/\{name\}/g, name)
+    .replace(/\{first name\}/g, name)
 }
 
 // ─── Ending variant helpers ───────────────────────────────────────────────────
