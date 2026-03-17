@@ -70,7 +70,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
           onKeyDown={e => e.key === 'Enter' && name.trim() && setStep('role')}
           placeholder="Your name"
           autoFocus
-          className="w-full px-4 py-3 border border-[#dddbd8] rounded-lg text-[#1c1c1c] bg-white text-sm focus:outline-none focus:border-[#1c1c1c] placeholder-gray-400"
+          className="w-full px-4 py-3 border border-[#dddbd8] rounded-lg text-[#1c1c1c] bg-white text-base focus:outline-none focus:border-[#1c1c1c] placeholder-gray-400"
         />
         <Button
           onClick={() => setStep('role')}
@@ -122,7 +122,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
           ))}
         </div>
         <Button onClick={handleComplete} fullWidth>
-          That's me. Let's go.
+          Let's drive.
         </Button>
       </div>
     )
