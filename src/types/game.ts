@@ -60,6 +60,7 @@ export interface Scene {
 
 export interface IntroContent {
   narrative: string  // role-specific flavor text shown before name input
+  image?: string     // optional image key, e.g. 'alarm-clock'
 }
 
 // ─── Endings ──────────────────────────────────────────────────────────────────

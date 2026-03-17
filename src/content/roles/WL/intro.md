@@ -1,5 +1,6 @@
 ---
 type: intro
+image: alarm-clock
 ---
 
 Your alarm goes off at 6:30 AM. It's go time.

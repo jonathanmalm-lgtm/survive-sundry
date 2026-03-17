@@ -3,6 +3,7 @@ import type { PlayerProfile, RoleCode } from '../../types/game'
 import { getIntro, personalize } from '../../content/parser'
 import { analytics } from '../../engine/analytics'
 import Button from '../ui/Button'
+import ImagePlaceholder from '../game/ImagePlaceholder'
 
 interface OnboardingProps {
   onComplete: (player: PlayerProfile) => void
@@ -116,6 +117,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
     const narrative = personalize(intro?.narrative ?? '', name.trim())
     return (
       <div className="flex flex-col flex-1 px-4 py-8 gap-6 max-w-lg mx-auto w-full">
+        {intro?.image && <ImagePlaceholder imageKey={intro.image} />}
         <div className="flex-1 space-y-3 text-sm leading-relaxed text-[#4b4b4b]">
           {narrative.split('\n\n').map((para, i) => (
             <p key={i}>{para}</p>

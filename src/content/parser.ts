@@ -172,8 +172,11 @@ function parseScene(raw: string, sceneNumber: number): Scene {
 // ─── Intro parser ─────────────────────────────────────────────────────────────
 
 function parseIntro(raw: string): IntroContent {
-  const { body } = parseFrontmatter(raw)
-  return { narrative: body }
+  const { data, body } = parseFrontmatter(raw)
+  return {
+    narrative: body,
+    image: data.image ? String(data.image) : undefined,
+  }
 }
 
 // ─── Endings parser ───────────────────────────────────────────────────────────
