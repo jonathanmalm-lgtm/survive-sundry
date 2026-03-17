@@ -1,6 +1,7 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import type { Scene, GameState, ChoiceRecord } from '../../types/game'
 import { personalize } from '../../content/parser'
+import { useTTS } from '../../engine/tts'
 import {
   applyScoreDelta,
   addFlag,
@@ -34,6 +35,7 @@ export default function ScenePlayer({
   onAdvance,
 }: ScenePlayerProps) {
   const { player } = state
+  const { speak, stop } = useTTS()
 
   // Randomize choice order once on scene mount
   const shuffledChoices = useMemo(() => shuffle(scene.choices), [scene.sceneNumber])
@@ -42,6 +44,17 @@ export default function ScenePlayer({
   const [outcomeText, setOutcomeText] = useState<string | null>(null)
 
   const p = (text: string) => personalize(text, player.name)
+
+  // Read narrative on mount; stop when unmounting (scene change)
+  useEffect(() => {
+    speak(p(scene.narrative))
+    return () => stop()
+  }, [])
+
+  // Read outcome text when it appears
+  useEffect(() => {
+    if (outcomeText) speak(outcomeText)
+  }, [outcomeText])
 
   function handleChoice(choiceId: string) {
     if (selectedId) return
@@ -106,10 +119,6 @@ export default function ScenePlayer({
           <span className="text-xs text-gray-400">· {scene.location}</span>
         )}
       </div>
-
-      <h2 className="text-lg font-semibold text-[#1c1c1c] leading-tight -mt-2">
-        {scene.title}
-      </h2>
 
       {/* Scene image placeholder */}
       {!outcomeText && <ImagePlaceholder imageKey={scene.image} />}
