@@ -21,8 +21,8 @@ export function createInitialState(player: PlayerProfile): GameState {
     version: CURRENT_VERSION,
     phase: 'playing',
     player,
-    currentScene: 0,
-    visitedScenes: [0],
+    currentScene: 1,
+    visitedScenes: [0, 1],
     choices: [],
     flags: [],
     scores: {

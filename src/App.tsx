@@ -27,7 +27,7 @@ export default function App() {
   // ── Playing ───────────────────────────────────────────────────────────────
 
   if (state.phase === 'playing') {
-    const sceneNum = state.currentScene === 0 ? 1 : state.currentScene
+    const sceneNum = state.currentScene
     const scene = getScene(state.player.role, sceneNum)
 
     if (!scene) {
