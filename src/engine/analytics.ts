@@ -26,4 +26,16 @@ export const analytics = {
   imageShared(method: 'webshare' | 'download' | 'copylink', endingId: number, role: string) {
     posthog.capture('image_shared', { method, ending_id: endingId, role })
   },
+
+  sceneViewed(scene: number, role: string) {
+    posthog.capture('scene_viewed', { scene, role })
+  },
+
+  gameRestarted() {
+    posthog.capture('game_restarted')
+  },
+
+  ttsToggled(enabled: boolean) {
+    posthog.capture('tts_toggled', { enabled })
+  },
 }

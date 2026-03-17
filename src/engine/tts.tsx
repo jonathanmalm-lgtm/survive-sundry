@@ -1,4 +1,5 @@
 import { createContext, useContext, useEffect, useRef, useState } from 'react'
+import { analytics } from './analytics'
 
 interface TTSContextValue {
   enabled: boolean
@@ -39,6 +40,7 @@ export function TTSProvider({ children }: { children: React.ReactNode }) {
       const next = !prev
       localStorage.setItem('tts-enabled', String(next))
       if (!next) window.speechSynthesis.cancel()
+      analytics.ttsToggled(next)
       return next
     })
   }

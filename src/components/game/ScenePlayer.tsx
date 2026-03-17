@@ -45,8 +45,9 @@ export default function ScenePlayer({
 
   const p = (text: string) => personalize(text, player.name)
 
-  // Read narrative on mount; stop when unmounting (scene change)
+  // Track scene view + read narrative on mount; stop when unmounting (scene change)
   useEffect(() => {
+    analytics.sceneViewed(scene.sceneNumber, player.role)
     speak(p(scene.narrative))
     return () => stop()
   }, [])

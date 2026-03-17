@@ -2,6 +2,7 @@ import './App.css'
 import { useGameState, advanceScene, getProgressSegments } from './engine/gameState'
 import type { PlayerProfile } from './types/game'
 import { getScene } from './content/parser'
+import { analytics } from './engine/analytics'
 import Screen from './components/ui/Screen'
 import ProgressBar from './components/ui/ProgressBar'
 import Onboarding from './components/onboarding/Onboarding'
@@ -75,7 +76,7 @@ export default function App() {
   if (state.phase === 'result') {
     return (
       <Screen>
-        <ResultScreen state={state} onRestart={resetGame} />
+        <ResultScreen state={state} onRestart={() => { analytics.gameRestarted(); resetGame() }} />
       </Screen>
     )
   }
