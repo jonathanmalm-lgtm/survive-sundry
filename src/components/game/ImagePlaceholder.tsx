@@ -5,14 +5,15 @@ interface ImagePlaceholderProps {
 
 // Real images — add entries here as photos are provided
 const images: Record<string, string> = {
-  'parking-lot':  '/images/parking-lot.png',
-  'oboe':         '/images/oboe.png',
-  'glamour-shots': '/images/glamour-shots.png',
-  'alarm-clock':  '/images/alarm-clock.png',
-  'greg':         '/images/greg.png',
-  'iced-coffee':  '/images/iced-coffee.png',
-  'jordan':       '/images/jordan.png',
-  'ron':          '/images/ron.png',
+  'parking-lot':  '/images/parking-lot.jpg',
+  'oboe':         '/images/oboe.jpg',
+  'glamour-shots': '/images/glamour-shots.jpg',
+  'alarm-clock':  '/images/alarm-clock.jpg',
+  'greg':         '/images/greg.jpg',
+  'iced-coffee':  '/images/iced-coffee.jpg',
+  'jordan':       '/images/jordan.jpg',
+  'ron':          '/images/ron.jpg',
+  'mom':          '/images/mom.jpg',
 }
 
 // Placeholder labels for scenes without a real image yet
