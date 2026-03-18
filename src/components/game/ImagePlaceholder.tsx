@@ -12,6 +12,7 @@ const images: Record<string, string> = {
   'greg':         '/images/greg.png',
   'iced-coffee':  '/images/iced-coffee.png',
   'jordan':       '/images/jordan.png',
+  'ron':          '/images/ron.png',
 }
 
 // Placeholder labels for scenes without a real image yet
