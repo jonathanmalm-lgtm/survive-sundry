@@ -34,21 +34,17 @@ export default function ResultScreen({ state, onRestart }: ResultScreenProps) {
 
   const canvasRef          = useRef<HTMLCanvasElement | null>(null)
   const [imageUrl, setImageUrl]   = useState<string | null>(null)
-  const [includeName, setIncludeName] = useState(false)
   const [copied, setCopied]       = useState(false)
   const [isSharing, setIsSharing] = useState(false)
 
   // Re-generate image when name toggle changes
   useEffect(() => {
     if (!shareText) return
-    generateShareImage({
-      shareText,
-      playerName: includeName ? player.name : undefined,
-    }).then(canvas => {
+    generateShareImage({ shareText }).then(canvas => {
       canvasRef.current = canvas
       setImageUrl(canvas.toDataURL('image/png'))
     })
-  }, [includeName, shareText, player.name])
+  }, [shareText])
 
   // Track ending once
   useEffect(() => {
@@ -114,27 +110,6 @@ export default function ResultScreen({ state, onRestart }: ResultScreenProps) {
           </div>
         )}
       </div>
-
-      {/* Name toggle */}
-      <button
-        onClick={() => setIncludeName(v => !v)}
-        className="flex items-center gap-3 text-left w-full"
-      >
-        <div
-          className={[
-            'w-10 h-6 rounded-full transition-colors duration-200 relative flex-shrink-0',
-            includeName ? 'bg-[#1c1c1c]' : 'bg-gray-200',
-          ].join(' ')}
-        >
-          <span
-            className={[
-              'absolute top-1 w-4 h-4 bg-white rounded-full shadow transition-transform duration-200',
-              includeName ? 'translate-x-5' : 'translate-x-1',
-            ].join(' ')}
-          />
-        </div>
-        <span className="text-sm text-[#4b4b4b]">Include my name in the image</span>
-      </button>
 
       {/* Share buttons */}
       <div className="space-y-2">
