@@ -19,7 +19,7 @@ export function resolveEnding(scores: Scores, flags: string[]): EndingResult {
   // distinguish endings within each middle tier. This produces approximately
   // equal probability (~12.5%) for each ending under random play.
   //
-  // Expected score means: ministry ≈ 60, relational ≈ 70, selfAware ≈ 50
+  // Expected score means: ministry ≈ 57.5, relational ≈ 70, selfAware ≈ 48
   // Normalization subtracts these so each score is compared on equal footing.
 
   let endingId: number
@@ -27,11 +27,11 @@ export function resolveEnding(scores: Scores, flags: string[]): EndingResult {
   const total = ministry + relational + selfAware
 
   // Normalize each score relative to its expected mean
-  const nm = ministry - 60
+  const nm = ministry - 57.5
   const nr = relational - 70
-  const ns = selfAware - 50
+  const ns = selfAware - 48
 
-  if (total < 75) {
+  if (total < 70) {
     // Very rough Sunday across the board
     endingId = 1
   } else if (total < 175) {
@@ -43,7 +43,7 @@ export function resolveEnding(scores: Scores, flags: string[]): EndingResult {
     } else {
       endingId = 2  // Self-awareness was your best relative area → reassigned
     }
-  } else if (total < 275) {
+  } else if (total < 290) {
     // Above average — one area held you back (relative weakness)
     if (nm <= nr && nm <= ns) {
       endingId = 6  // Ministry was your relative weak spot → "we'll do better"
