@@ -60,9 +60,9 @@ We've appreciated your time here, {first name}. I want you to know we love you a
 
 You zone out as you open the greeting card. It's a sympathy card from the dollar rack. Inside you see best wishes from all your co-workers –now former co-workers – at Execution Church. Someone even drew a guitar in there.
 
-As you exit the building you make a plan. Real estate. That was always your fallback.
+When this meeting is over you'll make a plan. Real estate. That was always your fallback.
 
-You pull out your phone and sign up for a course to get your license. Being available to show clients a house at last minute's notice might be a nice break from the stressful pace of ministry.
+You'll pull out your phone and sign up for a course to get your license. Being available to show clients a house at last minute's notice might be a nice break from the stressful pace of ministry.
 
 You're going to be okay.
 
@@ -72,7 +72,7 @@ You enter and sit down across the desk from your pastor. He slides a piece of pa
 
 Yep. The former worship leader at the disgraced megachurch is now your new boss. Maybe it won't be the worst thing.
 
-It is. You spend the next three years deep in the trenches of Planning Center doing things nobody should be doing in Planning Center. You're regularly reminded that you "get to do this."
+You'll spend the next three years deep in the trenches of Planning Center doing things nobody should be doing in Planning Center. You'll regularly be reminded that you "get to do this."
 
 ## Ending 3
 
@@ -100,7 +100,9 @@ Of course you've heard of Redemption City Church. It's the megachurch down the s
 
 You agree. That call ends.
 
-You walk into the meeting with your pastor. From your end, the conversation is on autopilot. All you can think about is the promised land of Redemption City Church. You start there in two months.
+You walk into the meeting with your pastor. From your end, the conversation is on autopilot. All you can think about is the promised land of Redemption City Church. You'll start there in two months.
+
+The meeting finally wraps up.
 
 ## Ending 5
 
@@ -124,13 +126,13 @@ You hang your head. You thought Pastor had forgotten that nightmare Sunday. Inst
 
 He shakes his head slowly. "We'll do better next time."
 
+Hopefully.
+
 ## Ending 7
 
 You enter. Pastor smiles. You've been doing a great job lately.
 
-He slides an envelope across his desk. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful. It's a symbol." On the way home you stop at the grocery store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You can afford this now.
-
-You frame the letter announcing the pay increase. This feels like validation. Finally.
+He slides an envelope across his desk. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful. It's a symbol." On the way home you'll stop at the grocery store. You'll stand in the pasta aisle for a long time. You'll pick up the store-brand ramen. You'll put it back, then pick up the Maruchan. You'll hold it for a moment realizing you can afford that now.
 
 ## Ending 8
 
@@ -144,9 +146,7 @@ Does it come with a raise? Well... no. But it's a huge step in your ministry car
 
 "You earned this," Pastor says.
 
-You shake his hand as you leave.
-
-Your new business cards arrive in three weeks. You update your title on the church website. Life is good.
+Your new business cards will arrive in three weeks. You'll update your title on the church website. Life is good.
 
 ## Blippicoin Win
 
@@ -162,4 +162,4 @@ You check the app. That $200 you dropped on a whim is worth 1 cent. You didn't e
 
 ## Meme Account
 
-Oh, and by the way. I know about your secret meme account. It's pretty funny. But maybe it's best to process our frustrations without posting them online. Just a thought.
+"One last thing," Pastor says. "I know about your secret meme account. It's pretty funny. But maybe it's best to process our frustrations without posting them online. Just a thought."

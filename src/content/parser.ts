@@ -262,5 +262,5 @@ export function getEndingVariants(role: RoleCode): Record<string, string> {
 // Returns the setup intro text shown before every meeting.
 // Hard-coded — same for all roles.
 export function getMeetingSetup(): string {
-  return "One month later. You're standing outside Pastor Dave's office. He has taped a piece of paper to the door. It says: \"It's show business, not show friends.\" You knock. \"Come in.\""
+  return "One month later, you're standing outside your pastor's office. He called a one-on-one meeting with you. It sounded important."
 }
