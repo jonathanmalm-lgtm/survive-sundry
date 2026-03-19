@@ -51,9 +51,12 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
     return personalize(text, player.name)
   }
 
-  const mainNarrative = isBlippiWin
-    ? (variants['blippicoin win'] ?? ending?.narrative ?? '')
-    : (ending?.narrative ?? '')
+  const mainNarrative = ending?.narrative ?? ''
+  const blippiVariant = isBlippiWin
+    ? (variants['blippicoin win'] ?? '')
+    : isBlippiLose
+      ? (variants['blippicoin lose'] ?? '')
+      : ''
 
   return (
     <div className="py-8 px-4 space-y-6 text-sm leading-relaxed max-w-lg mx-auto w-full">
@@ -72,6 +75,20 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
           {p(setup)}
         </p>
       </div>
+
+      {/* BlippiCoin variant — shown before the ending */}
+      {blippiVariant && (
+        <div
+          className="border-l-2 pl-4 space-y-2"
+          style={{ borderColor: '#dddbd8', color: '#4b4b4b' }}
+        >
+          {blippiVariant.split('\n\n').map((para, i) => (
+            <p key={i} style={{ lineHeight: '1.75' }}>
+              {p(para)}
+            </p>
+          ))}
+        </div>
+      )}
 
       {/* Ending title */}
       {ending && (
@@ -109,20 +126,6 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
           style={{ borderColor: '#dddbd8', color: '#4b4b4b' }}
         >
           {variants['meme account'].split('\n\n').map((para, i) => (
-            <p key={i} style={{ lineHeight: '1.75' }}>
-              {p(para)}
-            </p>
-          ))}
-        </div>
-      )}
-
-      {/* BlippiCoin lose variant — shown after main narrative */}
-      {isBlippiLose && variants['blippicoin lose'] && (
-        <div
-          className="border-l-2 pl-4 space-y-2"
-          style={{ borderColor: '#dddbd8', color: '#4b4b4b' }}
-        >
-          {variants['blippicoin lose'].split('\n\n').map((para, i) => (
             <p key={i} style={{ lineHeight: '1.75' }}>
               {p(para)}
             </p>

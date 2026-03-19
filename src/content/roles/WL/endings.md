@@ -9,112 +9,157 @@ endings:
   - id: 2
     title: "Reassigned. Worship Scheduling and Compliance Coordinator."
     condition: "Ministry < 40, Relational < 40, Self-Aware > 60"
-    shareText: "I'M NOW THE WORSHIP SCHEDULING AND COMPLIANCE COORDINATOR."
+    shareText: "I GOT RE-ASSIGNED TO A CRAPPY JOB AT EXECUTION CHURCH."
     shareVariants:
-      - "I'M NOW THE WORSHIP SCHEDULING AND COMPLIANCE COORDINATOR."
-      - "WORSHIP SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH."
+      - "I HATE MY NEW JOB AT EXECUTION CHURCH."
+      - "I GOT RE-ASSIGNED TO A CRAPPY JOB AT EXECUTION CHURCH."
   - id: 3
     title: "Tanner is your new boss. He has thoughts about frequency."
     condition: "Ministry > 60, Relational < 40, Self-Aware < 40"
-    shareText: "TANNER IS MY NEW BOSS AT EXECUTION CHURCH."
+    shareText: "MY NEW BOSS AT EXECUTION CHURCH IS THE PASTOR'S KID"
     shareVariants:
-      - "TANNER IS MY NEW BOSS AT EXECUTION CHURCH."
-      - "MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL."
+      - "THE PASTOR'S KID IS MY NEW BOSS AT EXECUTION CHURCH. I HATE MY LIFE."
   - id: 4
     title: "They called. Redemption City Church. Full benefits. Relocation package."
     condition: "Ministry > 60, Relational < 40, Self-Aware > 60"
-    shareText: "REDEMPTION CITY CHURCH CALLED. I'M OUT."
+    shareText: "REDEMPTION CITY POACHED ME FROM EXECUTION CHURCH."
     shareVariants:
-      - "REDEMPTION CITY CHURCH CALLED. I'M OUT."
-      - "THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. I ANSWERED."
+      - "THE MEGACHURCH DOWN THE STREET STOLE ME FROM EXECUTION CHURCH."
   - id: 5
     title: "Well done, good and faithful servant. Let's plan next Sunday."
     condition: "All three meters above 70"
     shareText: "I SURVIVED SUNDAY AT EXECUTION CHURCH."
     shareVariants:
       - "I SURVIVED SUNDAY AT EXECUTION CHURCH."
-      - "WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY."
-      - "I SURVIVED EXECUTION CHURCH. ASK ME HOW."
+      - "I BARELY SURVIVED SUNDAY AT EXECUTION CHURCH."
   - id: 6
     title: "We'll do better next time."
     condition: "Ministry < 60, Relational > 60, Self-Aware > 60"
-    shareText: "I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH."
+    shareText: "I COULD HAVE DONE BETTER AT EXECUTION CHURCH."
     shareVariants:
       - "I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH."
   - id: 7
     title: "Pay raise. You can now afford brand name Ramen noodles."
     condition: "Ministry < 40, Relational > 60, Self-Aware < 40"
-    shareText: "I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW."
+    shareText: "I GOT A RAISE FROM EXECUTION CHURCH. I CAN AFFORD NAME-BRAND RAMEN NOW!"
     shareVariants:
-      - "I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW."
-      - "PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER."
+      - "I GOT A RAISE AT EXECUTION CHURCH!"
   - id: 8
     title: "Promoted. Better title. Real authority. Absolutely no pay raise."
     condition: "Ministry > 70, Relational > 70, Self-Aware < 40"
     shareText: "I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH."
     shareVariants:
-      - "I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH."
-      - "NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH."
+      - "I GOT A JOB PROMOTION AT EXECUTION CHURCH! MORE RESPONSIBILITY, SAME PAY."
 ---
 
 ## Ending 1
 
-Pastor Dave is sitting at his desk. Not on his phone. Just looking at you. There's a banker's box on the corner of his desk. Your coffee mug is on top of it. He lets the silence do most of the work. "I want you to know that we love you. And we believe God has a plan for your life." Pause. "We've also been talking to a guy named Gary." The meeting takes eleven minutes. On the way out Brenda from admin hands you a card the staff signed. Someone drew a guitar on it. Someone wrote "Onward and Upward!" You sit in your car for a while. There's an ad for a real estate licensing course. "Start a New Chapter." You click it.
+You enter. Your Pastor is sitting at his desk. He hands you a greeting card envelope.
 
-Your first listing is Ron's house. Ron has a lot of feedback about the staging.
+We've appreciated your time here, {first name}. I want you to know we love you and believe the best for you. But we think your talents would be used best elsewhere. It's nothing personal, but...
+
+You zone out as you open the greeting card. It's a sympathy card from the dollar rack. Inside you see best wishes from all your co-workers –now former co-workers – at Execution Church. Someone even drew a guitar in there.
+
+As you exit the building you make a plan. Real estate. That was always your fallback.
+
+You pull out your phone and sign up for a course to get your license. Being available to show clients a house at last minute's notice might be a nice break from the stressful pace of ministry.
+
+You're going to be okay.
 
 ## Ending 2
 
-Pastor Dave slides a piece of paper across the desk. The title says "Worship Scheduling and Compliance Coordinator." Compliance. The word just sits there. "We think your self-awareness is actually a real gift. You're going to be great at identifying problems."
+You enter and sit down across the desk from your pastor. He slides a piece of paper across his desk. The title says "Assistant to the Worship Leader." He expresses how much of an asset to the team you've been. You have valuable skills and they'll be put to best use in this new role. Under Greg.
 
-You will spend the next three years sending calendar reminders to people who do not read calendar reminders. Gary will cc himself on several of them.
+Yep. The former worship leader at the disgraced megachurch is now your new boss. Maybe it won't be the worst thing.
+
+It is. You spend the next three years deep in the trenches of Planning Center doing things nobody should be doing in Planning Center. You're regularly reminded that you "get to do this."
 
 ## Ending 3
 
-The meeting starts normally. Then the door opens. It's Tanner. He is 24. He has a podcast with 340 subscribers. He spent six months at Bethel and came back with a vocabulary that is mostly the word "activation." He sits down next to you. He opens a leather journal. On the first page: "VISION DOWNLOAD" in large letters. "I actually had some initial thoughts about the worship direction," Tanner says. "God's been speaking to me about frequency." You look at Pastor Dave. Pastor Dave is already looking at his phone.
+You enter. Pastor's sitting at his desk. Tanner, his twenty-four year old son who just graduated from his fifth year at a two-year Bible college, is sitting on the couch across the room. You've kept up with Tanner mostly by seeing Reels from his Instagram account that are part thirst-trap, part shallow theological takes.
 
-Tanner's first directive is to remove the subwoofer. He calls it "sonically prideful." His second directive is to bring in an oboe.
+"{first name}, Tanner has some really great ideas he's been sharing about the worship team. And with him back from Bible school, we were looking for a role for him here at Execution Church."
+
+"You'd like him to work under me?" you ask.
+
+"Not exactly," Pastor says.
+
+"Wait. Tanner's going to be my new boss?"
+
+"We'll work out the details in the next few weeks."
 
 ## Ending 4
 
-You're in the parking lot. Four minutes before the meeting. Your phone rings. Unknown number. It's Redemption City Church. "We've been watching your team for a while. We'd love to have a conversation." You look at the clock. Three minutes until the meeting. You look at Pastor Dave's office window. The blinds are open. He's in there. Your thumb hovers over the phone.
+You're about to go inside when your phone rings. It's an unknown number with a local area code. You answer.
 
-You go into the meeting anyway. You sit down. Pastor Dave starts talking. You hear about every other word. Dave from the parking lot somehow already knows about the call. You don't know how Dave knows. Dave always knows.
+"This is Jason. I'm the pastor from Redemption City Church. Have you heard of us?"
+
+Of course you've heard of Redemption City Church. It's the megachurch down the street with a seemingly endless budget and incredible musicians. You've always dreamt of what it might be like to work there.
+
+"We actually have an opening that just came available. I've been following your work at Execution Church for a while and think you might be an incredible fit. Would you be down to get coffee?"
+
+You agree. That call ends.
+
+You walk into the meeting with your pastor. From your end, the conversation is on autopilot. All you can think about is the promised land of Redemption City Church. You start there in two months.
 
 ## Ending 5
 
-He's smiling when you walk in. Not a performance smile. The real one. He gestures to the chair. You sit. "I've been doing this for 22 years. Most people manage Sunday. A few people lead it. You led it." He slides a notepad across. Bullet points. Specific ones — Jordan's moment on stage, the way you handled the debrief, the first-time family that came back the following week and joined a small group. He noticed all of it. "Well done. Good and faithful servant. Now—" He flips the notepad. "Let's plan next Sunday." You pull out your own notes. You've had them ready for a week.
+You enter. Pastor has a warm smile on his face. He gestures to the chair. You sit.
 
-You drive home with the windows down. You eat a real meal. You sleep eight hours. Ron emails you about the hymns. You read it Monday. It is a new email. Ron will always write a new email.
+"{first name}, I've been doing this for 15 years. Most people manage Sunday. Only a few people lead it. You've been leading it. Even on challenging Sundays like a few weeks ago."
+
+You feel warm down to your toes. You don't do this for the approval of men, but it sure doesn't hurt.
+
+"Well done, good and faithful worship leader. Let's plan next Sunday."
+
+You pull out your laptop, absolutely buzzing as you plan another service.
 
 ## Ending 6
 
-He walks through a color-coded recap. The wins are green. The areas of growth are yellow. There is one red. You know which one it is before he gets there. He circles it once with his pen and moves on. "The team loves you. The congregation feels something on Sunday mornings. And you know — you actually know — where the gaps are." He shakes his head slowly. Not in disappointment. In the specific way of a man recalibrating. "We'll do better next time."
+You enter. Pastor turns his laptop screen your direction. On it, there's a color-coded evaluation of everything that happened last month at church. A couple of areas are green. The majority of it is yellow and red.
 
-The color-coded recap lives on your desk for three weeks. You look at the red circle every morning. Gary's name is not on it. This surprises you.
+"I've spend the last few weeks talking to the team trying to figure out what went wrong that week. We have a few things to work on."
+
+You hang your head. You thought Pastor had forgotten that nightmare Sunday. Instead he has a detailed plan of training outlined for the next six months of your time at Execution Church.
+
+He shakes his head slowly. "We'll do better next time."
 
 ## Ending 7
 
-The meeting goes well. Suspiciously well. He slides an envelope across. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful. It's a symbol." On the way home you stop at the grocery store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You can afford this now.
+You enter. Pastor smiles. You've been doing a great job lately.
 
-You frame the letter. Not ironically. You frame it sincerely and hang it in your apartment. Ron does not know about the raise. Ron would have thoughts about the raise. Ron will never know about the raise.
+He slides an envelope across his desk. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful. It's a symbol." On the way home you stop at the grocery store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You can afford this now.
+
+You frame the letter announcing the pay increase. This feels like validation. Finally.
 
 ## Ending 8
 
-He presents the new title. It is genuinely better. Then he presents the new responsibilities. He reads them from a list. The list is long. "—oversight of the creative team, which will now include video, design, and social — plus the new second campus launching in the fall — and of course the budget remains the same for now, but we'll absolutely revisit that in—" he checks something, "—eighteen to twenty-four months." He closes the folder. He's beaming. "Congratulations. You've earned this." You shake his hand. You smile. You say thank you. You mean it. You get to your car. You open your calendar app. You stare at it for a long time.
+You enter. Pastor smiles as you sit down.
 
-Your new business cards arrive in three weeks. Your mom asks if you're eating enough. Gary requests a meeting to discuss his role under the new structure.
+"I have great news. You've been doing such great work. We've decided to expand your role here at Execution Church."
+
+He presents the new title: Creative Director. You keep worship, but now you also get to run all video, design, and social. Plus you'll be campus pastor at the next location the church is launching.
+
+Does it come with a raise? Well... no. But it's a huge step in your ministry career. More work. Yes. But a huge step.
+
+"You earned this," Pastor says.
+
+You shake his hand as you leave.
+
+Your new business cards arrive in three weeks. You update your title on the church website. Life is good.
 
 ## Blippicoin Win
 
-You tell him about BlippiCoin. All of it. The $200. The Chad. The Chili's. You show him your portfolio on your phone. The number on the screen is $124,000. Pastor Dave stares at the phone. Then at you. Then at the phone. "You invested in a cryptocurrency backed by Blippi," he says slowly, "during the sermon." "During the offstage time," you clarify. He starts laughing. Slowly at first. Then fully. The kind of laugh that closes his eyes. He composes himself. "What do you even do with that?" You have thought about this. "Tithe it," you say. "And buy a real subwoofer." He starts laughing again.
+You briefly check your phone. There's a text from Chad. "Yo! Have you seen how BlippiCoin is doing?"
 
-Chad finds out about the $124,000. Chad texts you seventeen times in one day. You do not respond to Chad. Chad is still a bartender at Chili's. Blippi is still completely unaware that any of this happened.
+You check the app. You can't believe your eyes. That $200 you dropped on a whim is now worth $124,000. You don't even have the capacity to process that right now. It's time for your meeting with Pastor.
 
 ## Blippicoin Lose
 
-The $200 is gone. You will never get it back. The story gets funnier every time you tell it. You will tell it for years. Chad still follows up. Chad is still a bartender at Chili's.
+You briefly check your phone. There's a text from Chad. "FBI's been calling. They're saying I was complicit in something called a rug pull scheme with the BlippiCoin thing. Can you vouch for me?"
+
+You check the app. That $200 you dropped on a whim is worth 1 cent. You didn't expect anything to come of it. But you weren't expecting it to get so bad for Chad. You'll have to deal with that later. Now it's time for your meeting.
 
 ## Meme Account
 
-At one point he makes eye contact with you for slightly longer than necessary. He says: "I think it's important that we process frustrations internally as a staff." You will feel this sentence in your entire body. He moves on. He does not say anything else. He does not need to.
+Oh, and by the way. I know about your secret meme account. It's pretty funny. But maybe it's best to process our frustrations without posting them online. Just a thought.
