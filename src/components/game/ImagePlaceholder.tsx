@@ -16,6 +16,7 @@ const images: Record<string, string> = {
   'mom':          '/images/mom.jpg',
   'flash':        '/images/flash.jpg',
   'chad':         '/images/chad.jpg',
+  'guitar-case':  '/images/guitar-case.jpg',
 }
 
 // Placeholder labels for scenes without a real image yet
