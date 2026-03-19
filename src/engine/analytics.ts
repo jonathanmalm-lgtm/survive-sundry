@@ -35,7 +35,4 @@ export const analytics = {
     posthog.capture('game_restarted')
   },
 
-  ttsToggled(enabled: boolean) {
-    posthog.capture('tts_toggled', { enabled })
-  },
 }

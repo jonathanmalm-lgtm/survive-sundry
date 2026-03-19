@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { useSettings } from '../../engine/settings'
 import type { FontSize } from '../../engine/settings'
-import { useTTS } from '../../engine/tts'
 
 interface ScreenProps {
   children: React.ReactNode
@@ -22,7 +21,6 @@ const TEXT_SIZES = {
 
 export default function Screen({ children, centered = false }: ScreenProps) {
   const { fontSize, setFontSize } = useSettings()
-  const { enabled: ttsEnabled, toggle: toggleTTS } = useTTS()
   const [open, setOpen] = useState(false)
 
   return (
@@ -30,18 +28,6 @@ export default function Screen({ children, centered = false }: ScreenProps) {
       {/* Header */}
       <header className="bg-[#1c1c1c] text-white px-4 py-3 flex-shrink-0 relative">
         <div className="max-w-lg mx-auto flex items-center justify-between">
-          {/* TTS toggle */}
-          <button
-            onClick={toggleTTS}
-            className={[
-              'flex-shrink-0 px-1 py-1 transition-colors',
-              ttsEnabled ? 'text-white' : 'text-gray-500 hover:text-gray-300',
-            ].join(' ')}
-            aria-label={ttsEnabled ? 'Turn off read aloud' : 'Read aloud'}
-          >
-            {ttsEnabled ? '🔊' : '🔇'}
-          </button>
-
           {/* Branding */}
           <div className="text-center flex-1">
             <p style={{ fontSize: '16px', color: '#fff', fontWeight: 'bold', letterSpacing: '0.2em', textTransform: 'uppercase', lineHeight: 1 }}>

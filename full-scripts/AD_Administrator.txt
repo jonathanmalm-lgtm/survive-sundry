@@ -1,0 +1,673 @@
+============================================================
+ROLE: Administrator (AD)
+============================================================
+
+------------------------------------------------------------
+INTRO NARRATIVE
+------------------------------------------------------------
+Your alarm goes off at 6:00. You have seventeen unread emails from last night. You read them before getting out of bed. Three require responses before 8 AM. You draft two of them in your head while making breakfast. Someone asks what you're thinking about. "Nothing," you say. "Catering invoices," you say, two seconds later.
+
+Sunday is technically not your domain. Sunday is pastoral. Sunday is creative. Sunday is the front of the house and you are the back. But the back runs the front, and everyone knows it, and Pastor Dave knows it, and that is why you are going in at 7:00 AM on your day off because the folding chair count for Service 2 is twelve short and nobody else noticed.
+
+Welcome to Execution Church. Today is Sunday. This Sunday could make or break everything.
+
+============================================================
+SCENE 1: The Facility Report
+Time: 7:00 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+You arrive at 6:58 AM because 7:00 AM is late in church world and you've known this since 2011. The lobby smells like carpet cleaner and something else — something warm, mechanical, and wrong. You locate the source immediately: the HVAC unit above the east wing is making a sound that HVAC units are not supposed to make. It is a wet, rhythmic clicking. You have heard this sound before. It cost $4,200 before.
+
+The thermostat reads 62°F. It is March. The unit is running but producing nothing. You check the facilities log on your clipboard. The last maintenance note says "looked fine" and is dated fourteen months ago. The person who wrote that note no longer works here. You are the person who works here.
+
+First service is in three hours. Two hundred people will sit in this room. The senior pastor will not know about this until it is already fixed or already a disaster. That is the job.
+
+DECISION: What do you do about the broken HVAC?
+
+--- CHOICE A (bold) ---
+Text: Call the HVAC guy now. It's an emergency.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You call Terry — not the HVAC company on the approved vendor list, but Terry specifically, because Terry answers on Sunday mornings and owes you one from the incident with the burst pipe in December. He picks up on the second ring. He says he can be there by 8:30. He also says "this is the last time" in a tone that suggests it is not the last time. The unit is running by 9:15. The lobby reaches 68°F before first service. Nobody knows. That's the job.
+
+--- CHOICE B (cowardly) ---
+Text: Leave a sticky note for the facilities team.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+You write "HVAC — east unit — clicking noise — needs attention ASAP" on a sticky note in your best handwriting and affix it to the thermostat. You return to your clipboard. By 9:20, a volunteer named Brenda has removed the sticky note because it looked messy. The sanctuary reaches 59°F during worship. Three people leave. One of them tweets about it. The tweet says "ice church 🥶" and gets fourteen likes. You find out at the Hits & Misses meeting.
+
+--- CHOICE C (compassionate) ---
+Text: Ask Dave in the parking lot — he might know a guy.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+Dave sees you walking toward the parking lot at 7:03 AM and gives you the thumbs up before you've said a word. You explain the clicking. He tilts his head. He says "east unit?" You say yes. He says "that's a capacitor." He pulls out his phone and calls someone named Hector. Hector shows up at 8:10 with a white van that has no logo. The unit works fine. You never learn Hector's last name and you will not ask.
+
+--- CHOICE D (nuclear) ---
+Text: Reroute everything through the fellowship hall and pretend this was always the plan.
+Win Chance: 55%
+Win Scores:   Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+Flags: FELLOWSHIP_HALL_PIVOT
+
+Outcome (Win):
+You spend forty-five minutes reorganizing signage, moving the check-in stations, and telling every volunteer that the fellowship hall "has always had better acoustics anyway." It's a lie but you say it with such administrative confidence that three volunteers repeat it to newcomers like it's a selling point. The east wing stays closed. Everyone assumes it's intentional. The pastor compliments "the flow" in the H&M meeting. You do not correct him.
+
+Outcome (Lose):
+The pivot makes sense on paper. In execution, the fellowship hall check-in creates a traffic bottleneck at the coffee station, two families end up in the wrong room, and a first-time guest spends eleven minutes in the hallway before anyone helps her. She fills out a connection card anyway. Under "How did you hear about us?" she writes "Google. Also the hallway was confusing." You find the card Monday morning. You keep it.
+
+============================================================
+SCENE 2: Volunteer Call Time
+Time: 7:30 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Seven-thirty means everyone was supposed to be here at seven-fifteen. You know this. They know this. The volunteers who arrive at 7:31 will apologize with the specific energy of people who are not sorry. That's fine. You account for it.
+
+What you did not account for: three people are not here and are not going to be here. Janet texted at 6:45 to say she has "a thing." Kevin has not texted. Kevin is never going to text. Sandra texted at 7:12 to say she "forgot it was her Sunday," which is a sentence that should not be possible given that she confirmed on Thursday. You have a screenshot. You will not use the screenshot.
+
+That's a greeter, a kid-check-in volunteer, and the person who runs the connection card table. These are not decorative positions. You have twelve other volunteers standing in front of you. They are smiling. They are caffeinated. They did not sign up for extra work today.
+
+DECISION: How do you handle the three no-shows?
+
+--- CHOICE A (bold) ---
+Text: Redistribute the roles and tell people directly.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You pull up your clipboard and redistribute without preamble. "Marcus, you're on door three today. Linda, kid check-in. Tom, connection cards — I'll walk you through it, takes two minutes." Everyone adjusts. Nobody argues. Tom says "I've actually done it before" with quiet pride. You make a note to put Tom on the official schedule. This is how the volunteer pipeline has always worked: emergency, competence, promotion.
+
+--- CHOICE B (cowardly) ---
+Text: Hope the roles cover themselves and say nothing.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+You decide the gaps will fill themselves organically because people are good and the Holy Spirit provides. The door to the east entrance stands open and ungreeted for forty minutes. Eight people walk in without being acknowledged. One of them is a first-time guest who will later describe the experience as "like going to a haunted house that had a band." The connection card table has cards on it but no pens. These facts are related.
+
+--- CHOICE C (compassionate) ---
+Text: Ask for volunteers from volunteers. Gently.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+You smile at the group and say, gently, that you're a little short-staffed this morning and you'd love it if anyone felt called to stretch their role a little. Three people immediately volunteer. One of them is Brenda, who was already doing two jobs and says "I love doing three things" in a way that makes you slightly concerned about Brenda. You say thank you and mean it. You make a mental note to check on Brenda at turnover.
+
+--- CHOICE D (nuclear) ---
+Text: Text the pastor and let him ask from the stage.
+Win Chance: 45%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+Flags: PASTOR_STAGE_CALL
+
+Outcome (Win):
+You text the pastor: "We need three bodies — door 3, kids check-in, connection cards. Can you do a quick 'who wants to serve today' moment before you greet?" He texts back "love it." He does it from the stage at 9:52 with the specific warm authority that only senior pastors have. Seven hands go up. You have more volunteers than positions. Gary, already serving as head usher, raises his hand too. You do not acknowledge Gary's hand. Gary lowers it without incident.
+
+Outcome (Lose):
+The pastor misunderstands the text and announces from the stage that the church is "desperately short on volunteers across all areas" and directs people to the connection card table, which is unstaffed. Fourteen people go to the connection card table. Nobody is there. They stand in a loose, confused cluster for four minutes until you sprint across the lobby to help them. You are smiling the entire time. This is the job.
+
+============================================================
+SCENE 3: Setup
+Time: 8:00 AM  |  Location: Auditorium
+============================================================
+
+NARRATIVE:
+The auditorium setup crew did their best. You know this. They were here at 6:30. They are good people. They also set chairs in rows of nine when the diagram clearly says eight, which means the side aisles are nine inches wide and the center aisle has a gap large enough to park a small car.
+
+You have a laminated chair diagram. You have had this laminated chair diagram for three years. It lives in the facilities binder. The facilities binder lives on the shelf in your office. The setup crew has never, in three years, asked to borrow the facilities binder. You have not asked why. You are asking why now. Internally.
+
+The worship team is already on stage running through their set. They are playing something in the key of G. The lead vocalist has her eyes closed. This is beautiful and inconvenient timing.
+
+DECISION: The chairs are wrong. What do you do?
+
+--- CHOICE A (bold) ---
+Text: Reset the room yourself. Right now.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You put down your clipboard and start moving chairs. You find your rhythm in about ninety seconds — pick up, step, set, step. It is meditative in the way that all physical church labor is meditative: slightly undignified, completely necessary, invisible to everyone who benefits from it. You finish in twenty-two minutes. The rows are correct. The aisles are passable. You laminate nothing new but you think about it.
+
+--- CHOICE B (cowardly) ---
+Text: The chairs are close enough. Leave them.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+You decide that chairs are just chairs and proximity to God is not determined by row width. This is theologically defensible. Practically, the side aisles cause a traffic jam during every worship transition, a woman trips over the end of a chair in row four, and the camera operator — already unhappy with sightlines — moves his tripod six inches left and knocks over a plant. The plant was fake. This does not make it better.
+
+--- CHOICE C (compassionate) ---
+Text: Ask the worship team to help — they're already in here.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+You catch the bassist's eye between songs and mime "can you help" while pointing at the chairs. He looks at the chairs, looks at you, and nods in that way that bassists nod — slow, unbothered, completely reliable. He recruits two other musicians. They move chairs with the loose efficiency of people who set up and tear down stages twice a week. The room is reset in eleven minutes. The lead vocalist never opens her eyes. This is fine.
+
+--- CHOICE D (nuclear) ---
+Text: Reframe the row gaps as 'intentional spacing for movement.'
+Win Chance: 50%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+You walk to the stage, wait for a break in rehearsal, and explain to the worship leader that you're experimenting with "wide-aisle seating for movement and response." She lights up. She uses the phrase "freedom to respond" three times in the next twenty minutes. The congregation responds more during worship than usual — partly because the concept landed, partly because the extra aisle space genuinely makes them less afraid to move. Nobody knows this was a chair diagram problem.
+
+Outcome (Lose):
+You tell two volunteers the spacing is "intentional." They tell the greeters. The greeters tell guests. By second service, a first-time attendee asks the greeter why the church doesn't have enough chairs. The greeter confidently says it's "intentional spacing for movement." The guest nods thoughtfully. "So you know it's not enough chairs." You are told about this conversation at the H&M meeting.
+
+============================================================
+SCENE 4: Greg's Paperwork
+Time: 9:00 AM  |  Location: Church Lobby
+============================================================
+
+NARRATIVE:
+The team huddle is at 9:00 AM. You are here. You have been here since 7:15 because you are always here since 7:15.
+
+The tech leader steps forward and acknowledges staffing gaps. 'God won't give you more than you can handle.' 1 Corinthians 10:13. That verse is about resisting temptation. You have a note about it in a folder somewhere. This is not the time.
+
+The campus pastor produces a $5 Chick-fil-A gift card. Staff meeting consensus. He calls Sandra's name. Sandra is the volunteer coordinator for the setup team who arrived at 6:00 AM and has personally unfolded forty-seven chairs without being asked. She receives the card with the expression of someone who didn't know they were being watched but is very glad they were.
+
+Then Greg is introduced. Former worship pastor at a well-known church that recently imploded. He is here to 'observe and encourage.' He is wearing a very good jacket. You are already thinking about the fact that Greg is in the building today and Greg is not in your system. Greg has no background check on file. Greg has no volunteer release form. Greg has no emergency contact information. Greg is in your building.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Introduce yourself and ask for his contact info right there.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+Greg is slightly surprised. He is not offended. He gives you his information with the efficiency of a man who has been in enough church systems to understand the logic. 'You're thorough,' he says. 'Yes,' you say. The campus pastor finds out Monday and says: 'Good call.' He does not thank you. He doesn't have to. This is the job.
+
+--- CHOICE B (cowardly) ---
+Text: Smile. He's the pastor's guest. It's not your problem today.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Greg observes. Greg is warm. Greg is unofficially in your building without documentation. Nothing happens today. Something happening was never the likely outcome. The unlikely outcome is still possible, which is why you have the form, which is why not using it bothers you for the rest of the day.
+
+--- CHOICE C (compassionate) ---
+Text: Welcome him warmly and flag with the campus pastor after the huddle.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The campus pastor receives the flag. He is on the phone at the time. He says 'yep, good point' in the way of someone who has filed something without processing it. Greg leaves the building undocumented. The campus pastor asks about it Monday. You have already created a protocol. You show him the protocol. He nods. He says 'good.' He walks away.
+
+--- CHOICE D (nuclear) ---
+Text: Produce the visitor background check form. Explain that anyone on stage with the congregation needs to be in the system.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Greg looks at the form. Greg is quiet for a moment. Greg fills out the form. Greg's handwriting is very neat. You file it. The campus pastor sees this exchange from across the lobby. He finds you after the huddle. 'Did you just give Greg a background check form?' 'Volunteer protocol,' you say. He looks at you. 'I know,' he says. He sounds like he means something more than he's saying.
+
+Outcome (Lose):
+Greg looks at the form. The campus pastor sees this exchange from across the lobby. The campus pastor arrives before Greg can respond. 'We don't need to do that today,' the campus pastor says, with the specific warmth of someone extinguishing a fire. Greg smiles. The campus pastor gives you a look that contains an entire private conversation. That conversation happens Monday morning.
+
+============================================================
+SCENE 5: The Calendar Conflict
+Time: 9:50 AM  |  Location: Your office
+============================================================
+
+NARRATIVE:
+Eight minutes before first service. You are doing a final pass on the week's logistics when you notice it.
+
+Two events are booked in the same room for the same Thursday evening. The marriage group. And the young adults ministry. Both have confirmed. Both have sent reminder emails. Both have chairs set up in their respective configurations in — and this is the problem — the same room, which physically cannot be configured in two different ways simultaneously, and which will discover this problem at 6:55 PM on Thursday when both leaders arrive with their groups.
+
+This was not your booking. This was here before you. But you saw it. And you are the administrator. That's how it works.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Call both parties right now and tell them there's a conflict. One of them will move.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Young adults moves to the overflow room. Marriage group stays. Both leaders receive the news with varying degrees of grace. One of them says 'no problem.' One of them says 'we've used that room for three years.' You say: 'I know. I'm sorry. Thursday at 6:55 was going to be worse.' There is a pause. 'Fair,' they say.
+
+--- CHOICE B (compassionate) ---
+Text: Text both parties with options. Give them thirty minutes to respond.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Both parties respond within twenty minutes. Young adults moves. Marriage group stays. Everyone is fine. You have resolved a conflict that didn't happen yet. You add a calendar audit to your monthly checklist. You find two more conflicts. You resolve them before they become conflicts. Nobody knows. This is the job.
+
+--- CHOICE C (cowardly) ---
+Text: This happened before your tenure. Let it surface on its own.
+Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Thursday at 6:55 PM. Both leaders arrive. Both have people. Both have chairs. They call the campus pastor. The campus pastor calls you. You are watching a movie. The movie can wait. The conversation that follows cannot. You resolve it in forty minutes over the phone. The campus pastor thanks you. The thanks is warm. The timing is 8:12 PM on a Thursday.
+
+--- CHOICE D (nuclear) ---
+Text: Email both parties and CC the campus pastor. Make it his problem.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: -10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+The campus pastor responds: 'Good catch. Can you resolve it?' 'Already on it,' you reply. He responds: 'Good.' That's the whole exchange. You file this as a win. The campus pastor's 'good' has weight. You have learned to read the weight.
+
+Outcome (Lose):
+The campus pastor responds to both parties before you can act. He resolves it himself — quickly, smoothly — and then replies to your email. His reply is three words: 'Handled it. Thanks.' The 'thanks' is warm. The 'handled it' is a note. You know the note. You have received the note before. You add a calendar audit to your Monday checklist.
+
+============================================================
+SCENE 6: The Volunteer Database
+Time: 10:20 AM  |  Location: Your desk
+============================================================
+
+NARRATIVE:
+First service is running. You have seventeen minutes of relative quiet.
+
+The volunteer database has a problem. Planning Center sent you a report this morning and you've been sitting on it because the morning was too full to address it. Now you're addressing it. The problem: a sync error has pushed 34 volunteer records to 'inactive.' These volunteers are actively serving today. They are physically present. They are not, according to the database, supposed to be here. Technically, per protocol, they should have received background check renewal notices last month. Per the database, they didn't receive anything because they were marked inactive.
+
+If anyone asks, you cannot confirm these 34 people are cleared. You can visually confirm they're here and they're the same people who have been serving for years. That is not the same as the system confirming it.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Fix the data now. Manually. One record at a time if necessary.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +20
+
+Outcome:
+You work through seventeen records before service ends. The methodology is tedious and correct. You finish the remaining records during turnover. By second service the database is clean. Nobody ever knows it wasn't. This is the job.
+
+--- CHOICE B (compassionate) ---
+Text: Reach out to the volunteers affected. Explain and apologize.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You send a brief, direct message to the 34 volunteers explaining there was a sync error, they are confirmed active, and you'll have it resolved in the system by Monday. Twelve of them reply. Eight of them say 'thank you.' Four of them ask questions you didn't anticipate. You answer each question individually. By the time first service ends you have managed a database error and four small pastoral moments.
+
+--- CHOICE C (cowardly) ---
+Text: Note the error. Schedule a fix for Monday. The service is already running.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Monday morning. Campus pastor asks why three of the 34 volunteers received background check renewal notices over the weekend — the system apparently self-corrected partway through and sent automated alerts to a subset of records before stopping. Three volunteers think their clearance expired. Two of them call the church. One of them calls from the parking lot of the church, during second service, in real time. You find out about this on Monday. The campus pastor finds out about this Monday afternoon. Monday is long.
+
+--- CHOICE D (nuclear) ---
+Text: Run a bulk delete on the corrupted records and rebuild from the master spreadsheet you maintain separately.
+Win Chance: 60%
+Win Scores:   Ministry: +20  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+The bulk delete works. The rebuild from your master spreadsheet takes 38 minutes. The database is clean by turnover. Your master spreadsheet, which you maintain in addition to the official database because you don't entirely trust the official database, is once again vindicated. You will not mention the master spreadsheet exists. Some things do not need to be explained.
+
+Outcome (Lose):
+The bulk delete removes 34 records and also, due to a relational dependency you didn't account for, removes 11 additional records that were linked to the 34. You have now removed 45 volunteer records. The rebuild is possible. The rebuild will take until Tuesday. The campus pastor discovers the database state Monday morning when he tries to pull a report. His text says: 'What happened to the volunteer records.' It is not a question. It is not a question in a way that feels significant.
+
+============================================================
+SCENE 7: Ron and the Facilities Request
+Time: 10:50 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Service is running. You are in the lobby doing what you do during service — managing logistics, watching the lobby, being available for the problems that didn't fit anywhere else.
+
+Ron finds you. Eleven years at Execution Church. Ron has a facilities request. The thermometer in Row 4, Section B has been reading cold for three weeks. Ron has logged it twice through the app. Neither log has received a response. Ron is not here to complain — Ron wants it resolved. Ron says this church runs very well operationally for the most part, and the thermostat situation suggests a gap in the facilities response system that, as the administrator, you should know about.
+
+Ron tells you what he tithes each month. It is your entire salary. From one person. Ron would like you to know that.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Listen fully, thank him, submit the request yourself on Monday.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You handle it Monday morning. The facilities team receives your direct request at 8:02 AM. The work order is created by 9:15 AM. The thermostat is serviced Tuesday afternoon. Ron receives no communication about this. On the following Sunday, Row 4 Section B is the appropriate temperature. Ron nods at it in a way that suggests he noticed. He does not say anything. He does not have to.
+
+--- CHOICE B (bold) ---
+Text: Tell him the facilities request process and walk him through it right now.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Ron walks through the app with you in the lobby during the sermon. It takes six minutes. Ron successfully submits a new request. The request is routed correctly. Ron thanks you. 'I should have come to you earlier,' Ron says. 'The app is there if you need it,' you say. 'I'll remember that,' Ron says. Ron will remember that. Ron will tell other people that. This is worth more than six minutes.
+
+--- CHOICE C (cowardly) ---
+Text: Tell him to email facilities directly. Take his name. Do nothing else.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Ron receives the facilities email address. Ron emails facilities directly. Facilities responds in eleven days. The thermostat is addressed two weeks later. Ron sends you a follow-up on week three. You have forgotten this conversation entirely. Ron has not.
+
+--- CHOICE D (nuclear) ---
+Text: Tell Ron you'll get it escalated — then CC the elders and the campus pastor, because a tither at this level deserves senior attention.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: -10  |  Self-Aware: -20
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+The campus pastor receives the email. He responds: 'Thanks — but the facilities process is fine, just needs a follow-up.' He handles the thermostat himself, which is not the intended outcome but is a functional outcome. He does not mention the CC to the elders. He does mention it the following week in a staff meeting, briefly, with a tone that makes clear this was an edge case rather than a pattern. Ron's thermostat is fixed.
+
+Outcome (Lose):
+Three elders respond to your email. One of them has questions about the facilities response SLA. One of them wants to be added to the facilities request distribution list. One of them calls the campus pastor. The campus pastor calls you during the sermon. You step outside. The thermostat issue has become a governance conversation. Ron's thermostat is eventually fixed. It takes three weeks. Ron submits a facilities request through the app. Nobody monitors the app.
+
+============================================================
+SCENE 8: The Pastor's Calendar
+Time: 11:30 AM  |  Location: Your office
+============================================================
+
+NARRATIVE:
+Turnover between services. You are checking the campus pastor's calendar as part of your standard weekly review — something you do every Sunday because Monday morning is always too late to fix something you noticed Sunday.
+
+You find a problem. Thursday afternoon. The campus pastor has a counseling session scheduled at 2:00 PM with a congregant who has been on the waiting list for six weeks. The campus pastor also has a budget review meeting with the elder board scheduled at 2:00 PM on Thursday. You booked both. Different days. You checked. You don't know how this happened. It happened.
+
+Both parties received confirmation emails. Both parties have the time blocked.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Reach out to both parties and sort it out. One of them will be gracious.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You make two calls during turnover. The counseling appointment moves to the following Monday. The congregant is gracious. You note that she has been waiting six weeks and flag it for the campus pastor with a note about the extended wait. He follows up personally. This is the right call, handled correctly.
+
+--- CHOICE B (compassionate) ---
+Text: Let the campus pastor know and let him decide which appointment to keep.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The campus pastor reads your text between services. He responds during turnover: 'Move the counseling to Monday. I'll reach out personally.' He does reach out personally. The congregant is grateful. You have protected his relationship with her by making it his call rather than yours.
+
+--- CHOICE C (cowardly) ---
+Text: This is his calendar. Flag it, let him deal with it.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Monday morning, 9:02 AM. The counseling appointment arrives. The budget meeting has also arrived. The campus pastor's office has two things happening in it simultaneously, which is not physically possible. The campus pastor calls you from his office door. His tone is not angry. His tone is specifically, carefully not angry. That specific careful not-angry is worse.
+
+--- CHOICE D (nuclear) ---
+Text: Block the campus pastor's Thursday afternoon entirely and mark it 'UNAVAILABLE' with no explanation.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: -10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+The calendar block creates a 3-hour open window that the campus pastor did not know he had. He uses two hours of it to prepare for Sunday's message, which he has been behind on all week. After service he finds you: 'Who blocked Thursday?' 'Scheduling maintenance,' you say. He looks at you for a moment. 'Okay,' he says. He means more than that.
+
+Outcome (Lose):
+The elder board calls Thursday morning to confirm the 2:00 PM meeting. The campus pastor confirms. At 1:45 PM the campus pastor looks at his calendar and sees the block. He calls you. 'Did you block my Thursday?' 'Scheduling maintenance,' you say. There is a silence. 'The elders are here,' he says. 'I know,' you say. 'This is a longer conversation,' he says. The budget meeting happens. The longer conversation also happens.
+
+============================================================
+SCENE 9: The Facility Walk
+Time: 12:10 PM  |  Location: Building
+============================================================
+
+NARRATIVE:
+Second service is running. You have twenty minutes and a habit.
+
+Your Sunday facility walk happens during second service. Every Sunday. You walk the building — lobby, hallways, restrooms, classrooms, stage loading dock, exterior. You have a mental checklist. The checklist has never been written down because writing it down would make it a policy and then it would require training and sign-off and a committee review. As a mental checklist it is just something you do.
+
+Today you notice: the men's restroom second stall has an 'Out of Order' sign that was not there this morning. The sign is handwritten. Nobody told you about this. The side exit near the kids wing has a propped-open door. It has been propped open with a rock. The rock looks like it was placed there intentionally. You do not know who placed it. You also do not know what the lobby looked like an hour ago and what it looks like now and whether those two states match.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Document everything you see. Walk the whole building.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +20
+
+Outcome:
+You find: the restroom is an actual plumbing issue, reported to facilities before you reach the lobby. The propped door has a note behind it — the kids ministry leader left it for a delivery. The delivery didn't come. You close the door. You note the rock in your facility log. The rock is now in the facility log. The facility log is the most complete record of unusual objects on this property.
+
+--- CHOICE B (compassionate) ---
+Text: Focus on the high-visibility issues. Save the rest for Monday.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You address the restroom — it's a plumbing issue, you get a work order in. The propped door you close without investigating further. Monday you'll find out about the delivery. You file 'propped door, side exit, unknown' in your notes. Your notes are extensive. Your notes are also the only place this lives.
+
+--- CHOICE C (cowardly) ---
+Text: Second service is running fine. Skip the walk this week.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Monday morning. The restroom second stall is still out of order. Six people used the broken stall over the weekend, producing two complaints and one very wet situation that Facilities is now managing. The propped door was open during second service turnover. You find out about the door from Dave, who was in the parking lot and noticed a child walk out unescorted. The child was fine. Dave followed up. Dave always follows up. Dave did not know who to call. Dave called you. It is Monday morning and Dave is calling you and the campus pastor is also calling you.
+
+--- CHOICE D (nuclear) ---
+Text: Walk the building and also itemize everything Gary has 'reorganized' this morning for a direct conversation after the H&M meeting.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Your Gary itemization is specific and documented. The conversation after the H&M meeting takes four minutes. You are direct and non-accusatory. Gary listens. Gary is quiet for a moment. Gary says: 'I was trying to help.' 'I know,' you say. 'Can we agree on a protocol for volunteer-initiated physical changes?' Gary says: 'I'll write it up.' Gary writes it up Tuesday. It is more detailed than anything you would have produced.
+
+Outcome (Lose):
+Gary receives the itemization with the energy of a man who has been preparing his defense since 8:00 AM. Gary has a counter-list. Gary's counter-list has seventeen items. Gary's counter-list includes the thermostat in Row 4 Section B, which Gary filed a facilities request about in 2023 and which was not addressed for six months. You were not the administrator in 2023. Gary knows you were not the administrator in 2023. Gary included it anyway.
+
+============================================================
+SCENE 10: Chad and BlippiCoin
+Time: 12:40 PM  |  Location: Your office
+============================================================
+
+NARRATIVE:
+Second service is running. You are at your desk. You have twelve items on your list and you are on item three when Chad arrives at your office door.
+
+Chad is a bartender at Chili's but he's very into finance. Chad has been pitching staff all morning. Chad found you because your door was open and you are the administrator and Chad has done some research and believes the administrator 'controls the budget' and he'd like to talk about BlippiCoin.
+
+Chad has a deck. The deck is about BlippiCoin — a cryptocurrency backed by Blippi, the children's entertainer. Chad says 'faith-based finance' twice. Chad describes himself as working in 'finance and also some tech stuff.'
+
+You have a policy on solicitation in church facilities. You wrote it. You know exactly where it is.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Hard no. Refer him to the policy on solicitation in church facilities.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You print the policy from your laptop. You hand it to Chad. Chad reads it. Chad looks at you. 'Is this real?' he asks. 'Yes,' you say. Chad leaves. He leaves the deck behind. You put the deck in your records as evidence of policy application. This is perhaps the most administrator thing that has ever happened.
+
+--- CHOICE B (cowardly) ---
+Text: Give him 5 minutes. You have more patience than most.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+5 minutes becomes 11. Chad is thorough. His deck has a slide titled 'FAITH-BASED FINANCE: WHY NOW.' You ask one clarifying question. You should not have asked a clarifying question. The clarifying question produces four slides you hadn't seen yet.
+
+--- CHOICE C (bold) ---
+Text: Take the deck. Tell him not to pitch staff during service hours.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad accepts this. Chad emails you the deck at 11:52 PM. The subject line is 'FOR YOUR REVIEW — URGENT OPPORTUNITY.' You respond Monday with one sentence referencing the solicitation policy. Chad follows up once more. Then stops. You file the exchange.
+
+--- CHOICE D (nuclear) ---
+Text: Invest $200 in BlippiCoin. You manage the finances of this operation. This is an investment decision.
+Win Chance: 50%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Flags: BLIPPICOIN_INVESTED
+
+Outcome (Win):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You did this from your desk in the church office. You did this using the same device on which you track the church's operational finances. BlippiCoin is worth $124,000 by the month-later meeting. You tell no one for two weeks. Then you file a tithe on the $124,000 because that seems correct. The accounting on this is genuinely unusual.
+
+Outcome (Lose):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. BlippiCoin is worth $0. You are the administrator. You manage church finances. You invested in BlippiCoin. You tell no one. You will carry this specific irony for a significant amount of time. Chad follows up twice. You do not respond to Chad. Chad is still a bartender at Chili's.
+
+============================================================
+SCENE 11: The After-Service Ask
+Time: 1:15 PM  |  Location: Your office
+============================================================
+
+NARRATIVE:
+Services are done. You are closing out the morning — updating records, closing work orders, noting what needs to follow-up — when the youth pastor appears at your office door.
+
+He wants to know if he can use the main auditorium for youth group on Wednesday evenings starting in three weeks. He says his current room 'doesn't have the right energy.' He says the worship team would benefit from 'more stage time.' He says he only needs it until around 9:00 PM.
+
+The main auditorium is booked Tuesday evenings for women's Bible study setup. Thursday evenings for marriage group and young adults. Wednesday evenings the cleaning crew comes through at 7:30 PM. The cleaning crew has a contract. The contract specifies access. The youth pastor is looking at you with the optimism of someone who has not yet been told about the cleaning crew contract.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Tell him no. Calmly. With a clear reason.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+He receives the no with better grace than you expected. He follows up with: 'Is there a timeline for when it might be available?' You tell him you'll look at the schedule and get back to him Thursday. You get back to him Thursday. You found a window. It's the second Wednesday of each month, 6:30 to 8:00 PM. He takes it. He sends a thank-you email that is genuinely warm. You read it twice.
+
+--- CHOICE B (compassionate) ---
+Text: Hear him out fully and then give him an honest answer.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+He explains the vision. He is sincere. The vision is good. You explain the constraints. The constraints are real. Together you find the second-Wednesday window. He is pleased. He thanks you. When he leaves your office you sit for a moment and think about the fact that the hardest part of this job and the best part of this job are sometimes the same thing.
+
+--- CHOICE C (cowardly) ---
+Text: Tell him to submit it through the volunteer request process. Buy yourself a week.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+He submits through the process. The process takes four days. On day three he emails you directly to check on the status. The process has not moved because the process requires your action and you have not taken the action. You take the action on day four. He gets a partial answer on day five. The answer is the same answer you would have given on Sunday. He is a little less warm about it by day five.
+
+--- CHOICE D (nuclear) ---
+Text: Say yes right now so he leaves your office. Fix it Monday.
+Win Chance: 60%
+Win Scores:   Ministry: -10  |  Relational: +10  |  Self-Aware: -20
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+You say yes. He is delighted. He leaves. Monday morning you look at the schedule and realize the second and fourth Wednesdays are the only windows and they're both currently blocked. You call him Monday. You apologize. You give him the actual window — second Wednesdays only, 6:30 to 8:00. He is gracious. He says: 'Thank you for figuring it out.' You accept this graciously. You do not explain the original yes.
+
+Outcome (Lose):
+You say yes. He emails twelve parents Monday morning announcing Wednesday nights in the main auditorium. Parents send seventeen responses by noon. Tuesday morning the women's Bible study setup crew calls to ask about the new youth group equipment left in the corner of the auditorium. You call the youth pastor. The campus pastor calls you. You are explaining the yes while untangling the implications of the yes. The youth pastor is gracious. He is confused but gracious. He is the only one who is gracious.
+
+============================================================
+SCENE 12: Hits and Misses
+Time: 20 min after last service  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Twenty minutes after second service. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+
+Campus pastor goes first. Win — both services ran. Miss — he missed a check-in window with the team during turnover. He looks around.
+
+Before your turn Gary the head usher says: 'I just want to be honest, I have a few facilities observations.' Gary has been making facilities observations since 7:15 AM and several of them have made their way to your list. You look at Gary. Gary looks at you. The campus pastor looks at both of you. The room senses something is happening between you and Gary.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Report the database error, the calendar conflict, and the facilities issue. All three.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+The campus pastor writes things down. When you get to the database error he stops writing. 'When did you catch that?' he asks. 'During setup,' you say. 'And it's fixed?' 'Clean by turnover,' you say. He writes something. He looks at Gary. 'Your observations are noted. Send them to her directly.' Gary nods. Gary will send them. Gary will CC himself.
+
+--- CHOICE B (bold) ---
+Text: Name your win — the facility walk caught something — and your one miss.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Clean. Specific. The campus pastor nods at the facility win. He asks one follow-up question about the database miss and accepts the answer. Gary's observations go unaddressed in this meeting. They will arrive in your inbox before 5:00 PM. Gary CCs himself.
+
+--- CHOICE C (cowardly) ---
+Text: Facility and ops were clean. Leave it there.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+The campus pastor accepts this. Later in the week he hears about the database issue from the tech leader. He hears about the calendar conflict from the elder board. He circles back to you Friday. The conversation is professional and not unkind. The missed opportunity to name the issues early is present in the room without being named.
+
+--- CHOICE D (nuclear) ---
+Text: Report your wins, then turn to Gary and ask him to walk through the items he moved this morning.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Gary receives the floor. Gary was not expecting the floor. Gary has been here eleven years. Gary says: 'I made some adjustments to improve flow.' You say: 'I documented those adjustments.' Gary looks at you. The campus pastor says: 'Let's align on a process for physical changes. Both of you.' Gary nods. You nod. This is the most productive thing that has happened between you and Gary all day.
+
+Outcome (Lose):
+Gary receives the floor and immediately produces a counter-list. The counter-list has seventeen items. Three of them are from 2022. The campus pastor receives the counter-list with the patience of a man who has been managing Gary for longer than you have been working here. 'Let's table this,' he says. The meeting moves on. Gary has not finished his list. Gary knows the meeting moved on. Gary will continue the list via email.
+
+Around the room: Tech reports clean. Worship says second service connected. Kids ministry describes Jackson in one sentence. First Impressions says the door felt warm but the lobby felt cold. Nobody claims the lobby. Someone says the haze was a lot today. Nobody claims the haze.
+
+'Same time next week.'
+
+Four seconds.
+
+Gary moves first.
+
+============================================================
+ENDINGS
+============================================================
+
+--- ENDING 1: Fired. You are now a realtor. ---
+Condition: All three meters below 40
+Share Text: I GOT FIRED FROM EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 2: Reassigned. Administrative Scheduling and Compliance Coordinator. ---
+Condition: Ministry < 40, Relational < 40, Self-Aware > 60
+Share Text: I'M NOW THE ADMINISTRATIVE SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: I'M NOW THE ADMINISTRATIVE SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: ADMINISTRATIVE SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 3: Tanner is your new boss. He has thoughts about frequency. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware < 40
+Share Text: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 4: They called. Redemption City Church. Full benefits. Relocation package. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware > 60
+Share Text: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. WE ANSWERED.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 5: Well done, good and faithful servant. Let's plan next Sunday. ---
+Condition: All three meters above 70
+Share Text: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY.
+  Variant: I SURVIVED EXECUTION CHURCH. ASK ME HOW.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 6: We'll do better next time. ---
+Condition: Ministry < 60, Relational > 60, Self-Aware > 60
+Share Text: I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 7: Pay raise. You can now afford brand name Ramen noodles. ---
+Condition: Ministry < 40, Relational > 60, Self-Aware < 40
+Share Text: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 8: Promoted. Better title. Real authority. Absolutely no pay raise. ---
+Condition: Ministry > 70, Relational > 70, Self-Aware < 40
+Share Text: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN WIN ---
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN LOSE ---
+[Placeholder — to be written]
+
+--- SPECIAL: MEME ACCOUNT ---
+[Placeholder — to be written]

@@ -1,0 +1,667 @@
+============================================================
+ROLE: Tech Leader (TL)
+============================================================
+
+------------------------------------------------------------
+INTRO NARRATIVE
+------------------------------------------------------------
+Your alarm goes off at 5:47 AM. Not 6:00. Someone set it for 6:00 once and you were late and you have never emotionally recovered from that. You make coffee in the dark. The house is quiet in the way that means someone is awake but not speaking, which communicates several things without requiring full consciousness. You say nothing. You were at the church until 2 AM resetting the stage. You are here now. This is the job.
+
+You have a subwoofer that facilities reported was "acting weird" and you already know exactly what that means because you heard a pop during Thursday's rehearsal and chose to believe it was fine. It was probably not fine.
+
+Welcome to Execution Church. Today is Sunday. This Sunday could make or break everything.
+
+============================================================
+SCENE 1: The Subwoofer
+Time: 6:52 AM  |  Location: Tech booth
+============================================================
+
+NARRATIVE:
+You're the first one in the building. You have a key. You go straight to the booth. You power everything up in the exact sequence you always do — the sequence you laminated and taped to the inside of the booth door after the incident last February that you do not talk about.
+
+Everything comes up clean. Except the subwoofer. It makes a sound like a disappointed sigh and then goes quiet. Not broken-quiet. Suspicious-quiet. You put your hand on it. You can feel a faint hum.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Run a full diagnostic right now.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +20
+
+Outcome:
+40 minutes. The amplifier card is failing. You know exactly how bad it is. You can plan around it — but you've lost 40 minutes of everything else.
+
+--- CHOICE B (compassionate) ---
+Text: Email the A/V vendor immediately and document everything.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Professional. Creates a paper trail. Vendor doesn't respond until Monday. But when the pastor asks what happened, you have receipts.
+
+--- CHOICE C (bold) ---
+Text: Turn it off and run the service without it.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Bold. Clean. The worship leader will notice immediately. The bass frequencies will be 'present but polite.' Ron in row 4 will actually prefer it.
+
+--- CHOICE D (nuclear) ---
+Text: Turn the amp up. If it's going to fail it might as well fail at full power.
+Win Chance: 0%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+There is no win. You step back from the subwoofer. You look at it. It hums with the new energy of something that has been asked to do more than it should. You nod at it once like you have reached an agreement. You have not reached an agreement.
+
+Outcome (Lose):
+The subwoofer survives sound check. It survives the first two songs. Halfway through the third it makes a sound that has no technical name but every audio engineer would recognize immediately. The bass frequency that exits in its final moment is so concentrated and so sudden that a kid running laps in the front row gets hit by the air displacement and goes down. Flat. On the carpet. He was not tripped. He was not pushed. He was knocked over by a sound wave from a subwoofer you turned up this morning because you had a feeling. He will tell this story for the rest of his life and nobody will fully believe him. His mom is already walking toward the booth. Ron is already composing his feedback. You are on your headset. It is 10:31 AM on a Sunday.
+
+============================================================
+SCENE 2: The Coverage Gap
+Time: 7:30 AM  |  Location: Tech booth / stage
+============================================================
+
+NARRATIVE:
+Call time is 7:30. DeShawn is here early and deep in a TikTok spiral. Kayla arrives at 7:31 looking rough — she was up until 4 AM rewatching Battlestar Galactica and has no regrets. Marcus is already at the board making adjustments. The fourth person never confirmed on Planning Center. You saw it Thursday. You chose to believe it would work itself out. It did not work itself out. Three people. Four areas.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Assign everyone and cover the gap yourself.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You are now doing two jobs. This will cost you mentally by service two. But the booth runs clean and nothing collapses.
+
+--- CHOICE B (cowardly) ---
+Text: Ask Marcus to cover lighting in addition to slides.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Marcus is now running both. His lighting during the offering involves a significant amount of deep red and one moment of strobing. His slides during the second song are so late the congregation has already moved on to the next line before the words appear. The worship leader turns around and looks at the booth. The campus pastor looks at the booth. Two different looks. Both will require conversations.
+
+--- CHOICE C (cowardly) ---
+Text: Text the unconfirmed person one more time.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+'omw' at 8:14. Arrives at 9:02. Smells like a fun Saturday night. Texts you at 10:34: 'hey which one is the lighting board'
+
+--- CHOICE D (nuclear) ---
+Text: Walk down to the kids wing and pull your lighting operator who is scheduled to serve in kids ministry this morning.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: -10  |  Self-Aware: 0
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Kids ministry is short one volunteer but manages. The kids ministry leader texts you at 8:47: 'did you take my volunteer.' It is not a question. You respond: 'I'll explain later.' She responds with a single period. A period. Not a word. Not an emoji. A period. You owe her something now. But the booth runs clean.
+
+Outcome (Lose):
+Bryson is four years old and has been looking for an opportunity all morning. The understaffing creates the opportunity. Bryson walks out of the kids wing unescorted, through the lobby, past the welcome desk, through the auditorium doors, down the center aisle, and onto the stage during the third worship song. Bryson is now on stage facing 300 people. Bryson waves. Several people wave back. The worship leader stops singing. The campus pastor is already moving from the back of the room. It takes three people and forty-five seconds to get Bryson off the stage. You will go to the kids ministry leader immediately after service. You will not make excuses. You will bring coffee.
+
+============================================================
+SCENE 3: The OS Update
+Time: 8:00 AM  |  Location: Booth, stage, everywhere simultaneously
+============================================================
+
+NARRATIVE:
+DeShawn has emerged from the TikTok spiral and is loading ProPresenter. He has already flagged that two songs are missing the last verse. Kayla has just informed you, like a doctor telling you that you have an inoperable hemorrhoid, that she updated the streaming laptop's OS this morning and now it's not working.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Run the rollback right now.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Takes 31 minutes. Kayla is locked out of the laptop during sound check. She stands next to it looking helpless. The worship leader notices.
+
+--- CHOICE B (compassionate) ---
+Text: Tell Kayla to stream from her phone as a backup and deal with the laptop after Sunday.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: 0
+
+Outcome:
+Kayla's phone stream is 720p and slightly shaky every time she adjusts her position. Three people in the stream chat type 'is something wrong with the camera.' The laptop sits untouched all morning. It will still be sitting there next week.
+
+--- CHOICE C (cowardly) ---
+Text: Google whether this is actually fixable before service.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+14-minute forum rabbit hole. Conclusion: probably fixable. You attempt it. You are probably right. Probably.
+
+--- CHOICE D (nuclear) ---
+Text: Close the laptop. It's fine. Honestly you suspect the only people who watch the livestream are Russian bots.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+You have mentioned this theory to no one. You are not entirely joking. The engagement numbers have never made sense. There are three accounts that watch every single service from start to finish, never comment, never share, and joined the channel on the same day in 2021. You have named them. You think of them sometimes. Nobody mentions the stream today. Nobody ever mentions the stream unless it breaks. It did not break today.
+
+Outcome (Lose):
+A real human tried to watch the stream today. She is 74 years old. She is the campus pastor's mother. She calls him during second service turnover to tell him the stream isn't working. He walks directly to the booth. 'My mom watches every week,' he says. You did not know his mom watches every week. You think about the Russian bots. You say nothing about the Russian bots.
+
+============================================================
+SCENE 4: Greg
+Time: 9:00 AM  |  Location: Church Lobby
+============================================================
+
+NARRATIVE:
+The team huddle is at 9:00 AM in the lobby. You are here because it is mandatory. You are mentally still in the booth.
+
+The First Impressions leader steps forward and acknowledges what everyone already knows — you're short-staffed this morning. The holes are real. But — and here he pauses for effect — 'God won't give you more than you can handle.' He says this with the confidence of someone citing Scripture. He is citing Scripture. The verse he is thinking of is 1 Corinthians 10:13, which is about resisting temptation, not running four tech areas with three people.
+
+The campus pastor produces the $5 Chick-fil-A gift card. This was decided at staff meeting — the team quietly nominated whose volunteer was most visibly on the edge. It wasn't a long discussion. There was a consensus. He calls Bri's name. Bri drove 40 minutes to be here, is covering two roles because nobody else signed up, and has been smiling hard enough that you almost missed the exhaustion underneath it. She receives the card with the expression of someone who didn't know they were being watched but is very glad they were.
+
+Greg is introduced. Former worship pastor at a well-known church that recently imploded because their pastor had a moral failure. He is here to observe and encourage. He is wearing a very good jacket. Greg looks at your booth setup notes on the table and says, with genuine warmth: 'Oh, you're in tech? We had just upgraded our whole system. Dante network, full fiber runs, the works.'
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Engage genuinely — ask about their setup, take mental notes.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Greg is actually very helpful. You get three genuinely useful tips. You also spend 11 minutes in a tech conversation while your volunteers are unsupervised in the booth.
+
+--- CHOICE B (cowardly) ---
+Text: Smile, nod, say 'that's awesome' and move on.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+Professional. Clean. Greg thinks you're focused and impressive.
+
+--- CHOICE C (bold) ---
+Text: Tell him honestly what you're working with and what you've built on it.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+Greg is genuinely impressed. He asks if you've ever considered consulting. You will think about this for several days.
+
+--- CHOICE D (nuclear) ---
+Text: Ask Greg directly if Dante was the name of the man his pastor had an affair with.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+The room goes quiet. Greg's smile stays exactly the same size for slightly too long. Then Greg laughs. Eventually. It takes four seconds but it arrives and when it does it's a real one. 'No,' he says. 'Dante is an audio networking protocol.' 'Right,' you say. 'Of course.' After service he finds you in the booth. 'That was the worst and best question anyone has asked me all year,' he says. You take this as a win.
+
+Outcome (Lose):
+The room goes quiet. Greg does not laugh. The campus pastor physically stands up straighter in the way of a man activating a professional setting he reserves for specific situations. The huddle moves on. Three volunteers near the back are visibly trying not to make eye contact with anyone. The campus pastor finds you during turnover. He says three sentences. You remember all three of them for the rest of your life.
+
+============================================================
+SCENE 5: The Kids Ministry Printer
+Time: 9:51 AM  |  Location: Tech booth
+============================================================
+
+NARRATIVE:
+Eight minutes to first service. Everything is as ready as it's going to be. DeShawn has the lyrics fixed. Kayla's situation is whatever it is. Marcus has declared the mix 'honest.' You have learned not to ask what that means.
+
+The kids ministry leader appears at the booth door. The check-in printer in the kids wing isn't working. Parents are already arriving. She needs it fixed now. She is looking at you because you are the tech person. You are not that kind of tech person. You run audio, lighting, streaming, and ProPresenter. You do not run inkjet printers manufactured in 2014 that are connected to an iPad via Bluetooth and have a paper jam that may or may not also involve a spiritual component. You know this. She knows this. She is looking at you anyway.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Go fix the printer. You can figure it out.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You leave the booth 8 minutes before first service. DeShawn is now unsupervised. Marcus is now unsupervised. You fix the printer in 6 minutes by turning it off, removing a piece of paper that has been in the feed tray since what appears to be the Obama administration, and turning it back on. You return to the booth. Something has changed in the booth. You don't know what yet. You will find out during the first song.
+
+--- CHOICE B (compassionate) ---
+Text: Walk her through it remotely from the booth.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+This takes 9 minutes and involves you describing printer parts to someone who is also managing 12 arriving children simultaneously. It works. Eventually. The first two families sign in on paper. One parent asks if the paper sign-in is more secure. You do not have time for this question.
+
+--- CHOICE C (bold) ---
+Text: Tell her to go manual — paper sign-in — and you'll look at it after service.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+She does not love this answer. She accepts this answer. You feel mildly guilty for exactly 90 seconds and then first service starts and you feel nothing except focus.
+
+--- CHOICE D (nuclear) ---
+Text: Reach into your bag, produce a pen, and present it to her with the solemn energy of someone unveiling a significant innovation.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+She stares at you. She takes the pen. She does not laugh. She does not not laugh. It is somewhere in between and you cannot read it. She leaves. DeShawn is looking at you. Marcus is looking at you. Neither of them says anything. After service she finds you in the booth and hands the pen back without a word. You take it without a word. You both nod. Something has been communicated. You are not entirely sure what.
+
+Outcome (Lose):
+She stares at you. She takes the pen. At the H&M meeting her miss is the printer. She holds up the pen when she mentions it. She looks at you. The room looks at you. The campus pastor looks at you. 'We'll get the printer fixed this week,' you say. 'Great,' he says. He writes something down.
+
+============================================================
+SCENE 6: The Meme
+Time: 10:24 AM  |  Location: Tech booth, during worship
+============================================================
+
+NARRATIVE:
+Third song. The room is engaged. Everything is going suspiciously smooth.
+
+Then it happens. The ProPresenter slide advances and instead of the verse lyrics the screen behind the worship leader displays a meme. Not just any meme. It was the single greatest meme you've ever made — a meme about your pastor. You shared it in a group chat to two coworkers who also thought it was hilarious. It was also incredibly disrespectful. And your pastor is now seeing it on a 12-foot screen.
+
+The slide gets fixed. The song continues. But the damage has been done. The pastor walks slowly toward the booth. He arrives at the booth door. He looks at you. He says: 'What was that?'
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Tell him the truth. All of it. The group chat. The Tuesday. The caption.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+He listens. He does not interrupt. When you finish he is quiet for a moment. 'Who else is in the group chat?' he asks. You tell him. He nods. He walks away. He stops after three steps. He turns around. 'It was funny,' he says. 'Don't do that again.' He walks away. You do not fully trust the compliment. The compliment is real. You still do not fully trust it.
+
+--- CHOICE B (cowardly) ---
+Text: Tell him a file got mixed into the ProPresenter deck by mistake and you have no idea where it came from.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+He looks at you. He looks at the screen where the lyrics are now correctly displayed. He looks back at you. 'A file,' he says. 'Yes,' you say. He nods slowly in the way of a man who has decided to accept an answer he does not fully believe. 'Clean it up,' he says. He walks away.
+
+--- CHOICE C (cowardly) ---
+Text: Tell him DeShawn was loading files into ProPresenter this morning and something must have gotten in there by accident.
+Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome:
+This is not a lie. DeShawn was loading files this morning. Something did get in there. You are not technically saying DeShawn made the graphic. You are allowing the pastor to arrive at that conclusion on his own. DeShawn hears you say this from across the room. DeShawn looks at you. You look at DeShawn. You look away first. DeShawn will not bring this up today. DeShawn will bring this up eventually. DeShawn will bring this up at a time and in a place entirely of his choosing.
+
+--- CHOICE D (nuclear) ---
+Text: Tell him it was probably the youth pastor. He's always in the building during the week playing Fortnite on the main screen and must have left something open.
+Win Chance: 60%
+Win Scores:   Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+The pastor's expression shifts from confused to concerned. 'I'll talk to him,' he says. He installs a shared equipment policy that actually needed to exist anyway. Something good came from something terrible. You accept this quietly and tell no one. The youth pastor never figures out it was you.
+
+Outcome (Lose):
+The youth pastor figures out it was you within 48 hours. He texts you Monday afternoon: 'really?' Just that. One word. You type and delete six different responses before settling on: 'Can we get coffee?' He responds: 'sure.' The coffee happens Wednesday. It is the most uncomfortable 45 minutes of your month. He is not angry. He is disappointed in the specific way that is so much worse than angry.
+
+============================================================
+SCENE 7: Ron's Printed List
+Time: 10:51 AM  |  Location: Back of house, during sermon
+============================================================
+
+NARRATIVE:
+Sermon is running. You step out of the booth for the first time since 6:52 AM to find water and possibly a moment of peace. You find neither. You find Ron.
+
+Ron has been attending Execution Church for eleven years. Ron stops you with a specific energy — not angry, just prepared. His feedback today is technical in nature. The mix was too loud. The bass was too heavy. The lighting during the second song was 'disorienting.' He produces a folded piece of paper from his shirt pocket. It is a printed list.
+
+Ron tells you what he tithes each month. It is your entire salary. From one person. You do not know what to do with your face right now. He is waiting for a response.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Take the list, thank him sincerely, and actually read it later.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You read it. Item 7 is actually a legitimate note about a feedback loop that you've been meaning to fix. Ron is occasionally correct.
+
+--- CHOICE B (cowardly) ---
+Text: Tell Ron you'd love his feedback submitted through the official tech feedback form in the church app.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Ron does not know how to use the church app. You spend 6 minutes showing him. It goes to the general inbox. Nobody monitors the general inbox.
+
+--- CHOICE C (bold) ---
+Text: Tell Ron the mix levels are set according to industry standards and hand the list back to him.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Ron looks at the list. Ron looks at you. Ron takes the list back. Ron folds it carefully and puts it back in his shirt pocket. 'I've been here eleven years,' he says. He walks away. The list goes back in the pocket. The list will return.
+
+--- CHOICE D (nuclear) ---
+Text: Tell Ron you've actually been running the mix loud specifically because research shows higher volume levels increase emotional engagement and therefore generosity during offering time.
+Win Chance: 60%
+Win Scores:   Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+You have made this up entirely. Ron stares at you. Ron is processing this. Ron is a tither. Ron is a significant tither. Ron is now wondering if he has been emotionally manipulated into his tithe via volume levels for eleven years. Ron takes his list back. He walks away slowly. He is thinking. Ron will research this. Ron will find conflicting information online. Ron will arrive next Sunday with printed articles.
+
+Outcome (Lose):
+Ron goes directly to the campus pastor. Ron explains what you told him. The campus pastor finds you in the booth during second service turnover. He does not raise his voice. 'Did you tell Ron we turn up the volume to manipulate giving?' 'I said increase emotional engagement,' you say. He looks at you for a moment. 'Same time next week,' he says. It is not a warm same time next week.
+
+============================================================
+SCENE 8: The Kid on the Stage
+Time: 11:32 AM  |  Location: Booth and stage
+============================================================
+
+NARRATIVE:
+Seventeen minutes between services. You have a checklist. The checklist has 14 items. You realistically have time for 10.
+
+You are on item 3 when you notice him. A kid. Maybe six years old. On the stage. Not near the stage. On the stage. He has found the worship leader's mic stand and is using it as a dance partner. He is now moving toward the keyboard. You scan the lobby. Not a single adult is tracking this child. The kid has found the keyboard. The kid has found that the keyboard makes sounds. The kid is making sounds.
+
+You have 16 minutes left of turnover. The keyboard is on. The stage is live. This child is unsupervised and curious and getting closer to things that cost more than his college fund.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Go down to the stage and redirect him yourself.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: 0
+
+Outcome:
+You leave the booth. You cross the room. You arrive at the stage and make eye contact with the kid. The kid looks at you. The kid runs. Not away from the stage. Deeper onto the stage. You are now chasing a six-year-old around the drum kit during turnover. DeShawn is watching from the booth. DeShawn will tell this story.
+
+--- CHOICE B (bold) ---
+Text: Get on the venue mic and make a general announcement asking parents to collect their children.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+The announcement echoes through the building. One of the parents is the kid's mom. She is mortified. The kid does not look mortified. The kid waves at the room. Several people wave back. You have spent venue mic time on a six-year-old.
+
+--- CHOICE C (bold) ---
+Text: Cut the power to the keyboard from the booth.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+The keyboard goes silent mid-note. The kid looks at the keyboard. The kid looks at his hands. The kid does not understand what happened. The kid presses the keys again. Nothing. The kid accepts this and moves on to the drum kit. You have solved one problem and created a different problem.
+
+--- CHOICE D (nuclear) ---
+Text: Do nothing. The stage is elevated. The gear is bolted. Teach him how to test 9-volt batteries by licking them.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+You reach into your tech bag and produce a 9-volt battery. You tell the kid you're going to teach him the most important skill in all of audio production. The kid does this without hesitation. The kid's expression in the half second after contact is one of the most pure and complete experiences of surprise you have ever witnessed on a human face. He pulls back. He looks at the battery. He looks at you. 'It works,' you say. The kid spends the rest of second service testing every 9-volt battery in your tech bag with complete focus and dedication. He has contributed meaningfully to your inventory management. You will never tell his father how.
+
+Outcome (Lose):
+The kid tells his father immediately after service with the enthusiasm of someone sharing the best thing that has ever happened to them. He is pointing at you from across the lobby. His father follows the finger. The pastor looks at the kid. The pastor looks at you. You make eye contact with the pastor. The pastor's expression moves through several distinct phases. He mouths something in your direction. You are not certain what he mouthed but you are fairly certain it was not a compliment.
+
+============================================================
+SCENE 9: Caleb
+Time: 12:09 PM  |  Location: Tech booth
+============================================================
+
+NARRATIVE:
+Second service. Worship is running. The room is engaged. You are monitoring levels, watching the stage, staying ready.
+
+Then the booth door opens. It's the pastor's kid. He is nine years old. His name is Caleb. Caleb has been in the booth before. Caleb likes the booth. Caleb likes buttons. The booth has many buttons. Caleb sits down in the empty chair next to you like a man arriving at his office. He puts his feet up on the edge of the console. He looks at the board. 'What does this one do?' he asks. His hand is already moving toward a fader.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Let him stay but keep him away from the board.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Caleb stays. Caleb is mostly fine. Caleb asks 14 questions during the remaining worship songs. You answer 11 of them. The other three you answer with 'not right now Caleb' which Caleb accepts with the patience of a child who knows 'not right now' is not a no.
+
+--- CHOICE B (bold) ---
+Text: Tell him kindly but clearly that the booth is a no-kid zone during service.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Caleb looks at you. Caleb has his father's eyes. Caleb leaves without argument. After service the pastor mentions casually that Caleb said you kicked him out of the booth. 'I redirected him,' you say. 'He said kicked,' the pastor says. He is smiling. The smile is real. You make a note to use the word redirected going forward.
+
+--- CHOICE C (bold) ---
+Text: Give Caleb a job. Tell him he's in charge of the haze machine.
+Scores:  Ministry: -10  |  Relational: +10  |  Self-Aware: -10
+
+Outcome:
+Caleb takes this responsibility extremely seriously. The haze machine during second service produces more haze than the combined total of every previous service this year. The stage disappears. The worship leader disappears. The front three rows disappear.
+
+--- CHOICE D (nuclear) ---
+Text: Let Caleb sit at the board. He can't do that much damage. You'll watch him. Also hand him a 9-volt battery.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +10  |  Self-Aware: -10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+Caleb finds a fader that feels satisfying to move and moves it. You are now in a fader negotiation with a nine-year-old during second service worship. You also handed him a battery. You win the fader negotiation. Eventually. Caleb is back the following Sunday. Caleb heads directly for the booth. He asks if you have more batteries. You do not tell him how many you have.
+
+Outcome (Lose):
+Caleb wins the fader negotiation. The volume during the last worship song is loud enough that two people in the front row put their fingers in their ears. Ron puts his fingers in his ears. Ron looks at the booth. Ron sees Caleb. Ron's expression shifts from irritated to confused. Ron will mention the child at the booth in his feedback this week. This is the first time Ron has ever been correct about something you also agree with.
+
+============================================================
+SCENE 10: Chad and BlippiCoin
+Time: 12:37 PM  |  Location: Hallway outside the booth
+============================================================
+
+NARRATIVE:
+Sermon is running. Everything is stable. You allow yourself to exhale for the first time since 6:52 AM. You tell DeShawn you'll be back in two minutes. You are going to the bathroom without a headset for the first time today and it is going to be wonderful.
+
+You make it eleven feet from the booth door before Chad finds you. Chad is a bartender at Chili's but he's very into finance. Chad has been giving you unsolicited financial advice since October. Chad has apparently been working his way through the staff all morning and has been waiting for you specifically because you are the tech person and Chad has a technology investment opportunity. Chad falls into step beside you. Chad has a deck open on his phone. The deck is about BlippiCoin — a cryptocurrency backed by Blippi, the children's entertainer. You are eleven feet from the booth. The bathroom is forty feet away. Chad is walking with you.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Hard stop. 'Not a great time, Chad.'
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad retreats. He finds the campus pastor in the lobby. He pitches BlippiCoin to the campus pastor. The campus pastor asks you about it in the H&M meeting. You make it to the bathroom.
+
+--- CHOICE B (cowardly) ---
+Text: Give him 3 minutes while you walk.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+Chad walks with you to the bathroom. Chad waits outside the bathroom. Chad resumes the pitch when you exit. 3 minutes becomes 9. You return to the booth 11 minutes after you left. Something happened on the stream while you were gone. You find out what on Monday.
+
+--- CHOICE C (bold) ---
+Text: Take his card and tell him to send you the info.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad sends a 12-slide deck at 11:52 PM: 'BLIPPICOIN — THE FUTURE OF FAITH-BASED FINANCE — Per Our Convo.' You forward it to the campus pastor with no comment. The campus pastor finds this funny. You make it to the bathroom.
+
+--- CHOICE D (nuclear) ---
+Text: Invest $200 in BlippiCoin on the spot from your phone in the hallway before you've even made it to the bathroom.
+Win Chance: 50%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Flags: BLIPPICOIN_INVESTED
+
+Outcome (Win):
+Chad is delighted. You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You did this in a hallway. You still need to use the bathroom. BlippiCoin is worth $124,000 by the month-later meeting. You check the number three times because you think you are misreading it. You are not misreading it. The first thing you do is look up whether you need to tithe on cryptocurrency gains. You will never tell anyone where you looked this up.
+
+Outcome (Lose):
+Chad is delighted. You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. BlippiCoin is worth $0. You tell no one. Chad follows up twice. Chad is still a bartender at Chili's. Blippi is completely unaware that any of this happened.
+
+============================================================
+SCENE 11: The DC Talk Guy
+Time: 1:18 PM  |  Location: Lobby / booth area
+============================================================
+
+NARRATIVE:
+Services are done. You are running a post-service diagnostic. Your husband appears. He drove separately and came to second service. He is holding two coffees. He hands you one. He doesn't say anything about the lighting or the stream or the meme or Caleb or the battery or the subwoofer or the kid who got knocked over by a sound wave. He just stands next to you while you finish the diagnostic. You drink the coffee. It is the best coffee you have ever had. It is the same coffee you have every day. Context is everything.
+
+Then a man approaches. He is 55 years old. He is large. He has wispy red hair that is doing its best. He introduces himself and tells you he wants to join your tech team. He says he doesn't need training. He says he used to tour with DC Talk. You ask in what capacity. He is vague about the capacity. What is clear is that he toured with DC Talk in some capacity, he has been in rooms with professional equipment, and he would like to start next Sunday.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Tell him your onboarding process — everyone shadows for two Sundays before touching anything.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+He takes it. He does not look thrilled about it. He shadows the following Sunday with the energy of a man completing a formality he finds unnecessary. By the end of service two you are genuinely unsure who is learning from whom.
+
+--- CHOICE B (bold) ---
+Text: Risk it. Schedule him on the board next Sunday.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: 0
+
+Outcome:
+He sits down next Sunday with the confidence of a man who has been in rooms like this before. There is one moment during the second song where he does something to the mix that perhaps made sense in 1995 on a tour bus outside of Tulsa. The congregation tilts their heads slightly. He puts his hand up before you can reach the board. 'I got it,' he says. He does get it. Eventually.
+
+--- CHOICE C (compassionate) ---
+Text: Get his number. Tell him you'll consider it. Spend 45 minutes on his social media and LinkedIn.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+His LinkedIn lists his DC Talk role as 'Production Associate — Consultant.' This tells you nothing. His Facebook is public. His Facebook is extensive. He was definitely around DC Talk. He is in several photos. In most of them he is slightly out of frame. You find one where he is fully in frame. He is holding a clipboard. You stare at the clipboard photo for longer than you should. You text him Monday: 'Welcome to the team.'
+
+--- CHOICE D (nuclear) ---
+Text: You have not had a Sunday off in two years. Tell him he's in charge next Sunday. Book a flight to Cancun.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: +20
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+You are in Cancun. You receive three texts during your first Sunday off in two years. The first is from DeShawn: 'it's going ok.' The second is from Kayla: 'he's interesting.' The third is from the campus pastor: 'who is the large man in the booth.' You put your phone face down on a beach chair. You pick up a drink with an umbrella in it. You have made peace with whatever is happening in that booth. For today. Just today.
+
+Outcome (Lose):
+You are in Cancun. You receive seven texts, two missed calls, and a voice memo from Marcus that is 3 minutes and 47 seconds long. You listen to the voice memo. The voice memo describes, in significant technical detail, something that happened during second service that Marcus believes you need to know about immediately. You are standing on a beach in Cancun. You know about it immediately. You finish your drink. You book an earlier flight home.
+
+============================================================
+SCENE 12: Hits and Misses
+Time: 20 min after last service  |  Location: Lobby / side room, standing
+============================================================
+
+NARRATIVE:
+Twenty minutes after second service. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+
+Campus pastor goes first. Win — both services ran. Miss — he was in the lobby talking to people during turnover and missed his window to check in with the team. He looks at you.
+
+Before you can answer Gary the head usher says: 'I just want to be honest, I thought the tech had some moments today.' Gary says this with the gentle sincerity of a man who believes he is being helpful. You have had a day that included a subwoofer, a meme about your pastor on a 12-foot screen, Caleb and the batteries, a DC Talk clipboard guy, and BlippiCoin. You nod slowly at Gary. Inside you are somewhere else entirely.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Own everything. All of it. Chronological order.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+The room is quiet by item three. The campus pastor stops writing by item five. Greg, if present, closes his notebook. When you finish the campus pastor says: 'What do you need from me?' You have a list. You have always had a list. You hand him the list.
+
+--- CHOICE B (bold) ---
+Text: Name the wins first, then the misses, then the fixes.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Clean. Confident. The room sees someone who runs something. Gary nods along. Gary's nodding has a quality that suggests he is taking credit for something. You do not look at Gary.
+
+--- CHOICE C (cowardly) ---
+Text: Name the subwoofer and the meme and leave everything else out.
+Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+Two items. Both significant. Both documented. Both with solutions attached. The campus pastor nods. Greg nods. Gary opens his mouth. The campus pastor raises his hand slightly in Gary's direction. Gary closes his mouth. You file this away.
+
+--- CHOICE D (nuclear) ---
+Text: Let Gary finish his thought and then ask him specifically where he was during second service when a child was unsupervised on the stage.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: 0  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+Gary stops. Gary thinks about this. Gary was at the back of the room during second service managing the doors. The stage is at the front of the room. The room has gone quiet in the specific way rooms go quiet when someone has said something that cannot be unsaid. Gary opens his mouth. Gary closes his mouth. After the meeting the campus pastor finds you. 'You didn't have to do that,' he says. 'I know,' you say. 'It was still accurate,' he says. He walks away.
+
+Outcome (Lose):
+Gary recovers. Gary says: 'I think we all have areas we can improve.' The room nods. You nod. The campus pastor nods. Gary has turned a direct hit into a life lesson for everyone and you are watching it happen in real time.
+
+Around the room: Worship leader reports second service had something. Kids ministry describes the bathroom situation in eleven words. The room receives these eleven words in silence. First Impressions says the door felt warm but the lobby felt cold. Nobody claims the lobby. Someone says the haze was a lot today. Nobody claims the haze.
+
+'Same time next week.'
+
+Four seconds.
+
+Gary moves first.
+
+============================================================
+ENDINGS
+============================================================
+
+--- ENDING 1: Fired. You are now a realtor. ---
+Condition: All three meters below 40
+Share Text: I GOT FIRED FROM EXECUTION CHURCH.
+
+Narrative:
+Pastor Dave is sitting at his desk. Not on his phone. Just looking at you. There's a banker's box on the corner. Your badge and your subwoofer remote are on top of it. He lets the silence do the work. "We love you. We believe God has a plan for your life." Pause. "We've also been talking to someone else about the tech role." The meeting takes nine minutes. On the way out Brenda from admin hands you a card. Someone drew a little soundboard on it. Someone wrote "God has a plan!" You sit in your car. You look at the card for a while. You look at the parking lot. You pull out.
+
+Your first listing is Ron's house. Ron has a lot of feedback about the lighting.
+
+--- ENDING 2: Reassigned. Tech Scheduling and Compliance Coordinator. ---
+Condition: Ministry < 40, Relational < 40, Self-Aware > 60
+Share Text: I'M NOW THE TECH SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: I'M NOW THE TECH SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: TECH SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH.
+
+Narrative:
+Pastor Dave slides a piece of paper across the desk. "Tech Scheduling and Compliance Coordinator." Compliance. The word just sits there. "We think your attention to systems is actually a real gift," he says. "You're going to be great at identifying gaps." You drive home. The word compliance rides in the passenger seat the whole way.
+
+You will spend the next three years sending calendar reminders to people who do not read calendar reminders. Gary will cc himself on several of them.
+
+--- ENDING 3: Tanner is your new boss. He has thoughts about frequency. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware < 40
+Share Text: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL.
+
+Narrative:
+The meeting starts normally. Then the door opens. It's Tanner. He is 24. He has a podcast with 340 subscribers and a leather journal labeled "VISION DOWNLOAD" in large letters. He spent six months at Bethel and came back with a vocabulary that is mostly the word "activation." He sits down next to you. "I had some initial thoughts about the tech direction," he says. "God's been speaking to me about frequency." You look at Pastor Dave. Pastor Dave is already looking at his phone.
+
+Tanner's first directive is to remove the subwoofer. He calls it "sonically prideful." His second directive is to bring in an oboe.
+
+--- ENDING 4: They called. Redemption City Church. Full benefits. Relocation package. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware > 60
+Share Text: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. WE ANSWERED.
+
+Narrative:
+You're in the parking lot. Four minutes before the meeting. Your phone rings. It's Redemption City Church. "We've been watching your team for a while. We'd love to have a conversation." You look at the clock. Three minutes until the meeting. You look at Pastor Dave's window. He's in there.
+
+You go into the meeting anyway. You sit down. Pastor Dave talks. You hear about every other word. Dave from the parking lot somehow already knows about the call. Dave always knows. You still take the meeting.
+
+--- ENDING 5: Well done, good and faithful servant. Let's plan next Sunday. ---
+Condition: All three meters above 70
+Share Text: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY.
+  Variant: I SURVIVED EXECUTION CHURCH. ASK ME HOW.
+
+Narrative:
+He's smiling when you walk in. The real one. "I've been doing this for 22 years," he says. "You don't see someone coordinate a Sunday like that very often." He slides a notepad across. Specific bullet points — the camera hand-off, the way you ran the volunteer debrief, the family in row four who filled out a connection card because the environment felt welcoming. He noticed all of it. "Well done. Good and faithful servant. Now—" He flips the notepad. "Let's plan next Sunday."
+
+Dave from the parking lot had filed a laminated report. It was positive. He brought a copy. Pastor Dave already had a copy.
+
+--- ENDING 6: We'll do better next time. ---
+Condition: Ministry < 60, Relational > 60, Self-Aware > 60
+Share Text: I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH.
+
+Narrative:
+He walks through a color-coded recap. The wins are green. The areas of growth are yellow. There is one red. You know which one it is before he gets there. He circles it once with his pen. "The team trusts you. The congregation feels it on Sunday mornings. And you — you actually know where the gaps are." He shakes his head slowly. Not in disappointment. In the way of a man recalibrating. "We'll do better next time."
+
+The color-coded recap lives on your desk for three weeks. You look at the red circle every morning. Gary's name is not on it. This surprises you.
+
+--- ENDING 7: Pay raise. You can now afford brand name Ramen noodles. ---
+Condition: Ministry < 40, Relational > 60, Self-Aware < 40
+Share Text: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER.
+
+Narrative:
+The meeting goes well. Suspiciously well. He slides an envelope across. The salary adjustment works out to approximately $83 a month. "It's not huge. But it's meaningful." On the way home you stop at the store. You stand in the pasta aisle for a long time. You pick up the store-brand ramen. You put it back. You pick up the Maruchan. You hold it for a moment. You put it in the pantry.
+
+You frame the letter. It hangs a little crooked. You leave it.
+
+--- ENDING 8: Promoted. Better title. Real authority. Absolutely no pay raise. ---
+Condition: Ministry > 70, Relational > 70, Self-Aware < 40
+Share Text: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH.
+
+Narrative:
+He presents the new title. It is genuinely better. Then he presents the new responsibilities. The list is long. "—oversight of the full tech team, which will now include staging and lighting — plus the second campus launching in the fall — and the budget remains the same for now, we'll revisit that in—" he checks something, "—eighteen to twenty-four months." He closes the folder. He's beaming. "Congratulations." You shake his hand. You smile. You mean it. You get to your car. You open your calendar app. You stare at it for a long time. You put your phone face-down on the seat. You sit there for a minute. Then you drive home.
+
+--- SPECIAL: BLIPPICOIN WIN ---
+You tell him about BlippiCoin. All of it. The $200. Chad. The Chili's. You show him your portfolio on your phone. The number on the screen is $124,000. Pastor Dave stares at the phone. Then at you. Then at the phone. "You invested in a cryptocurrency backed by Blippi," he says slowly, "during the service." "During the between-service reset," you clarify. He starts laughing. Slowly at first. Then fully. He composes himself. "What do you even do with that?" You have thought about this. "Tithe it," you say. "And replace the subwoofer." He starts laughing again.
+
+You still do not have a theological answer on the tithing question. Chad texts seventeen times in one day. You do not respond to Chad.
+
+--- SPECIAL: BLIPPICOIN LOSE ---
+The $200 is gone. You will never get it back. You tell the story exactly once, to someone who needed a laugh. It lands. The story gets funnier every time you tell it. Chad still follows up. Chad is still a bartender at Chili's.
+
+--- SPECIAL: MEME ACCOUNT ---
+At one point he makes eye contact with you for slightly longer than necessary. He says: "I think it's important that we process frustrations through the right channels as a staff." He moves on. He does not say the word "screen." He does not need to. You will feel this sentence in your entire body for approximately three weeks.

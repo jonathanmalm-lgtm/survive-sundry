@@ -570,7 +570,7 @@ Will it pan out? Who knows. But this day is shoving you toward a burnout cliff a
 
 ============================================================
 SCENE 11: Linda and Marcus
-Time: 1:15 PM  |  Location: Lobby / stage area
+Time: 1:15 PM  |  Location: Worship center
 ============================================================
 
 NARRATIVE:
@@ -645,54 +645,56 @@ Time: 20 min after last service  |  Location: Lobby
 ============================================================
 
 NARRATIVE:
-Twenty minutes after second service. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+Service has been over for twenty minutes. It's time for the Hits and Misses meeting. It's where the core team stands around and criticizes everyone else's department.
 
-Campus pastor goes first. Win — both services ran. Miss — he was in the lobby talking to people during turnover instead of checking in with the team. He looks at you.
+You have only an iced coffee and a granola bar in your system. Your stomach has its own criticisms of how the day went.
 
-Before you can answer Gary the head usher says: 'I just want to be honest, I thought worship was a struggle today.' Gary says this with the gentle sincerity of a man who believes he is being helpful.
+Pastor looks around at the group. 'Who wants to go first?'
+
+Tom, the head usher, pokes his hand up and looks your direction. 'I want to be honest. I thought worship was a struggle today. It's usually a little bit better than that.'
+
+His implication that it's never that good didn't slip your attention.
 
 DECISION: What do you do?
 
 --- CHOICE A (bold) ---
-Text: Give the honest version — Jordan, the monitor, all of it.
+Text: Own up to the fact that is was a rough Sunday.
 Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
 
 Outcome:
-The room is quiet. Pastor: 'What do you need from me for next week?' This is the question you needed. Gary nods like he knew it all along. You do not look at Gary.
+You know what needs to change. And you don't need to throw anyone under the bus to fix it. 'It was a rough Sunday, but I have a plan of action to make sure it doesn't happen again.' Pastor nods. That's all he needed to hear.
 
 --- CHOICE B (bold) ---
-Text: Lead with the win — 'The room connected.' Then name one fixable miss.
+Text: Lead with the win. 'The room connected.' Then name one fixable miss.
 Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
 
 Outcome:
-Clean. Greg says: 'Second service had something the first didn't. What changed?' Gary says 'I noticed that too' about something he wasn't part of. Gary is now part of it.
+It's true. There were a few great worship moments... At least at one of the services. Greg, who stuck around for the meeting, agrees with you. You glance at Greg gratefully.
+
+Pastor nods and moves on.
 
 --- CHOICE C (cowardly) ---
-Text: 'I thought it went really well considering.'
+Text: 'I thought it went really well considering the mess people left for me.'
 Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
 
 Outcome:
-Nobody asks considering what. Gary opens his mouth. The campus pastor raises his hand slightly in Gary's direction. Gary closes his mouth. You file this away.
+It's true. You walked into a train wreck and cars kept piling up throughout the day that had very little to do with you. Not exactly a great leadership moment though. And the look on your pastor's disappointed face confirms that.
 
 --- CHOICE D (nuclear) ---
-Text: Look at Gary thoughtfully and mention — gently — that the chair setup today was a little different than usual and it honestly threw the whole team off.
+Text: Look at Tom thoughtfully and mention that the chair setup today was a little different than usual and it honestly threw the whole team off.
 Win Chance: 60%
 Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: -10
 Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
 
 Outcome (Win):
-Gary did not set up the chairs differently. The chairs are exactly the same as every week. Gary knows this. You know this. The room is not sure. Gary opens his mouth. Gary closes his mouth. Gary is now thinking about the chairs. Gary spends the rest of the meeting visibly trying to remember if he set up the chairs differently. He did not. Next week Gary arrives 30 minutes early to make absolutely sure the chairs are right. This is the only good outcome of what you just did and you know it.
+Tom didn't set up the chairs differently. The chairs are exactly the same as every week. Tom knows this. You know this. The room is not sure. Tom opens his mouth to say something. Closes it. Now Tom's thinking about the chairs. You poked at Tom's greatest insecurity and derailed his criticism. Next week Tom arrives 30 minutes early to make absolutely sure the chairs are right.
 
 Outcome (Lose):
-Gary did not set up the chairs differently. The campus pastor finds you after the meeting. He does not raise his voice. He says: 'Did you just gaslight Gary about the chairs?' You say: 'I raised a concern about the setup.' He looks at you for a moment. 'Same time next week,' he says. It is not a warm same time next week.
+Tom didn't set up the chairs differently and everyone knows it. Your pastor finds you after the meeting. He doesn't raise his voice, but says, 'Did you just gaslight Tom about the chairs?'
 
-Around the room: Tech leader reports the stream was clean. Kids ministry says Jackson is coming back next week. First Impressions says the door felt warm but the lobby felt cold. Nobody claims the lobby. Someone says the haze was a lot today. Nobody claims the haze.
+You say: 'I raised a concern about the setup.'
 
-'Same time next week.'
-
-Four seconds.
-
-Gary moves first.
+He shakes his head. 'We'll talk this week.'
 
 ============================================================
 ENDINGS

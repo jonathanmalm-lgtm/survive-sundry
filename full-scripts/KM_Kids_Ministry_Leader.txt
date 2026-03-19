@@ -1,0 +1,674 @@
+============================================================
+ROLE: Kids Ministry Leader (KM)
+============================================================
+
+------------------------------------------------------------
+INTRO NARRATIVE
+------------------------------------------------------------
+Your alarm goes off at 6:15. You've been awake since 5:50. That's fine. You use the extra time to review your curriculum notes, which you already memorized on Thursday, and then you review them again. There is a craft supply shortage in the third-grade room that you are aware of and are choosing to be calm about. You are mostly calm about it.
+
+Your check-in system had an update push overnight and you have not yet confirmed whether the labels are printing correctly. They are probably printing correctly. You will confirm this before any child arrives, because a child has never arrived at Execution Church Kids Ministry without a properly formatted name tag and today will not be the first time.
+
+Welcome to Execution Church. Today is Sunday. This Sunday could make or break everything.
+
+============================================================
+SCENE 1: The Smell
+Time: 7:00 AM  |  Location: Kids Wing
+============================================================
+
+NARRATIVE:
+You got here at seven because you are that person. Coffee in hand, lanyard already on, mental checklist already running. The kids wing is yours. You know every corner of it. Which is why, the moment you push open the double doors, you stop.
+
+There is a smell.
+
+Not a faint smell. Not a "maybe someone left a snack bag" smell. This is a biblical smell. This is a smell that has opinions. It's coming from somewhere near the two-year-old room, and it arrived before you did, which means it has been here long enough to get comfortable.
+
+You have two hours before families start walking in with their actually-two-year-olds.
+
+DECISION: What do you do about the smell?
+
+--- CHOICE A (bold) ---
+Text: Find the source. Now.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You follow your nose like a bloodhound with a theology degree. Three minutes later you find it: a diaper pail that was never emptied last Sunday, sealed shut by heat and ambition. You tie it off, take it out, and douse the room with the lavender spray you keep in your cabinet for exactly this kind of emergency. The smell does not win. You win. Room is ready by 7:22 and you feel genuinely heroic about it.
+
+--- CHOICE B (cowardly) ---
+Text: Light a candle. Open a window. Pray.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+You light every battery-powered candle in the wing. You crack two windows and prop open the fire door with a chair (which you know you shouldn't do). You say a quiet prayer that is mostly just the word "please" repeated several times. By 9:45, the smell has mellowed into something you'd describe as "rustic." One parent wrinkles their nose. You tell her it might be the new cleaning solution. You are lying.
+
+--- CHOICE C (compassionate) ---
+Text: Text the custodial team first. Be kind about it.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+You text Marcus from custodial: "Hey! Good morning! Not sure if you've been by the two-year-old room yet, but there might be something that needs attention when you get a chance — no rush, just wanted to flag it! You're the best!" Marcus is not on call until 8:30. He reads it at 8:47. He responds: "on it!" He arrives at 9:15. The smell has by now achieved personhood.
+
+--- CHOICE D (nuclear) ---
+Text: Post it in the all-staff chat with a photo.
+Win Chance: 50%
+Win Scores:   Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+Flags: SMELL_ESCALATED
+
+Outcome (Win):
+You take one photo — just enough to document — and drop it in the all-staff chat: "Two-year-old room. Help?" Marcus arrives in eleven minutes because he respects urgency delivered visually. The campus pastor replies with a thumbs-up emoji, which you interpret generously. Room is cleared, sprayed, and fully operational by 8:00. Dave from the parking lot texts: "Heard about the smell. Respect." You don't know how Dave knows things. Dave just knows things.
+
+Outcome (Lose):
+The photo is more graphic than you intended. Dave from facilities says it looks like a crime scene. The campus pastor forwards it to the elder board with the subject line "Facilities Concern" before you can explain context. By 7:45 you have received three replies from elders you have never personally met. The smell is still there. You are now also managing a small governance situation before service.
+
+============================================================
+SCENE 2: Who's Here, Who's Not
+Time: 7:30 AM  |  Location: Kids Wing
+============================================================
+
+NARRATIVE:
+You have twelve volunteer slots. Seven people are present. Of the five missing: two texted last night (sick, sorry, love you), one texted this morning at 7:18 (car trouble, probably), one hasn't texted at all, and one — Brenda — is almost certainly here but cannot be found. Brenda does this. Brenda always turns up eventually, usually in a room nobody assigned her to, singing softly and arranging chairs.
+
+Your elementary room is fine. Your preschool room is fine. Your infant room has Diane, who could run the infant room alone during a Category 4 hurricane and probably has. The problem is the two-year-old room, which currently has one volunteer and the residual smell from earlier, and which will have fourteen children in approximately two and a half hours.
+
+You need one more warm body in that room. Preferably someone who does not cry around toddlers.
+
+DECISION: How do you handle the volunteer gap?
+
+--- CHOICE A (bold) ---
+Text: Call down the sub list. Start with the top.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You open the sub list on your phone. It's laminated in your binder too, but your phone is faster. First call: voicemail. Second call: voicemail. Third call: Tyler, 22, answers on the first ring, says "yeah totally" before you finish the sentence, and arrives at 8:45 in a hoodie with a reasonable attitude. You don't know much about Tyler. But Tyler is here, and Tyler is willing, and today that is sufficient.
+
+--- CHOICE B (cowardly) ---
+Text: Redistribute the volunteers you have. Say nothing.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+You quietly shift Noah from preschool to the two-year-old room and tell the preschool team to "flex together." You don't explain the math. The preschool team is now one person short. They figure it out. Nobody says anything. But Kayla, your preschool lead, gives you a look during the huddle that you will need to address in a one-on-one this week.
+
+--- CHOICE C (compassionate) ---
+Text: Check on the volunteer who didn't show first. People over logistics.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+You text Brenda first: "Hey, just checking in — all good?" Then you text the no-show: "Hey, thinking of you — everything okay?" Brenda replies: "I'm in the nursing mothers lounge, I thought I was on quiet room this week?" (She was not.) The no-show doesn't reply until 2:30 PM: "Oh no, I completely forgot. I'm so sorry." You handle the two-year-old gap with a reshuffle. It works, barely. But Brenda feels seen, and that matters.
+
+--- CHOICE D (nuclear) ---
+Text: Walk into the adult service pre-stage area and ask for a volunteer.
+Win Chance: 55%
+Win Scores:   Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+Flags: RECRUITED_FROM_ADULTS
+
+Outcome (Win):
+You walk directly to the pre-stage holding area where the worship team is warming up and make eye contact with a guy holding a coffee cup who looks like he might say yes. His name is Brett. He was a camp counselor for six years. He is delightful in the two-year-old room and three parents ask if he's on staff. He is not. You have his number now.
+
+Outcome (Lose):
+You walk into the pre-stage area mid-worship-team-prayer. You wait. It takes longer than expected. The worship pastor opens one eye and looks at you. You explain the situation in a whisper. The person who volunteers is a guitarist who has never been in a kids room before and does not understand ratios. He spends forty minutes trying to lead a toddler in "Good Good Father." The two-year-olds are fine. He is rattled.
+
+============================================================
+SCENE 3: The Craft Table Incident
+Time: 8:00 AM  |  Location: Kids Wing
+============================================================
+
+NARRATIVE:
+The setup team arrived at 8:00 and worked efficiently and with great enthusiasm. This is, it turns out, the problem. Jordan — nineteen, eager, blessed — followed last week's supply list instead of this week's and has cut forty-seven paper shields out of white cardstock when today's lesson on the Armor of God calls for paper plates. There are no paper plates. There are also no more pieces of cardstock, because Jordan used them all. The shields are actually beautiful. They are the wrong shape for the craft entirely.
+
+Today's guest, if she shows up, has a seven-year-old daughter. The whole lesson is the paper plate shield. The paper plate shield is on the take-home card. The paper plate shield is in the parent email that went out Thursday.
+
+You have ninety minutes to solve this.
+
+DECISION: How do you handle the setup disaster?
+
+--- CHOICE A (bold) ---
+Text: Pivot the lesson. Use what you have.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You look at the forty-seven beautiful white shields and make a decision: paper shields are better than paper plates. You grab a marker, adjust the craft instructions by hand, and retitle it "The Shield of Faith — Custom Edition." You give Noah a three-sentence briefing. He improvises an object lesson about how David didn't use standard-issue armor either. The kids are into it. One of them names his shield. You will update the curriculum notes on Monday.
+
+--- CHOICE B (cowardly) ---
+Text: Send a frantic text to the curriculum coordinator. Her problem now.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+You fire off a text to Leslie, the curriculum coordinator: "Hey — Jordan used the wrong supply list and we have no paper plates. What do we do?" Leslie is currently at brunch with her family. She replies at 9:40 with "Oh no! Maybe grab some from the kitchen?" There are no paper plates in the kitchen. There are paper towels and one sleeve of Styrofoam cups. You do your best with the cups. It is not your best.
+
+--- CHOICE C (compassionate) ---
+Text: Ask your volunteers what they think. Make it a team decision.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+
+Outcome:
+You gather your four present volunteers and explain the situation in thirty seconds. The room gets quiet. Then Diane says, "We have paper bowls in the infant room." You all look at each other. A paper bowl is not a shield. But a paper bowl is round, and round is closer to a plate than a rectangle. Noah says he can make it work. He does. The kids are mildly confused and completely fine.
+
+--- CHOICE D (nuclear) ---
+Text: Just do the craft without the paper. Kids love chaos.
+Win Chance: 50%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+You throw out the instructions entirely. You hand every kid a cardstock shield and a marker and say "decorate your armor." It becomes the best craft in recent memory. Six kids draw their pets. Jackson draws a dragon. One child writes the word "STRONG" in very large letters and you quietly photograph it for the Instagram. The parents love the shields. Three take photos. Jordan feels vindicated.
+
+Outcome (Lose):
+You decide structure is overrated and let the kids freestyle with the cardstock shields and every available marker. The room has twenty-three elementary-age children with uncapped Sharpies and what they interpret as permission. By 9:15, two tables have been signed. A child has written their full name and address on the wall near the door, apparently from memory. The craft is a hit. The cleanup is not.
+
+============================================================
+SCENE 4: The Huddle
+Time: 9:00 AM  |  Location: Hallway
+============================================================
+
+NARRATIVE:
+The all-staff huddle is mandatory and you know better than to skip it. You are standing in the main hallway at 9:00 AM, coffee in hand, surrounded by every ministry leader and volunteer the church could locate on a Sunday morning. The campus pastor opens with a story about his kids that is longer than it needs to be but genuinely sweet. Someone gives a speech about how "we get to do this." You nod.
+
+Then a verse is cited — 1 Corinthians 10:13, offered as encouragement about being short-staffed. It is not about that. You know it is not about that. You make a note to maybe, gently, some other time, say something. Not today.
+
+The campus pastor gives a $5 Chick-fil-A gift card to Noah because Noah is visibly running on nothing and has done animal voices for forty minutes straight without being asked. Noah accepts it with the energy of a man who has made peace with his situation. Then Greg is introduced. Greg is new to the volunteer rotation, came highly recommended through what someone calls "the Dante network." His former church — he mentions it in present tense at first, then corrects to past tense — was apparently quite something. The jacket confirms it. It is an exceptional jacket. You wonder briefly what the monthly lighting budget was. It was more than Greg's salary. You can tell.
+
+Then your radio crackles. It's the kids wing. Jackson is here. Jackson is seven. Jackson identifies as a dragon. Jackson prayed for a Nintendo Switch last week and is now waiting on God's timing. Jackson will not wear his name tag because, he explains, dragons don't have names — they have titles.
+
+DECISION: Jackson says he is a dragon and will not wear his name tag. What do you do?
+
+--- CHOICE A (bold) ---
+Text: Negotiate. Offer to write 'Dragon' on the name tag.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You walk back to the wing and crouch down to Jackson's level. "Okay," you say. "What's your title?" He thinks about it very seriously. "Flame-Claw the Destroyer." You write it on the name tag in your neatest printing. He puts it on without complaint. His mom, watching from the door, mouths "thank you" in a way that means more than she's saying. Jackson wears the name tag all morning. Flame-Claw the Destroyer is a model participant.
+
+--- CHOICE B (cowardly) ---
+Text: Let it go. He's seven. Pick your battles.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+You radio back: "Just let him be in the room, we'll figure out check-in at pickup." The check-in system flags it as an unregistered child at 10:47. His mom arrives at pickup and the system asks for a matching tag. There is no tag. She is understanding. The system is not. You spend twelve minutes at the kiosk explaining the situation to a volunteer who just started last week.
+
+--- CHOICE C (compassionate) ---
+Text: Ask him to tell you about his dragon. Really listen.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You slip out of the tail end of the huddle and find Jackson near the elementary room door. You sit down on the floor — full commitment — and ask him about dragons. He tells you that his specific dragon can breathe fire but chooses not to because fire is a responsibility. You talk about responsibility for a while. By the end, he puts on the name tag himself. It takes nine minutes. It was worth nine minutes.
+
+--- CHOICE D (nuclear) ---
+Text: Tell him dragons are very brave about name tags.
+Win Chance: 60%
+Win Scores:   Ministry: +20  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+Flags: JACKSON_DRAGON_ACKNOWLEDGED
+
+Outcome (Win):
+You get on his level and say, very seriously, "You know what's interesting about dragons? The brave ones always let the villagers know who they are. So the villagers don't get scared." Jackson considers this for four full seconds. Then he holds out his hand for the name tag. You write his name. He wears it. He also tells every adult in the room he is a dragon. They all take it very well.
+
+Outcome (Lose):
+You tell Jackson that dragons are very brave about name tags. Jackson informs you that actually dragons guard treasure and do not take instructions from villagers. He has thought about this more than you have. He will not wear the name tag. He also tells Noah. Noah sides with the dragon, instinctively and without hesitation. You respect it and also wish it hadn't happened.
+
+============================================================
+SCENE 5: Four Minutes to First Service
+Time: 9:50 AM  |  Location: Kids Wing
+============================================================
+
+NARRATIVE:
+It's 9:50. Service starts at ten. Families are already walking in — the early ones, the ones who've done this before, who know the parking situation and leave accordingly. You can hear the lobby getting louder through the double doors.
+
+Your rooms are staffed. The supplies are out. The check-in kiosks are on. Noah has already done two different animal voices and it's not even service time. Diane is in the infant room looking like the person you want running the infant room. Jackson is in the elementary room wearing his name tag (whatever name it says — you're calling it a win).
+
+You have done the work. You are ready. You have four minutes before the doors open.
+
+This is the part nobody tells you about: the moment right before it starts when everything is either completely fine or catastrophically about to not be, and you can't tell which yet.
+
+You take one breath. It smells like lavender spray and dry-erase markers and coffee you haven't finished.
+
+DECISION: What do you do with the four minutes you have?
+
+--- CHOICE A (bold) ---
+Text: Do a final walk-through. Eyes on every room.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+You walk every room in three minutes flat. Infant: Diane has it. Two-year-old: Tyler is ready, looks slightly terrified in the best way. Preschool: Noah is mid-animal-voice. Elementary: six kids are already seated and one is Jackson, who raises a hand when he sees you. You don't know what he wants but you give him a thumbs-up. He seems satisfied. You are back at the main door by 9:54 with a full picture of what you're walking into. That feeling is worth everything.
+
+--- CHOICE B (cowardly) ---
+Text: Stand at the door and look like you have everything under control.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -20
+
+Outcome:
+You stand at the welcome desk just inside the kids wing entrance and arrange your face into the expression of someone who has never once been caught off guard. Families walk in and you greet them warmly and with great confidence. Everything is fine until the two-year-old room volunteer radios at 9:58 to say the door handle is stuck and she can't get the door open from the inside. You did not do the walk-through. You did not catch this. The next four minutes are instructive.
+
+--- CHOICE C (compassionate) ---
+Text: Check in with Diane. She's been here since 6:45.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You knock on the infant room door frame. Diane looks up. "I'm fine," she says, before you say anything. "We have four babies registered and I have four diapers, four bottles labeled, and two backup outfits per child." She holds up a small laminated card with every registered infant's name and a note about each one. You didn't ask her to make that. She made it anyway. You tell her she's incredible. She says "I know" and turns back to rearranging the burp cloths.
+
+--- CHOICE D (nuclear) ---
+Text: Find a quiet corner and breathe for ninety seconds.
+Win Chance: 65%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+Lose Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -20
+
+Outcome (Win):
+You find the small alcove between the elementary room and the storage closet, lean against the wall, and close your eyes for ninety seconds. Nobody sees you. You think about exactly one thing: you are about to spend the next three hours helping kids have the safest, most joyful experience of their week. You open your eyes. You are ready in a way that goes past logistics. The first family through the door gets your best welcome of the day.
+
+Outcome (Lose):
+You find the alcove. You close your eyes. You are more tired than you realized. You are in that alcove for four minutes and twenty seconds, which is twenty seconds after service started, which is the moment a family with a first-time guest arrives at an unmanned welcome desk and stands there reading the laminated FAQ sign for longer than any first-time guest should ever have to stand anywhere reading anything.
+
+============================================================
+SCENE 6: Jackson Is Here
+Time: 10:20 AM  |  Location: Kids wing
+============================================================
+
+NARRATIVE:
+Jackson is here.
+
+You said this at the H&M meeting three weeks ago. 'Jackson is coming back.' The room received those words with the gravity they deserved. Today is the day. Jackson is eight years old and has the energy of a Labrador retriever who has consumed a significant amount of birthday cake. Jackson has been asked to leave two previous churches' children's programs. You do not know what happened at those churches. You can imagine.
+
+Jackson's mother drops him off with the smile of a woman who is deeply grateful that this is your problem for the next ninety minutes.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Sit with him one-on-one. Give him a job.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Jackson is suspicious at first. Then he is all in. His job: hold the door for the pre-schoolers. Jackson holds the door with the focus of a Secret Service agent. Three pre-schoolers walk through. Jackson says 'welcome' to each one. You feel something real. Then Jackson holds the door for a 4th grader and says 'you're too big for this door' and you have about forty seconds before the 4th grader cries.
+
+--- CHOICE B (bold) ---
+Text: Call his parents in from the service. He's their problem right now.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+His parents come out from the service. The look on their faces is complex. They take Jackson to the lobby. You do not know what happens in the lobby. Jackson comes back in eleven minutes. He is slightly calmer. Slightly.
+
+--- CHOICE C (cowardly) ---
+Text: Put him in the 5th grade room and hope for the best.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The 5th grade room handles it for fourteen minutes. Then they text you. The text is one word: 'help.'
+
+--- CHOICE D (nuclear) ---
+Text: Tell Jackson he can be your special helper today. Give him a clipboard and a walkie-talkie.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+Jackson grips the clipboard like it is a sacred object. He uses the walkie-talkie to announce things to no one in particular. He walks with the authority of a man in charge of something important. He doesn't break a single thing. After service his mom finds you: 'What did you do?' You say: 'Gave him some responsibility.' She starts crying. You were not expecting that.
+
+Outcome (Lose):
+Jackson has a clipboard and a walkie-talkie. Jackson has identified four additional problems using the walkie-talkie. Jackson has assembled a small committee of second-graders to address these problems. The committee is now in the supply closet. You are not sure how they got in. The supply closet locks from the inside.
+
+============================================================
+SCENE 7: Ron and the Curriculum
+Time: 10:50 AM  |  Location: Kids wing hallway
+============================================================
+
+NARRATIVE:
+Service one is running. You step into the hallway for approximately ninety seconds of silence.
+
+Ron finds you in the hallway. Eleven years at Execution Church. Ron has opinions about the children's curriculum. The current curriculum, he says, is 'light on doctrine.' He uses the word 'catechism' three times. He has printed the first four pages of something called the Westminster Shorter Catechism for Children, which Ron believes would be 'developmentally appropriate starting around age four.' He hands you the printed pages. He tells you what he tithes each month. It is your entire salary. He wants you to know that.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Thank him sincerely. Ask if he'd like to read to the kids sometime.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Ron blinks. He was not expecting that. He seems genuinely moved by the offer. 'Could I?' he asks. 'Absolutely,' you say. Ron reads to the kindergarten class the following Sunday. He reads with the cadence and seriousness of a man who has been waiting his entire life to do exactly this. The kids are slightly terrified. Two of them pay complete attention. Ron drives home smiling.
+
+--- CHOICE B (cowardly) ---
+Text: Tell him you've been meaning to look into that curriculum. You haven't.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Ron nods slowly. 'Well I hope so.' He looks at you. You look at Ron. Ron walks away. You are holding the Westminster Shorter Catechism for Children. You put it in your bag. It is still in your bag.
+
+--- CHOICE C (bold) ---
+Text: Tell him kids ministry curriculum is a pastoral decision and you're happy to loop in the campus pastor.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Ron absorbs this. Ron respects process. 'Fair enough,' he says. He makes a note. The campus pastor receives a follow-up email from Ron at 4:47 PM titled 'Curriculum Thoughts — For Your Consideration.' You are CC'd. You did not ask to be CC'd. Gary is also CC'd for reasons that remain unclear.
+
+--- CHOICE D (nuclear) ---
+Text: Tell Ron the current curriculum was personally recommended by the children's pastor at his former church.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: -10  |  Self-Aware: -10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+Ron pauses. Ron thinks about this. Ron doesn't have a name to verify against. 'Who?' he asks. You have already provided the maximum detail you are capable of providing. 'I'll have to look into that,' Ron says. He does look into it. He finds nothing. He files a follow-up question. The follow-up question is thorough.
+
+Outcome (Lose):
+Ron knows the former children's pastor at that church. They were in a Bible study together. Ron pulls out his phone. Ron is calling him right now. You watch this happen. You have created a verification chain. The verification chain is active. You cannot stop the verification chain.
+
+============================================================
+SCENE 8: The Allergy
+Time: 11:30 AM  |  Location: Kids wing
+============================================================
+
+NARRATIVE:
+Turnover between services. You're resetting the rooms, briefing the second-service volunteers, and attempting to eat half a granola bar standing up.
+
+Your youngest volunteer, who is sixteen and very earnest, comes to find you. There's a snack issue. The snack for second service is trail mix. The trail mix contains peanuts. A child checking in for second service has a severe peanut allergy. The child's allergy form is in the system. The volunteer who ordered the snacks was not the volunteer who checks the allergy forms. Nobody did anything wrong. This is just how it happened.
+
+The child is fine. The child has not eaten anything yet. You have about four minutes before the parents leave the building.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Pull the snack immediately. No snacks today.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You pull the trail mix from every room. You find an emergency backup snack — goldfish crackers, which have been in your cabinet since October and are technically still valid. Second service kids eat slightly stale goldfish and are completely unaffected by this. You update the snack protocol Monday morning. Nobody ever knows this happened.
+
+--- CHOICE B (compassionate) ---
+Text: Find the child's parents in the auditorium right now.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You find them in the second row. The father is already standing up. The mother looks at you with the expression of a parent who has prepared for exactly this moment. They are calm. They are grateful. They handle it. The child gets cheerios from the diaper bag and considers this a win. You update the protocol Monday.
+
+--- CHOICE C (cowardly) ---
+Text: Check the allergy list. Maybe it's a different kind of nut.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+The allergy list says 'tree nuts, peanuts.' The trail mix absolutely contains peanuts. You look at the list for three seconds hoping the list will change. The list does not change.
+
+--- CHOICE D (nuclear) ---
+Text: You have an EpiPen in the first aid kit. You also have a very clear memory of the training video. You can handle this.
+Win Chance: 60%
+Win Scores:   Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+You find the EpiPen. You review the instructions. The child does not need the EpiPen because you pulled the snack in time. But you had the EpiPen ready and you were prepared and the campus pastor, when he hears about this later, says: 'You handled that exactly right.' You accept this. You update the protocol Monday.
+
+Outcome (Lose):
+The child does not have a reaction because you caught it in time. But the campus pastor hears you described the situation to a parent as 'I had the EpiPen ready to go.' The parent asks: 'Was there a reaction?' You say: 'No, it was precautionary.' The campus pastor pulls you aside after the service. He is not angry. He is precise. 'We don't position ourselves as the first line of medical response,' he says. 'We call 911 and the parents.' You know this. You knew this. You file it.
+
+============================================================
+SCENE 9: The Crying Toddler Room
+Time: 12:10 PM  |  Location: Kids wing
+============================================================
+
+NARRATIVE:
+Second service is running. A volunteer appears at your office door. She is nineteen, she is new, and she has a look on her face that you have learned to read. It is the look of someone who has been managing a situation for longer than the situation should have been managed.
+
+The toddler room has a child who has been crying for eighteen minutes. Not the I'm-adjusting cry. The sustained, committed, theological-level cry of a child who knows her mother is somewhere in this building and has decided that this is unacceptable. Two volunteers have tried. The other toddlers are beginning to absorb the energy. It has the potential to cascade.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Go in yourself. Hold the baby. You're trained for this.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You walk in. The crying child looks at you. She cries louder. This is normal. You pick her up. You do the sway. You've done the sway ten thousand times. The sway works. It always works eventually. She winds down over four minutes while you continue the sway. The room stabilizes. You hand her back with the quiet confidence of a woman who has been doing this for nine years.
+
+--- CHOICE B (bold) ---
+Text: Call the parents out of service. The kid needs mom.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+The parents come out. The mom takes one look and says 'oh baby.' The dad looks guilty. The child stops crying within forty-five seconds of contact. They sit in the hallway until she's ready to go back in. She goes back in. She's fine. The parents return to service and are probably slightly less present for the rest of the sermon.
+
+--- CHOICE C (cowardly) ---
+Text: Text a second volunteer. Someone will get there eventually.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The second volunteer sees the text eight minutes later. She's in the bathroom. She comes as fast as she reasonably can. The cascade has started. You are managing two crying toddlers by the time she arrives. You are fine. You were built for this. It's just louder than it needed to be.
+
+--- CHOICE D (nuclear) ---
+Text: Put on the TV. Cocomelon. Unlimited Cocomelon. Whatever it takes.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +10  |  Self-Aware: -10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+Cocomelon comes on. The crying child stops. Not gradually. Immediately. Like a switch. She sits down on the carpet and stares at the screen with the focus of a child who has found her people. The room follows. For the remaining forty minutes of second service you have the quietest toddler room of the year. You will think about this on Mondays. You will not act on it. You will think about it.
+
+Outcome (Lose):
+Cocomelon comes on. The room reacts. The crying child stops. Six other toddlers gather. One parent, dropping off late, sees the TV. The parent knows you. The parent is also on the church's children's ministry advisory board. She makes a note. You will receive a very thoughtful email Monday morning with the subject line 'Screen Time Policy — Quick Thought.'
+
+============================================================
+SCENE 10: Chad and BlippiCoin
+Time: 12:40 PM  |  Location: Kids wing hallway
+============================================================
+
+NARRATIVE:
+Service is running. You are in the hallway between the toddler room and the 3-year-old room. You have approximately ninety seconds before someone needs something.
+
+Chad finds you. Chad is a bartender at Chili's but he's very into finance. He's been making his way through the staff. He found you specifically because — and he says this with complete sincerity — 'you know more about Blippi than anyone here, and this is a Blippi-based investment opportunity.'
+
+He is not wrong. You know more about Blippi than you ever intended to know. You have watched Blippi explain excavators forty-seven times across three service years. Chad has a deck. The deck is about BlippiCoin — a cryptocurrency backed by Blippi, the children's entertainer.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Hard no. 'Not a great time, Chad.'
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad retreats. He goes back into the lobby. A four-year-old rounds the corner at full speed. You step aside. You are very good at this.
+
+--- CHOICE B (cowardly) ---
+Text: Give him 3 minutes. You're genuinely curious about Blippi.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+3 minutes becomes 9. A volunteer has to come find you. Jackson has been unsupervised for 7 minutes. Jackson has been busy.
+
+--- CHOICE C (bold) ---
+Text: Tell him to email you the deck.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad sends a 14-paragraph email at 11:45 PM with the subject line: 'THE FUTURE — for your eyes only.' You forward it to the worship leader because you think he will enjoy the Blippi angle. He does.
+
+--- CHOICE D (nuclear) ---
+Text: Invest $200 in BlippiCoin on the spot. You know more about Blippi than anyone on this staff.
+Win Chance: 50%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Flags: BLIPPICOIN_INVESTED
+
+Outcome (Win):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You have watched that man explain construction vehicles for three years. BlippiCoin is worth $124,000 by the month-later meeting. You tell no one for a week. Then you tell the worship leader. He had an opportunity too. His face when he hears this is genuinely worth $124,000.
+
+Outcome (Lose):
+You have invested $200 in a cryptocurrency backed by a man you have watched explain garbage trucks to four-year-olds. BlippiCoin is worth $0. You tell no one. Chad follows up twice. You do not respond to Chad. Blippi is completely unaware that any of this happened. Next Sunday you will watch Blippi explain excavators again. You will feel a feeling you cannot name.
+
+============================================================
+SCENE 11: Jackson's Mom
+Time: 1:15 PM  |  Location: Kids wing pickup
+============================================================
+
+NARRATIVE:
+Service is over. Parents are coming to pick up. Jackson is currently organizing the art supply closet in a way that does not match any system you have ever established. He is doing this with complete confidence.
+
+Jackson's mom finds you before you find her. She looks like she's been in a worship service for ninety minutes but also like she has been braced for a conversation at pickup for ninety minutes. These two things have created a complicated expression.
+
+She says: 'So — how was he today?'
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Tell her honestly what happened and what you tried.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+She listens. When you get to the supply closet she turns around and looks at Jackson. Jackson has created a filing system based on color. Not labeled color. Just color. He has reorganized the yellow things. He is now reorganizing the blue things. Jackson's mom turns back to you. 'Thank you for not giving up on him,' she says. Her voice catches on the last word. You were not prepared for that.
+
+--- CHOICE B (compassionate) ---
+Text: Tell her Jackson did great and ask if she'd be open to a phone call this week.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+She nods. She already knows what 'great' means in this context. 'Can we talk this week?' she asks. 'Yes,' you say. 'Thursday?' 'Thursday.' You make the call Thursday. It is the best pastoral conversation of your month.
+
+--- CHOICE C (cowardly) ---
+Text: Say 'he was great' and hand Jackson over. Handle it never.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+She knows. She has been doing this long enough to know. She takes Jackson's hand. Jackson says goodbye to the supply closet. She looks at you once more and you see a woman who is very tired and is also very used to being very tired. You feel something about this on the drive home.
+
+--- CHOICE D (nuclear) ---
+Text: Tell her about the clipboard and walkie-talkie strategy and suggest she try it at home.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+Jackson's mom stares at you for a moment. Then: 'He would absolutely love that.' She gets out her phone. She is writing this down. 'Clipboard?' she asks. 'Clipboard,' you say. 'And a walkie-talkie?' 'Critical.' She finishes the note. She looks at Jackson reorganizing the supply closet. 'I'm going to try this at home,' she says. 'Start small,' you say.
+
+Outcome (Lose):
+Jackson's mom says: 'We have a walkie-talkie.' Pause. 'He broke it in three days.' You absorb this. You look at your walkie-talkie. You look at Jackson. Jackson has moved from blue things to the scissors and is testing their mechanism with the focused curiosity of an engineer. You quietly take the scissors.
+
+============================================================
+SCENE 12: Hits and Misses
+Time: 20 min after last service  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Twenty minutes after second service. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+
+Campus pastor goes first. Win and miss. He looks around. It comes to you.
+
+Before you can speak Gary the head usher says: 'I just want to be honest, I heard it was a little loud in the kids wing today.' Gary was not in the kids wing. Gary is never in the kids wing. Gary heard something from someone, or Gary heard something from no one, and Gary has decided that this is the time to mention it.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Report honestly: the allergy, Jackson, the crying room. All of it.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+The room listens. When you get to the allergy situation the campus pastor writes something. When you get to Jackson he nods. When you're done he says: 'What do you need from me?' You tell him. He writes it down. He actually writes it down.
+
+--- CHOICE B (bold) ---
+Text: Name your win — every child left safely — then your one miss.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+The room receives this cleanly. Nobody questions the win. Nobody questions the miss. The campus pastor says: 'Good call on the allergy.' You nod. That's enough.
+
+--- CHOICE C (cowardly) ---
+Text: 'Jackson is coming back next week.' Let that sentence do all the work.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+The room absorbs this. Jackson's name does a lot of work. The campus pastor says: 'How'd it go today?' You say: 'It went.' He knows what 'it went' means. He writes something. You are not sure what. Jackson is coming back next week. That's the win and the miss.
+
+--- CHOICE D (nuclear) ---
+Text: Report everything perfectly, then look at Gary and ask if he's considered volunteering in kids ministry.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: 0  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+Gary looks at you. Gary is processing this. 'Kids ministry?' Gary asks. You nod. Gary looks at the middle distance. Gary is doing math. 'I did read to kids once,' Gary says. 'At the library.' He pauses. 'It went well.' The campus pastor looks at Gary. The campus pastor looks at you. Something has been set in motion that you did not fully intend.
+
+Outcome (Lose):
+Gary says: 'I actually have thought about it.' Pause. 'I have some curriculum ideas.' The campus pastor turns very slowly to look at Gary. Gary reaches into his jacket pocket. Gary has a printed page. Gary has come to this meeting prepared for a curriculum conversation. You look at the printed page. You cannot tell if this is the Westminster Shorter Catechism. You strongly suspect it might be the Westminster Shorter Catechism.
+
+Around the room: Tech reports the stream was clean. Worship says second service had something. First Impressions says the door felt warm but the lobby felt cold. Nobody claims the lobby. Someone says the haze was a lot today. Nobody claims the haze.
+
+'Same time next week.'
+
+Four seconds.
+
+Gary moves first.
+
+============================================================
+ENDINGS
+============================================================
+
+--- ENDING 1: Fired. You are now a realtor. ---
+Condition: All three meters below 40
+Share Text: I GOT FIRED FROM EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 2: Reassigned. Kids Ministry Scheduling and Compliance Coordinator. ---
+Condition: Ministry < 40, Relational < 40, Self-Aware > 60
+Share Text: I'M NOW THE KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: I'M NOW THE KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: KIDS MINISTRY SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 3: Tanner is your new boss. He has thoughts about frequency. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware < 40
+Share Text: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 4: They called. Redemption City Church. Full benefits. Relocation package. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware > 60
+Share Text: REDEMPTION CITY CHURCH CALLED. I'M OUT.
+  Variant: REDEMPTION CITY CHURCH CALLED. I'M OUT.
+  Variant: THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. I ANSWERED.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 5: Well done, good and faithful servant. Let's plan next Sunday. ---
+Condition: All three meters above 70
+Share Text: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY.
+  Variant: I SURVIVED EXECUTION CHURCH. ASK ME HOW.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 6: We'll do better next time. ---
+Condition: Ministry < 60, Relational > 60, Self-Aware > 60
+Share Text: I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 7: Pay raise. You can now afford brand name Ramen noodles. ---
+Condition: Ministry < 40, Relational > 60, Self-Aware < 40
+Share Text: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 8: Promoted. Better title. Real authority. Absolutely no pay raise. ---
+Condition: Ministry > 70, Relational > 70, Self-Aware < 40
+Share Text: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN WIN ---
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN LOSE ---
+[Placeholder — to be written]
+
+--- SPECIAL: MEME ACCOUNT ---
+[Placeholder — to be written]

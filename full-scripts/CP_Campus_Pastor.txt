@@ -1,0 +1,677 @@
+============================================================
+ROLE: Campus Pastor (CP)
+============================================================
+
+------------------------------------------------------------
+INTRO NARRATIVE
+------------------------------------------------------------
+Your alarm goes off at 5:30. You were already awake. You pray for fifteen minutes, which is what you do every Sunday morning, and somewhere around minute eleven you realize you're making a mental list of everyone who might need to be corrected today. You note this. You pray a little longer.
+
+You have 47 staff and volunteers today. You know three of them are going to be problems. You know which three. You knew before you went to bed. You are a campus pastor. You carry the whole Sunday in your head from the moment you wake up until the last car leaves the parking lot. People who know you well call this your "Sunday face." You prefer "focused." Today you need to be both.
+
+Welcome to Execution Church. Today is Sunday. This Sunday could make or break everything.
+
+============================================================
+SCENE 1: The Parking Lot Counselor
+Time: 7:05 AM  |  Location: Parking lot
+============================================================
+
+NARRATIVE:
+You arrive at 7:05 AM. Dave is already in the parking lot. Dave gives you a thumbs up. You give him a thumbs up. This is your entire relationship with Dave and it is a good relationship.
+
+You are halfway to the door when Marcus stops you. Marcus is a congregant. Marcus is carrying a coffee from somewhere and has the expression of a man who has been holding a conversation in his head for two weeks and has decided that this morning, in this parking lot, is when that conversation happens.
+
+Marcus's marriage is struggling. He says this quietly, standing between two parked cars, at 7:05 AM on a Sunday. He says: 'I don't know if this is the time.' It is not the time. He has already started talking. He is not wrong that he needs to say this to someone.
+
+You have a full Sunday ahead. You also have Marcus.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Stop. Listen fully. Give him what time you have.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You are twenty-two minutes late to your first meeting. The team lead covers. The morning absorbs it. Marcus leaves service that morning looking lighter than he arrived. You schedule a proper appointment Monday. The Monday appointment leads to three more. The three more lead somewhere. You never fully know where because ministry doesn't have a final slide. It just continues.
+
+--- CHOICE B (bold) ---
+Text: Listen for two minutes, set up an appointment for Monday, move on.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+Marcus appreciates the structure. He knows you heard him. He emails you Sunday afternoon. The email is long and you read all of it. You respond Monday with a proper appointment. He comes. He is ready because the parking lot started something. The parking lot always starts something with you.
+
+--- CHOICE C (cowardly) ---
+Text: Tell him you're about to start a full morning and ask if he can email you.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Marcus looks at you. He says: 'Right, okay.' He goes inside. He sits in the second-to-last row, which is the row people sit in when they are not sure they want to be seen. He participates in service. He shakes your hand at the door. He does not make eye contact. He does not come back the following Sunday.
+
+--- CHOICE D (nuclear) ---
+Text: Listen to the full situation and offer to pray with him in the parking lot right now.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: +10  |  Self-Aware: -10
+
+Outcome (Win):
+You pray with Marcus in the parking lot. Dave is still there. Dave gives you a thumbs up from thirty feet away that suggests he cannot hear you but can see something is happening and endorses it. Marcus gets into his car after and sits in it for a moment. He comes inside. He sits in the third row. He comes back the following Sunday.
+
+Outcome (Lose):
+You pray with Marcus in the parking lot. Your prayer is genuine and good. It is also eleven minutes long. You are now twenty-eight minutes behind. The worship leader cannot reach you. The tech leader has a question that is time-sensitive. The administrator has a calendar issue. Dave is still giving you a thumbs up. Dave is the only person who is fully at peace with the morning.
+
+============================================================
+SCENE 2: The Staff Tension
+Time: 7:30 AM  |  Location: Staff area
+============================================================
+
+NARRATIVE:
+You get to the staff area and immediately feel it. The specific atmospheric pressure of two people who had an exchange in the last twelve hours that was not fully resolved and who are now in the same room on a Sunday morning pretending it was resolved.
+
+The worship leader and the administrator. They were both here last night for the late stage reset. Something happened during that reset — not a blowup, something smaller, the kind of small thing that can become a big thing if it isn't addressed, and neither of them has addressed it because it's Sunday morning and there's too much else.
+
+They are both doing their jobs. Their jobs are slightly louder and slightly more deliberate than usual. You notice this.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Address it right now. Both people, five minutes, mutual understanding.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+Three minutes. You close the door. You say: 'Something happened last night and I need both of you to be fully present today.' You don't know what happened. You don't ask. You say: 'Whatever it is, it waits until Monday. Can you give me today?' They both say yes. The yes from both of them is genuine. Monday the conversation happens. It is less difficult than Saturday night made it seem.
+
+--- CHOICE B (compassionate) ---
+Text: Check in with each person separately. Don't force a joint conversation today.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You check in with the worship leader first. He says 'I'm fine.' You wait. He says: 'We'll talk Monday.' You say: 'Yes you will.' You find the administrator. She says: 'We'll handle it Monday.' You say: 'Good.' They both do their jobs well that morning. There's still some atmospheric pressure. There is less of it.
+
+--- CHOICE C (cowardly) ---
+Text: Today is not the day for this. Acknowledge both. Move on.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The atmospheric pressure is present throughout the morning. By service one it has stabilized into professionalism. By service two it is genuinely fine. Monday's conversation gets pushed to Tuesday. Tuesday gets pushed to Thursday. Thursday they handle it themselves without you. You find out it's resolved when the administrator sends the worship leader a calendar invite for the following Saturday's stage reset. He accepts.
+
+--- CHOICE D (nuclear) ---
+Text: Address it publicly in the all-staff huddle as a general principle. No names.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: -10  |  Self-Aware: 0
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+Your general principle lands. Both people hear it. Neither of them looks at the other. Both of them look at you in a way that suggests they know what you're doing. The principle is about team unity before Sunday. It's not wrong. It's not subtle. It works. Monday's conversation happens because they both felt the nudge.
+
+Outcome (Lose):
+Your general principle lands publicly on three other people who have no idea what it refers to. All three of them assume it's about them. Two of them find you after the huddle. 'Is everything okay with my team?' one asks. 'What did I miss?' asks the other. You spend seventeen minutes reassuring people who were not the intended audience. The worship leader and the administrator watch this happen. They are both trying not to look at each other.
+
+============================================================
+SCENE 3: The Sermon
+Time: 8:00 AM  |  Location: Your office
+============================================================
+
+NARRATIVE:
+You are in your office. The door is closed. There is a paper taped to the outside: 'It's show business, not show friends.' You put it there. You believe in it. This morning it also functions as a boundary.
+
+You have a sermon to review. You have check-in texts to send to three team leads who are managing significant situations this morning. You have a Greg situation you are managing relationally. You have a budget question from an elder that arrived at 7:47 AM on a Sunday and should not have been sent at 7:47 AM on a Sunday.
+
+You have forty-five minutes before sound check and the beginning of your pastoral morning. You have enough material for about sixty-five minutes of work.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Forty-five focused minutes. You know this material. Trust the prep.
+Scores:  Ministry: +20  |  Relational: 0  |  Self-Aware: +20
+
+Outcome:
+The sermon is as ready as it's going to be. You know which parts land and which parts need to land differently. You make three small edits. The third edit is the best thing in the sermon. You wouldn't have found it without the forty-five minutes.
+
+--- CHOICE B (bold) ---
+Text: Send the check-in texts while you review the sermon outline. Two things at once.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You send three texts. Two of them are responded to immediately. One is not responded to until the huddle, at which point you already know the situation has been handled because Dave told you in the parking lot. Dave always knows. The sermon is adequately reviewed. You find the third edit during the sermon, out loud, which makes it feel more spontaneous than planned. It was neither.
+
+--- CHOICE C (cowardly) ---
+Text: Check in with the team first. You can review the sermon in the car.
+Scores:  Ministry: -10  |  Relational: +10  |  Self-Aware: -10
+
+Outcome:
+You review the sermon in the car. There is a traffic delay. The traffic delay is eleven minutes. You do not find the third edit. The sermon is good. You know it was supposed to be better. You know where the better part was supposed to go. The congregation does not know. The congregation finds it good. You are the only one sitting with the knowledge of what it could have been.
+
+--- CHOICE D (nuclear) ---
+Text: You know this sermon. You've preached this one. Not this exact version — close enough.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: -20
+Lose Scores:  Ministry: -20  |  Relational: 0  |  Self-Aware: -20
+
+Outcome (Win):
+You've preached this structure before. Not to this congregation. The bones are right. The specific illustrations are wrong — you've updated them but not deeply enough. In service one there is a moment where you start a sentence and realize, mid-sentence, that you have told a version of this story at your previous church. You adjust in real time. It works. Nobody in the room knows. You know.
+
+Outcome (Lose):
+You've preached this structure before. Halfway through service two you tell an illustration that you prepared for this congregation and realize, mid-illustration, that you told a nearly identical illustration in service one, which means you are now telling it twice. Three people notice. Two of them are your staff who were at both services. One of them is your elder board chair, who attended both services because of Greg. After service he finds you. 'Was that illustration different in first service?' he asks. 'Slightly,' you say. He nods. He writes nothing down. He doesn't have to.
+
+============================================================
+SCENE 4: The Huddle
+Time: 9:00 AM  |  Location: Church Lobby
+============================================================
+
+NARRATIVE:
+The team huddle is at 9:00 AM. 47 people. Lobby. Standing. You run this thing.
+
+The First Impressions leader gives you a look that means the staffing is thin this morning. You already knew. You factor it in.
+
+One of your team leads steps forward and gives the 'we get to do this' speech. She builds to a Scripture reference — 1 Corinthians 10:13. 'God won't give you more than you can handle.' She delivers this with the authority of someone landing a truth bomb. The verse is about resisting temptation. You know this. Three of the people in this room know this. No one says anything. You nod. This is also part of the job.
+
+You produce the $5 Chick-fil-A gift card. This was decided at staff meeting. Your team nominated the volunteer most visibly on the edge. There was a consensus, which there always is. His name is Kevin. Kevin arrived at 6:15 AM, is running two roles because the second person no-showed, and has said 'we're good, I got it' approximately eight times this morning. He receives the card with the expression of someone who didn't know they were being watched but is very glad they were. The room feels it. These are the moments the building is for.
+
+Then you introduce Greg. Former worship pastor from a well-known church that recently imploded. You invited him. You told him you wanted him to see something healthy. He is looking at the room with the eyes of someone doing a recalibration.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Run it tight. Two minutes max. Send them out ready.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+The huddle is four minutes. Clean, warm, specific. Two people tell you after service it was the best huddle they can remember. You don't remember which two because you were already moving, but one of them was Greg.
+
+--- CHOICE B (compassionate) ---
+Text: Let it breathe. They need the moment more than the clock needs the minute.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The huddle runs six minutes. People leave it with something. Two people are slightly late to their stations. Both of them run their stations well. The six minutes were the right call.
+
+--- CHOICE C (cowardly) ---
+Text: Let the team lead run it. You have three texts you haven't responded to.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The team lead runs it. She is good. She is not you. The room gets something different this morning and they're not sure what the difference was. Dave, who attends every huddle from the parking lot door, gives a half thumbs up. You don't know what a half thumbs up means. You've never seen it before.
+
+--- CHOICE D (nuclear) ---
+Text: Skip the scripted acknowledgment of the staffing gap. Just say: 'We're short. God is not. Let's go.'
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+'We're short. God is not. Let's go.' The room is quiet for one second. Then someone says 'let's go' back. Then two people say it. Then it's the whole room. Greg says 'I haven't seen that in a long time' afterward. He means the room saying it back. He does not mean you said it first.
+
+Outcome (Lose):
+The delivery lands a little harder than you intended. One team lead looks at you with the expression of someone trying to determine if this is a declaration or a prayer request. Another team lead checks their phone, which you notice. The moment recovers. Greg looks at you after and says: 'Short and direct. Good instinct.' He pauses. 'I'd practice the landing.'
+
+============================================================
+SCENE 5: Two Minutes to Service
+Time: 9:52 AM  |  Location: Backstage / lobby
+============================================================
+
+NARRATIVE:
+Two minutes to first service. You've done everything you can do. The staff is in position. The volunteers are at their stations. Dave has updated the laminated map. Gary is at the main door. The worship leader is in the wings. Greg is in the fourth row, which is where people sit when they want to observe without being the first person anyone sees.
+
+You are standing in the transition zone between backstage and lobby. Nowhere in particular. Available for anything.
+
+This is the moment before the moment. In twenty seconds the lights will shift. In thirty seconds the first notes will play. In ninety seconds the room will become the thing you believe it can be. You have been moving since 7:05 AM and you are about to stop moving for ninety minutes.
+
+Your phone is in your pocket. There are three unread texts. The texts can wait.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Go find a seat. You're not needed at the door right now. Be present for the room.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You find the seat you always sit in when you're not preaching — third row, left side, aisle. People see you there and it does something. It says: this is worth sitting down for. Greg sees you sit. Greg sits down too.
+
+--- CHOICE B (compassionate) ---
+Text: Stay near the door. This is the moment the building needs a face.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You stand near the door for the first song. Seven people come in late. You greet all seven with the warmth of someone who has all the time in the world. You do not have all the time in the world. Six of the seven feel welcomed anyway. The seventh is distracted by their phone and doesn't register the interaction. That's fine. The sixth one needed it.
+
+--- CHOICE C (cowardly) ---
+Text: Check your phone. One more thing needs a response before service starts.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+You answer one text. The text produces a response. The response produces a follow-up text. You are now in a thread. First service has started. You are in the lobby. You are on your phone. Greg is in the fourth row looking at the stage. Dave gives you a thumbs up from the door. You put the phone away. You go inside.
+
+--- CHOICE D (nuclear) ---
+Text: Go check on the tech booth. The subwoofer situation is still unresolved.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+The booth is fine. The subwoofer situation is being managed. The tech leader is handling it and does not need you there. She gives you a look that says: 'I have this.' You believe the look. You go back to the lobby. You find a seat. The look was accurate.
+
+Outcome (Lose):
+The booth is fine. The tech leader is handling it. She gives you a look that says: 'I have this.' You ask two follow-up questions anyway. The follow-up questions are not helpful. She answers them anyway. You are in the booth when the first song starts. You stay for two more minutes. The tech leader keeps doing her job around you with the grace of a professional who has worked with pastors her entire career.
+
+============================================================
+SCENE 6: The Livestream Goes Down
+Time: 10:25 AM  |  Location: Lobby / stage
+============================================================
+
+NARRATIVE:
+Third worship song. The tech leader's headset crackles: 'Livestream is down. I need two minutes.' The worship leader glances at you from the stage. The congregation doesn't know yet — they're mid-song. Greg is in the fourth row and he just checked his phone, which means he probably noticed the stream icon go gray.
+
+The tech leader's voice again: 'This is a hardware issue. I can't bring it back before the message.'
+
+This is the moment. You only preach when the livestream goes down. This is what you tell people as a joke. It is no longer a joke. The sermon you've been working on for four days is in a folder on your phone and also, more importantly, in your head. Thirty seconds from now you are going to walk into an auditorium and preach it to a live congregation while the tech leader tries to restore the feed.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Step to the front. You preach this one live.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You walk out. The worship leader sees you coming and does an extra verse to give you a moment to settle. You take the mic. You preach. It is not the most polished sermon of your year. It is present in a way that polished sometimes isn't. Greg comes to you after service. 'You were ready,' he says. 'I'm always supposed to be,' you say. Greg nods.
+
+--- CHOICE B (compassionate) ---
+Text: Give the tech team two minutes to fix it. If they can't, you preach.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The tech team takes two minutes. The feed is not restored. You walk out. You preach. The extra two minutes of pressure have sharpened something. The sermon lands harder than the reviewed version would have. The tech leader restores the feed during the offering. Three people ask if the sermon is available online. It is not. That's okay.
+
+--- CHOICE C (cowardly) ---
+Text: Wait in the lobby. The tech team will fix it. They always fix it.
+Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Three minutes. Five minutes. The tech leader texts: 'Working on it.' You are in the lobby. People inside can see the screen is blank behind the worship leader who is vamping through an extended version of the bridge. The worship leader has now done the bridge four times. The congregation is kind but beginning to wonder. Seven minutes in, you walk out. Your entrance at minute seven is less confident than it would have been at minute zero.
+
+--- CHOICE D (nuclear) ---
+Text: Preach it live — but preach the sermon you wish you had prepared instead of the one you did.
+Win Chance: 60%
+Win Scores:   Ministry: +20  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+The sermon you've been carrying in your head for three weeks — the better one, the one you didn't preach because the calendar said this week was the series topic — comes out instead. It is not polished. It is honest. Two people come to you afterward and say it was the best sermon they've heard this year. You do not tell them it was unplanned. You also do not tell them it was supposed to happen in three weeks. You go home and write it properly.
+
+Outcome (Lose):
+The sermon in your head is not the sermon in your notes. The sermon in your notes has the specific illustrations that go with the specific Scripture passage you announced in the bulletin. The sermon in your head is about something adjacent. You preach the thing in your head. Halfway through you realize you have not addressed the passage in the bulletin. You address it briefly at the end. Three people come to you afterward with questions about the passage you summarized. You answer them. You also rewrite next week's sermon on Monday.
+
+============================================================
+SCENE 7: Ron
+Time: 10:50 AM  |  Location: Lobby, during sermon
+============================================================
+
+NARRATIVE:
+You are in the lobby during the message. This is where you go when you're not preaching — circulating, available, present for the people who aren't in the room.
+
+Ron finds you. Ron has been here eleven years. Ron has feedback today that is specifically for you. The sermon this morning — and he begins here, which means this was prepared — is good, but the series has been running long and the congregation's engagement was 'visibly declining' by week four. Ron has been tracking engagement. Ron was not asked to track engagement. Ron tracked it anyway.
+
+Ron tells you what he tithes each month. It is your entire salary. From one person. Ron wants you to know that. Ron is not delivering a threat. Ron is providing context.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Sit with Ron. Give him the full pastoral conversation he needs.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You give Ron nineteen minutes. The nineteen minutes are good. Ron says things that are accurate and things that are inaccurate. You receive both with equal grace. At the end Ron says: 'I appreciate you taking the time.' You say: 'I appreciate you caring.' You both mean it. You go home and look at the engagement data on your own. Ron was not wrong about week four.
+
+--- CHOICE B (bold) ---
+Text: Hear him, name what you heard, and schedule a proper meeting.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+Ron receives the structure with the dignity of a man being respected. He says his piece in four minutes because you gave him a container. You repeat back what you heard. He nods. 'Monday,' he confirms. Monday's conversation is sixteen minutes and produces two things: a genuine insight about the series arc and a mutual respect neither of you would have named out loud but both of you felt.
+
+--- CHOICE C (cowardly) ---
+Text: Listen partially while watching the room. Redirect when you can.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Ron notices. Ron finishes his thought but knows you were not fully receiving it. He says: 'I appreciate your time.' He walks away. The walk carries something Ron is not saying. Ron does not come back to you this week with follow-up. Ron's follow-up will arrive via email on Wednesday. Ron will CC Gary. Nobody asked Ron to CC Gary. Ron felt it was appropriate.
+
+--- CHOICE D (nuclear) ---
+Text: Ask Ron if he's considered joining the elder board. His longevity and giving level are remarkable.
+Win Chance: 60%
+Win Scores:   Ministry: -10  |  Relational: +10  |  Self-Aware: -20
+Lose Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+Ron stops. Ron has not considered the elder board. Ron says: 'I wouldn't want to do that.' You say: 'Why not?' Ron says: 'Because then I'd have to stop giving feedback informally and start giving it formally, and I'm not sure that's better.' You look at Ron for a moment. 'Fair point,' you say. Ron nods. 'I'll schedule something for Monday,' Ron says. This is the most useful thing Ron has ever said to you in the lobby during a sermon.
+
+Outcome (Lose):
+Ron looks at you for a long moment. Ron says: 'Is this because of what I said about the series?' 'No,' you say. 'It's about your longevity and investment in this church.' Ron says: 'I'd like to think about it.' Ron leaves. Ron calls the board chair on Monday. The board chair calls you Monday afternoon. 'Did you ask Ron to join the elder board in the lobby during the sermon?' 'I raised the possibility,' you say. 'On the same morning you told him the series was running long?' The board chair is quiet. You are quiet. 'Let's talk Wednesday,' he says.
+
+============================================================
+SCENE 8: Greg's Assessment
+Time: 11:30 AM  |  Location: Lobby / side room
+============================================================
+
+NARRATIVE:
+Turnover between services. You find Greg in the lobby, which is where you'd been expecting to find him.
+
+Greg is ready to share. Greg is a professional at this by now — he's been through enough churches in enough capacities to know how to give feedback that is both honest and kind. His opening is: 'You've built something real here.' His middle includes three specific observations with concrete examples. His close includes one thing he'd 'watch.' He delivers all of it with the care of someone who knows that feedback is a form of investment.
+
+The one thing he'd watch: your preaching is good, but first service had a different energy than second service. He's not sure why. He thinks it might be the tech situation. He thinks it might be something else.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Hear it fully. Ask follow-up questions. Make notes.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+You take three pages of notes. You ask about the second service energy observation specifically — what did he see? He tells you. It's specific and it's accurate and it's something you've felt but haven't named. Greg says: 'Most people in your seat can't hear feedback. You can.' You accept the compliment. You don't fully trust it yet. You're working on that.
+
+--- CHOICE B (compassionate) ---
+Text: Thank him and tell him you'd like to process it properly over lunch this week.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Greg receives the deferral graciously. He says: 'I'll write it up if that's easier.' He sends a three-page document Monday. You read it three times. It is the most useful external perspective you've received in two years.
+
+--- CHOICE C (cowardly) ---
+Text: Receive the positive warmly and defer the harder feedback. 'Let's schedule something.'
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Greg receives the positive warmly because he is perceptive enough to know that the deferral of the harder part is where the real information is. 'Let's schedule it,' he says. The lunch happens Thursday. The harder feedback lands harder on Thursday than it would have on Sunday, because by Thursday you've had four days to convince yourself you already know what he's going to say. You don't fully know what he's going to say.
+
+--- CHOICE D (nuclear) ---
+Text: Ask Greg if he'd be interested in a part-time consulting role.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+Greg is quiet for a moment. He says: 'Tell me more about what that would look like.' The conversation that follows is forty-five minutes. Greg is not available — he has his own season to process. But Greg knows someone. Greg makes an introduction Friday. The introduction leads to something. Dave somehow knows about the introduction before you tell him. Dave gives you a thumbs up.
+
+Outcome (Lose):
+Greg says: 'I appreciate the thought.' He pauses. 'I'm not in a place to take something on right now.' You receive this. Then Greg says: 'I also want to be honest — I came here to give you a gift. Asking me to work for you changes what the gift is.' You sit with that for a moment. 'Fair,' you say. Greg nods. 'The feedback stands,' he says. 'I know,' you say. You mean it more than you did before he said that.
+
+============================================================
+SCENE 9: The Second Service Sermon
+Time: 12:10 PM  |  Location: Stage / auditorium
+============================================================
+
+NARRATIVE:
+Second service. You're preaching. The livestream is up, or wasn't, or is back — the morning has been a lot and you've adjusted accordingly.
+
+You're one minute from taking the stage. You are thinking about Greg's observation about first service energy. You are thinking about Marcus in the parking lot. You are thinking about the sermon you preached an hour ago and whether there is a better version of it available to you right now, with a full room that doesn't know about the subwoofer or the meme or the kid who got knocked over by a sound wave.
+
+Second service is always its own thing. The people here didn't see first service. They don't know what the morning was. They just came to church.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Use what happened in first service. Name the moment.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You open by telling the second service congregation about the livestream. You tell them what happened in the moment — the tech failure, the two-minute wait, the decision to walk out anyway. 'That's what we do here,' you say. 'We show up.' It lands. It's the best illustration in the sermon and you found it forty-five minutes ago in a crisis.
+
+--- CHOICE B (bold) ---
+Text: Preach the prepared version. The work is the work.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+The prepared version is good. You know this. The prepared work did what prepared work does — it shows up, it holds, it gives people something to take home. The second service is quieter than first service in a way you can't fully explain. Sometimes it is. That's okay.
+
+--- CHOICE C (cowardly) ---
+Text: Add three minutes of announcements to decompress. Then preach.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Announcements take six minutes instead of three. You use a joke that works better in the lobby than on stage. You feel this while you're saying it. The sermon starts late. It is good once it starts. The six minutes cost you the landing.
+
+--- CHOICE D (nuclear) ---
+Text: Preach to the two people in the front row who are clearly not together and are clearly both having a rough morning.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+You spend the sermon mostly in the center of the room, close. The two people in the front row — they don't know each other, both came alone, both sat near the front for reasons you'll never fully know — both stay afterward. One of them finds you. She says: 'How did you know?' You say: 'I didn't.' She looks at you. 'Okay,' she says. She comes back the following Sunday.
+
+Outcome (Lose):
+You spend the sermon focused on the front row. The front row feels this and responds well. Rows four through twelve are slightly adrift. Greg is in row four. Greg writes 'energy spread' in his notebook. You don't see this. Greg mentions it Thursday over lunch. You receive it. You think about it. You will preach to the whole room next week.
+
+============================================================
+SCENE 10: Chad and BlippiCoin
+Time: 12:40 PM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+After second service. You are in the lobby doing what you do — present, available, watching the room.
+
+Chad finds you. Chad is a bartender at Chili's but he's very into finance. Chad has been making his way through your staff all morning. Chad has saved you for last because, he says, 'you're the decision-maker here.' Chad opens his phone. Chad has a deck. The deck is about BlippiCoin — a cryptocurrency backed by Blippi, the children's entertainer.
+
+You have heard about BlippiCoin today already. It has come up twice. You know more about this than you expected to know.
+
+Chad looks at you with the sincere hope of a man pitching the right product to the right person.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Politely decline and exit the conversation.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+'No thank you, Chad.' Chad receives this. Chad nods. Chad finds one more person in the lobby. That person is also on your staff. You make a note to address the BlippiCoin situation at the H&M meeting and do not do this.
+
+--- CHOICE B (cowardly) ---
+Text: Listen for 5 minutes. You want to understand the congregation demographic who thinks this way.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+Chad's target demographic turns out to be: people who are open to risk, have some disposable income, and are looking for meaning in financial decisions. This is actually useful pastoral information. You take one page of mental notes. You also now know more about BlippiCoin than seems appropriate for a campus pastor.
+
+--- CHOICE C (compassionate) ---
+Text: Hear him out and then gently explain why you can't engage with this.
+Scores:  Ministry: 0  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Chad listens to your explanation with the patience of a man who believes every 'no' is a 'not yet.' He thanks you for your time. He follows up twice. He is very polite about the follow-ups. You respond to neither follow-up. Chad remains a Chili's bartender.
+
+--- CHOICE D (nuclear) ---
+Text: Invest $200. You preach about faith. BlippiCoin requires faith. There's a sermon illustration here.
+Win Chance: 50%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Flags: BLIPPICOIN_INVESTED
+
+Outcome (Win):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You did this after preaching a sermon about faith. BlippiCoin is worth $124,000 by the month-later meeting. You have a story to tell. You will never be able to tell this story from the stage but you tell it at the elders' retreat and you tell it very well and everyone laughs for a long time. Blippi is completely unaware.
+
+Outcome (Lose):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You are the campus pastor. You did this on a Sunday. BlippiCoin is worth $0. You tell no one. Chad follows up twice. You do not respond. Three weeks later one of your elders asks if you've 'heard about that Blippi crypto thing.' You say: 'Briefly.' 'It's worthless,' the elder says. 'I know,' you say. The elder does not know that you know.
+
+============================================================
+SCENE 11: The Post-Service Window
+Time: 1:15 PM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Services are done. The congregation is in the lobby. This is the third half-service — the twenty minutes of post-service conversation that is not scheduled but is essential. The sermon doesn't land until it's processed out loud with someone. You know this. You have always known this.
+
+You also know that you have been on since 6 AM, that something unresolved from this morning is still unresolved, and that the tank — the one that lets you hold space for people in the lobby — is closer to empty than you would like to admit at 1:15 on a Sunday.
+
+You are a pastor. You love this. You are also a person. That's a harder sentence to finish after a Sunday like today.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Stay until the last person leaves. This is the job.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You stay forty-five minutes. The family that stayed to talk — three of them — needed this conversation. You can tell. You drive home. You sit in the car in your driveway for a few minutes before going in. Not because anything is wrong. Just because you need the transition. The Sunday is still in the car with you. That's okay. That's the job.
+
+--- CHOICE B (bold) ---
+Text: Give yourself a hard out at 1:45. You've been on since 6 AM.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+1:45 and you exit. Three people you didn't get to have conversations they were working toward. Two of them will come back to you this week in other ways. One of them won't. You'll never fully know which one. You drive home. You stop somewhere quiet for lunch alone. You don't look at your phone for twenty-two minutes. It is the best twenty-two minutes of the day.
+
+--- CHOICE C (cowardly) ---
+Text: Make your rounds quickly and get to your office. You need ten minutes alone.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Ten minutes. Your office. You need it. You sit in the chair that faces the window. You don't look at your phone for the first time since 7:05 AM. Seven minutes in, someone knocks. It's Gary. Gary has something he'd like to go over before the H&M meeting. Gary has a list. It is not a short list.
+
+--- CHOICE D (nuclear) ---
+Text: Find Marcus from the parking lot and check in on him specifically.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome (Win):
+Marcus is near the back of the lobby. He sees you coming and does the thing people do when they're not sure if they're supposed to be found — he looks at his phone, then puts it down. You walk up. 'How'd it land today?' you ask. He says: 'Honestly?' You say: 'Always.' He tells you. It is the most honest thing anyone has said to you today. You file it.
+
+Outcome (Lose):
+Marcus is near the back of the lobby. You're halfway to him when three other people intercept you. You're with each of them for a genuine reason. By the time you look up Marcus is gone. You don't have his number. He submitted a connection card three weeks ago with a phone number you have in your system. You call Tuesday. He answers. He was glad you called. He needed more time anyway.
+
+============================================================
+SCENE 12: Hits and Misses
+Time: 20 min after last service  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Twenty minutes after second service. You run this meeting. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+
+You know more about this Sunday than anyone in this room. You were in the parking lot with Marcus at 7:05. You were in the booth. You were in the lobby. You were on stage. You were in the hallway when Ron found you. You were at the door when Greg was leaving. You know the wins and the misses from every angle.
+
+Gary is positioned near the front of the group. Gary has been waiting for this meeting since 8:47 AM.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Go first. Name the livestream, name the lobby gap, name what went right.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+You go first and you go long — not long-long, but complete. You name the livestream as a miss and the response as a win. You name the lobby coverage gap. You name Marcus by first name without context — 'A conversation in the parking lot this morning that reminded me why we do this' — and you see three people in the room straighten slightly when you say it. Gary opens his mouth. He closes it. That's enough.
+
+--- CHOICE B (bold) ---
+Text: Go first. One win. One miss. Make it brief. Set the tone.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Thirty seconds. One win, one miss. You hand it to the team. They go around. By the time it gets back to you you've heard seven different angles on the same Sunday. You close with two sentences. One of them lands. Greg, if present, writes something.
+
+--- CHOICE C (cowardly) ---
+Text: Ask someone else to go first. You need another thirty seconds.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+The team lead goes first. She's good. The room follows her lead instead of yours. You go when it comes to you. You have your thirty seconds. It's fine. It's not your best. Gary goes before you and sets a tone that you then respond to, which is the wrong order.
+
+--- CHOICE D (nuclear) ---
+Text: Go last. You've been in every room today. Let the team speak first. See what surfaces.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+The team talks for twelve minutes. You learn three things you didn't know about your own Sunday. One of them is from the kids ministry leader. One of them is from the worship leader. One of them is from Gary, which is the most surprising. Gary's observation is accurate. You make a note. You close the meeting. 'Same time next week.' Four seconds. Gary moves first. You watch him go. You are already thinking about Monday.
+
+Outcome (Lose):
+The team talks for twelve minutes. Then it comes to you. You have too much. You try to give it structure but the structure doesn't hold because there is too much morning in the way. Gary has by now given two observations and is working toward a third. The campus pastor ending the meeting last means the meeting ends on whatever the last person said before you, which was Gary's third observation, which was about the haze.
+
+The meeting ends on the haze.
+
+'Same time next week.'
+
+Four seconds.
+
+Gary moves first.
+
+============================================================
+ENDINGS
+============================================================
+
+--- ENDING 1: Fired. You are now a realtor. ---
+Condition: All three meters below 40
+Share Text: I GOT FIRED FROM EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 2: Reassigned. Campus Scheduling and Compliance Coordinator. ---
+Condition: Ministry < 40, Relational < 40, Self-Aware > 60
+Share Text: I'M NOW THE CAMPUS SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: I'M NOW THE CAMPUS SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: CAMPUS SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 3: Tanner is your new boss. He has thoughts about frequency. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware < 40
+Share Text: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 4: They called. Redemption City Church. Full benefits. Relocation package. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware > 60
+Share Text: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: REDEMPTION CITY CHURCH CALLED. WE'RE OUT.
+  Variant: THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. WE ANSWERED.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 5: Well done, good and faithful servant. Let's plan next Sunday. ---
+Condition: All three meters above 70
+Share Text: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY.
+  Variant: I SURVIVED EXECUTION CHURCH. ASK ME HOW.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 6: We'll do better next time. ---
+Condition: Ministry < 60, Relational > 60, Self-Aware > 60
+Share Text: I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 7: Pay raise. You can now afford brand name Ramen noodles. ---
+Condition: Ministry < 40, Relational > 60, Self-Aware < 40
+Share Text: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 8: Promoted. Better title. Real authority. Absolutely no pay raise. ---
+Condition: Ministry > 70, Relational > 70, Self-Aware < 40
+Share Text: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN WIN ---
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN LOSE ---
+[Placeholder — to be written]
+
+--- SPECIAL: MEME ACCOUNT ---
+[Placeholder — to be written]

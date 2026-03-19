@@ -1,7 +1,6 @@
 import { useState, useMemo, useEffect } from 'react'
 import type { Scene, GameState, ChoiceRecord } from '../../types/game'
 import { personalize } from '../../content/parser'
-import { useTTS } from '../../engine/tts'
 import {
   applyScoreDelta,
   addFlag,
@@ -35,7 +34,6 @@ export default function ScenePlayer({
   onAdvance,
 }: ScenePlayerProps) {
   const { player } = state
-  const { speak, stop } = useTTS()
 
   // Randomize choice order once on scene mount
   const shuffledChoices = useMemo(() => shuffle(scene.choices), [scene.sceneNumber])
@@ -45,17 +43,10 @@ export default function ScenePlayer({
 
   const p = (text: string) => personalize(text, player.name)
 
-  // Track scene view + read narrative on mount; stop when unmounting (scene change)
+  // Track scene view on mount
   useEffect(() => {
     analytics.sceneViewed(scene.sceneNumber, player.role)
-    speak(p(scene.narrative))
-    return () => stop()
   }, [])
-
-  // Read outcome text when it appears
-  useEffect(() => {
-    if (outcomeText) speak(outcomeText)
-  }, [outcomeText])
 
   function handleChoice(choiceId: string) {
     if (selectedId) return

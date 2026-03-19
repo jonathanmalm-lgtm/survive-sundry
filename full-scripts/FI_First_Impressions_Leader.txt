@@ -1,0 +1,671 @@
+============================================================
+ROLE: First Impressions Leader (FI)
+============================================================
+
+------------------------------------------------------------
+INTRO NARRATIVE
+------------------------------------------------------------
+Your alarm goes off at 6:30. Someone already made coffee. This is a good sign. You stand at the kitchen window for a moment with your mug. Today you will greet somewhere between four hundred and six hundred people, and every single one of them will form their first impression of Execution Church in the thirty seconds before they reach the auditorium. You know this. You take your job very seriously. You take it so seriously that the phrase "it's a door, {name}" has been said to you more than once in the past year.
+
+You are short two greeters today. You found out last night. You've already filled one slot. The other is still open and you have been thinking about it since you woke up.
+
+Welcome to Execution Church. Today is Sunday. This Sunday could make or break everything.
+
+============================================================
+SCENE 1: Dave's New Map
+Time: 6:45 AM  |  Location: Parking lot
+============================================================
+
+NARRATIVE:
+You arrive at 6:45 AM. Dave is already here. Dave is always already here.
+
+Dave is your longest-tenured parking lot volunteer. Dave has laminated maps. Dave's maps show parking flow, cone placement, and directional arrows with a specificity that suggests Dave may have surveyed this property with professional equipment at some point. You have never asked. You do not want to know.
+
+This morning, Dave is waiting for you with a new laminated map. The new map has a second entrance configuration that Dave worked out 'based on historical data.' Dave is very serious about this. Dave says 'historical data' with the confidence of someone who has a spreadsheet. Dave probably has a spreadsheet. You have not seen the spreadsheet.
+
+Your existing volunteers are looking at you and then at Dave and then at you. Some of them have worked with the old map for years.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Work with the new map. Dave clearly put thought into this.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The transition has some friction. Dave walks two volunteers through the changes. One volunteer disagrees with the new entrance configuration. Dave explains the historical data. The volunteer accepts this. Dave nods. You realize Dave has been waiting to use this map for approximately three weeks and was never going to stop waiting.
+
+--- CHOICE B (bold) ---
+Text: Use last week's map. Tell Dave you'll review the new one together on Monday.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Dave understands. Dave folds the new map carefully. Dave puts it in his vest pocket. Dave will bring it up again in approximately seven days. You will be ready.
+
+--- CHOICE C (cowardly) ---
+Text: Don't engage. Let the volunteers figure it out between themselves.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Two parking sections use the old map. One uses the new map. One volunteer follows neither and operates on instinct alone. Seventeen cars are parked in an arrangement that will make leaving after service a significant experience for everyone involved.
+
+--- CHOICE D (nuclear) ---
+Text: Accept the new map, study it for thirty seconds, and then present it to the full parking team as if you designed it.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: -20
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+Dave watches you present the map. Dave's expression is unreadable. After service Dave finds you. 'You presented it well,' Dave says. That is all Dave says. Dave laminated another copy. He gives it to you. 'In case you need a reference,' Dave says. You will never fully understand what Dave knows.
+
+Outcome (Lose):
+Dave knows. Dave knows immediately. Dave's expression does not change but something shifts behind it. Dave helps you anyway. Dave is a professional. After service Dave finds you. He does not raise his voice. 'You might want to put my name on the attribution next time,' Dave says. He hands you his laminated copy. He already made another one.
+
+============================================================
+SCENE 2: Three Greeters Short
+Time: 7:30 AM  |  Location: Main entrance
+============================================================
+
+NARRATIVE:
+Three greeters didn't show. You have a Planning Center page that says fourteen people confirmed. You have eleven people standing in the lobby. No texts, no calls, no explanations. Just absence.
+
+Your secondary entrance near the gym has no coverage. Your first-time guest table has one volunteer who is also supposed to be doing welcome packets. Gary is at the main door. Gary arrived early and organized the bulletins in a way that is slightly different from how you asked him to organize them. Gary believes his organization is more intuitive. Gary may be right. You don't have time to evaluate this.
+
+The first cars are already pulling in.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Text your backup list right now. Someone will come.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Two people respond within six minutes. One is a regular attender who always says yes. The other is a student ministry volunteer who cleared his schedule 'just in case.' You don't know how he knew. You have never asked. He shows up in jeans and a hoodie and greets people with the natural warmth of someone who has not been briefed on anything and doesn't need to be.
+
+--- CHOICE B (compassionate) ---
+Text: Redistribute the people you have. Cover the main door yourself.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You spend three hours at the main door. Your clipboard stays tucked under your arm the whole time. You make eye contact with every single person who walks through. First-time guests get thirty seconds of focused attention from you specifically. You are exhausted. You are also the reason several of those families come back.
+
+--- CHOICE C (cowardly) ---
+Text: Post in the all-staff chat. Maybe someone's free.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Nobody responds to the all-staff chat for eleven minutes. When someone does respond, they ask if you've tried the backup list. You had not yet tried the backup list. You try the backup list.
+
+--- CHOICE D (nuclear) ---
+Text: Stand outside and personally flag down every car that pulls in.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+You flag down forty-three cars. You are very enthusiastic. Three first-time guests later report that 'the man outside' was the reason they came back. They describe you as 'the most welcoming person they'd ever experienced at a church.' Dave clocks your location from across the lot and updates the map.
+
+Outcome (Lose):
+You flag down forty-three cars. You are very enthusiastic. On car twenty-seven you flag down someone who was not coming to church. He was turning around in the parking lot. He is now parked. He is in service. He stays for the whole thing. He gives his life to Christ. This should feel like a win. It does not fully feel like a win.
+
+============================================================
+SCENE 3: The Setup
+Time: 8:00 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+The lobby is your canvas. You have seen what it looks like when this room works — when the flow is right and the greeters are positioned and the first-time guest table is visible and the connection cards are where people can actually find them. You have also seen what it looks like when it doesn't.
+
+Right now it is not fully either. The chairs near the welcome area are blocking the hallway to the bathrooms. The haze from last week's service has left a faint visible layer near the ceiling that nobody has mentioned and everyone can see. The connection card holder is empty because Gary refilled it with the wrong year's cards — they say 2023. It is not 2023.
+
+You have 90 minutes. First guests arrive in 45.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Walk the whole space. Document everything.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You find seven things to fix. Two of them require Facilities. Two of them you handle yourself. Two you delegate. One — the haze — you note and accept. You cannot fix the haze. No one can fix the haze.
+
+--- CHOICE B (compassionate) ---
+Text: Start with the highest-traffic areas. Delegate everything else.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+The high-traffic areas are ready by 8:45. Two smaller things go unaddressed. One of them will be noticed. One won't. You spend the rest of setup time with your team, which means your team is ready when the doors open.
+
+--- CHOICE C (cowardly) ---
+Text: It mostly looks okay. Focus on the welcome table.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The welcome table looks excellent. A first-time guest asks where the bathrooms are. You direct her around the chairs you didn't move. She navigates them successfully. Two other guests try the same path and one of them bumps a chair. Nobody falls. Nothing breaks. Gary says 'I just want to be honest, I've always thought those chairs were in the wrong place.' Gary is correct. You knew this.
+
+--- CHOICE D (nuclear) ---
+Text: Give Gary the clipboard and do the walk yourself.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Gary takes the clipboard. Gary is extremely thorough. Gary discovers three things you missed. Gary documents them in a format that has subcategories. Gary updates the lamination schedule. This is the most productive 45 minutes Gary has ever contributed to your ministry. You don't know how to feel about this.
+
+Outcome (Lose):
+Gary takes the clipboard. Gary uses the clipboard to make organizational decisions that are not within the scope of what you asked Gary to do. Gary moves three things. Gary tells two volunteers to move two other things. By the time you complete your walk, the lobby has been reorganized according to Gary's internal logic. Gary's internal logic is not your logic. Some of it is correct.
+
+============================================================
+SCENE 4: Greg in the Lobby
+Time: 9:00 AM  |  Location: Church Lobby
+============================================================
+
+NARRATIVE:
+The team huddle is at 9:00 AM. You are here because it is required and also because this is the last time today you'll be able to see everyone in the same room.
+
+The worship leader acknowledges the staffing gaps — you're short this morning, which you already know because you've been managing it since 6:45. But — she pauses for effect — 'God won't give you more than you can handle.' She cites 1 Corinthians 10:13 with the confidence of someone who has found the perfect verse. The verse is about resisting temptation. It is not about staffing. Nobody says this. You think it. You continue to think it.
+
+The campus pastor produces a $5 Chick-fil-A gift card. This was decided at staff meeting. The team nominated whose volunteer was most visibly on the edge. There was a consensus. He calls Maria's name. Maria has been working the welcome table since before you arrived this morning, has spoken with more first-time guests than anyone else on your team, and has smiled consistently for two hours in a way that is both genuine and quietly heroic. She receives the card with the expression of someone who didn't know they were being watched but is very glad they were.
+
+Then Greg is introduced. Former worship pastor at a well-known church that recently imploded. He's here to observe. He is wearing a very good jacket. Greg scans the lobby with the eyes of someone who has stood in a lot of lobbies.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Introduce yourself, tell him exactly how you run first impressions.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Greg listens. Greg asks one follow-up question: 'How do you train for genuine warmth versus performative warmth?' You have a real answer. You give it. Greg writes something down. After service he comes back. 'That was the best lobby I've experienced in a while,' he says. You believe him.
+
+--- CHOICE B (cowardly) ---
+Text: Be warm. Move on. You have a lobby to manage.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Safe. Greg moves on. Later you hear from the campus pastor that Greg mentioned the lobby felt 'polished but a little impersonal.' You think about that on the drive home.
+
+--- CHOICE C (compassionate) ---
+Text: Ask Greg about first impressions at his former church. Learn something.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+Greg tells you that his former church had a team of eight dedicated to first impressions with a separate budget line just for the lobby experience. He says this in the past tense, slowly, with the care of someone who is still figuring out how to talk about that season of their life. You listen. You ask one more question. Greg is different after that question.
+
+--- CHOICE D (nuclear) ---
+Text: Position Greg near the main entrance and tell him he's your greeter for first service.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Greg greets people with the natural ease of someone who has done this for twenty years in front of large crowds. Three first-time guests stop to talk with him. He is warm, unhurried, and excellent. After service he finds you: 'I should have been doing this the whole time.' You don't entirely know what he means. You think you might.
+
+Outcome (Lose):
+Greg is a worship pastor. Greg's training is for the front of the room, not the door. Greg is warm but also slightly intense in a way that is appropriate for leading worship and less appropriate for greeting strangers at 9:40 AM. One first-time couple exits. Not leaves — exits. Through the parking lot. Dave clocks them. Dave updates his notes.
+
+============================================================
+SCENE 5: The First-Time Family
+Time: 9:50 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Eight minutes to first service. You are managing three things at once and doing it well when you see them.
+
+A family. Dad, mom, two kids under ten. They're standing near the entrance with the specific stillness of people who have not been to this church before and are waiting for someone to tell them what to do. The dad is holding a connection card that he got from a greeter outside. He doesn't know what to do with it. The mom is scanning the room. The kids are watching other kids run by with the body language of children who would very much like to be running.
+
+This family has driven here this morning. You don't know how far. You don't know what they're carrying. You know they're here, and nobody has made eye contact with them in approximately ninety seconds.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Stop everything. Walk them in personally.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You walk them in. You find out they have an eight-year-old and a five-year-old. You walk the kids to children's check-in personally. You introduce the parents to a second-year attendee who has a similar-aged family. They sit together. They come back the following week. Dave from the parking lot sees them park and gives you a thumbs up. Dave knows. Dave always knows.
+
+--- CHOICE B (bold) ---
+Text: Assign your best greeter. Give a specific handoff.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Your best greeter is on it in forty-five seconds. She has a gift for this. She walks them in, connects the kids, and finds them seats with a family she knows will be warm. After service the mom finds your greeter: 'Thank you for not just pointing.' Your greeter finds you to tell you this. You both nod. That's what the door is for.
+
+--- CHOICE C (cowardly) ---
+Text: Point them to the welcome table. You have four other things happening.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+They find the welcome table. The welcome table has a volunteer who is also managing three other things. The family gets a bulletin and a parking map. The kids find children's ministry on their own. Service starts and the parents are still in the lobby. They sit in the back. They don't come back the following week. You don't know they don't come back. Dave knows. Dave does not tell you. Dave updates the map.
+
+--- CHOICE D (nuclear) ---
+Text: Introduce them to Greg. Former worship pastor. Very personable. Very good jacket.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +20  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+Greg is excellent with them. Genuinely excellent. He has a child the same age as their oldest. He walks them all the way to children's check-in and then walks the parents to a seat. After service they tell the campus pastor that 'the man in the jacket' was the reason they felt welcome. The campus pastor relays this to Greg. Greg is quiet for a moment. Then: 'Good.'
+
+Outcome (Lose):
+Greg is warm with the family but also, at some point during the lobby conversation, mentions that he used to lead worship at a well-known church. He says this in the past tense, carefully. The dad recognizes the church name. The dad has read about the church. The dad has read about the pastor. The conversation shifts. The family is fine. The moment is complicated. You will not know about this until someone mentions it at the H&M meeting in a way that requires context.
+
+============================================================
+SCENE 6: The Line at the Coffee Bar
+Time: 10:20 AM  |  Location: Lobby coffee area
+============================================================
+
+NARRATIVE:
+Service has started. The lobby is supposed to be clear. The lobby is not clear.
+
+There is a line at the coffee bar. Not a short line. A committed line. Eleven people, some of them in their church clothes, some of them in their everyday clothes, all of them standing in the lobby while service is happening inside the auditorium. The coffee volunteer ran out of cups twenty minutes ago and was waiting for someone to bring more. Nobody brought more. The cups are in the storage room. The storage room was locked. The key was on a hook that Gary moved 'for organizational purposes.'
+
+Gary has been in service for eight minutes. Gary does not have his phone.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Open a second coffee station. Use the emergency supplies.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You find the emergency supplies — paper cups from the kitchen — and open the supply cart as a second station. The line moves in four minutes. Two people from the line come to you after service to thank you. One of them is a regular. One of them is the first-time family from this morning. The dad is holding a paper cup. He gives you a thumbs up. You give him a thumbs up.
+
+--- CHOICE B (compassionate) ---
+Text: Go help pour. Be present. Keep people happy while you solve it.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You pour coffee for seven people. You are the First Impressions Leader and you are pouring coffee in the lobby during service. This is exactly the job. You find the cups in the storage room with a key from the maintenance closet. The line clears by 10:38. You smell like coffee for the rest of the day.
+
+--- CHOICE C (cowardly) ---
+Text: Put a sign on the table: 'Back in 10 minutes.'
+Scores:  Ministry: -20  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The sign goes up. People stand there and read the sign. Two of them leave. Three wait. One photographs the sign and posts it on Instagram Stories with the caption 'lol.' The caption has no church tag but Dave's laminated map is visible in the background. Dave sees the post. Dave does not like the post. Dave documents the post.
+
+--- CHOICE D (nuclear) ---
+Text: Close the coffee bar entirely. Service started. The coffee moment has passed.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: -10  |  Self-Aware: +10
+Lose Scores:  Ministry: -20  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+The eleven people in line receive no coffee. Eleven of them go inside. Eight of them find it genuinely fine. Three of them are annoyed for the rest of service. None of them say anything at the door. One of them leaves a Google review that is two stars. The review says: 'No coffee. Nice people though.' This is technically a win.
+
+Outcome (Lose):
+One of the eleven people in line is a visiting pastor from a church in another state. He is here to evaluate the campus for a potential partnership. He stands in the lobby for seven minutes reading the sign. He goes inside. He does not have coffee. His write-up of the visit later mentions 'operational gaps in the lobby experience.' The campus pastor asks you about the coffee bar at the H&M meeting. Gary says: 'I just want to be honest, I moved the key for organizational purposes.'
+
+============================================================
+SCENE 7: Ron
+Time: 10:50 AM  |  Location: Lobby, during sermon
+============================================================
+
+NARRATIVE:
+You're in the lobby during the sermon. This is normal. The lobby is your second service.
+
+Ron finds you. Eleven years at Execution Church. Ron has opinions about the door. Specifically, the front door. The door opens too easily, according to Ron. People come in after service has started and they come in loud. The door mechanism should have a slower close. Also the greeters at the secondary entrance have, in Ron's observation, inconsistent energy. Some Sundays they are warm. Some Sundays they are 'just standing there.' Ron has been tracking this.
+
+Ron tells you what he tithes each month. It is your entire salary. From one person. Ron would like you to know that. Ron wants a response.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Listen fully. Thank him. Tell him you'll look into the door system.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+Ron nods. Ron is satisfied. Ron is not fully satisfied — Ron is never fully satisfied — but Ron respects the earnest acknowledgment. He walks away. He will follow up in writing. The follow-up will arrive Thursday.
+
+--- CHOICE B (cowardly) ---
+Text: Write down his concerns. Tell him there's a feedback process.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Ron looks at the form you've handed him. Ron has feelings about forms. Ron submits the form online at 7:23 AM the following Monday. The form goes to the general inbox. Gary monitors the general inbox. Gary sends Ron a response. You find out about this exchange on Wednesday when the campus pastor forwards it to you.
+
+--- CHOICE C (bold) ---
+Text: Tell Ron you'd love to do a walkthrough with him sometime. Make it his idea.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+Ron blinks. Ron was not expecting to be recruited as a solution. Ron thinks about this. Ron says: 'I've always thought the secondary entrance should be the one with the best energy.' Ron has been to churches where that was true. You see something shift in Ron's face — the specific shift of a person who has moved from complaining to being useful. This is worth more than you can quantify. Ron does the walkthrough Thursday. Ron has notes. Several of Ron's notes are correct.
+
+--- CHOICE D (nuclear) ---
+Text: Tell Ron you've been thinking about assigning a dedicated greeter to Row 4 specifically.
+Win Chance: 60%
+Win Scores:   Ministry: 0  |  Relational: +20  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+Ron looks at you. Ron sits in Row 4. Ron has been in Row 4 for eleven years. Ron was not expecting to be a focal point of a strategy. Ron looks moved. 'I'd appreciate that,' he says. You have accidentally made Ron feel seen. This is not what you intended. The outcome is better than you intended.
+
+Outcome (Lose):
+Ron's expression moves through suspicion, consideration, and then a different kind of suspicion. 'Is this because I mentioned the door?' he asks. You say: 'It's something we've been thinking about generally.' Ron looks at you. Ron has been here eleven years. Ron knows when something has been thought about generally and when it has just been invented. 'I'll think about it,' Ron says. He walks away. You both know he will not think about it.
+
+============================================================
+SCENE 8: The Lobby Complaint
+Time: 11:30 AM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Turnover between services. You are resetting the lobby, briefing the second-service team, and preparing for the second wave when a man stops you.
+
+His name is Kevin. Kevin is a regular. Kevin says, very directly, that he brought his coworker this morning — a first-time guest — and nobody spoke to them when they came in. They sat in the back. Nobody sat near them. Nobody spoke to them at the end of service either. His coworker's first impression of this church was: 'There were a lot of people there.'
+
+Kevin is not angry. Kevin is a problem-solver. Kevin would like this to be better. Kevin is telling you because he believes you can fix it. This is actually a gift. It doesn't feel like a gift right now.
+
+DECISION: What do you do?
+
+--- CHOICE A (compassionate) ---
+Text: Stop. Listen fully. Apologize. Ask what would have made it better.
+Scores:  Ministry: 0  |  Relational: +20  |  Self-Aware: +20
+
+Outcome:
+Kevin appreciates being heard. Kevin is the kind of person who doesn't need a solution in this moment — he needs to know the problem was received. You receive it. 'What's your coworker's name?' you ask. Kevin says 'Marcus.' You write it down. You find Marcus in the lobby. You talk to Marcus yourself. Marcus comes back the following week with Kevin. Kevin gives you a thumbs up.
+
+--- CHOICE B (bold) ---
+Text: Acknowledge it, own it, pivot to a solution.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Kevin respects the directness. You tell him you'll move one more greeter to the section where he sat. You find out where he sat. You adjust the positioning for second service. After second service a volunteer reports that a first-time couple in that section said 'everyone here is so warm.' You file this. Kevin did you a favor.
+
+--- CHOICE C (cowardly) ---
+Text: Apologize and explain why it happened.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Kevin receives the explanation. Kevin understands the explanation. Kevin was not asking for an explanation. Kevin nods politely and moves on. His coworker is currently deciding whether to come back to this church. He comes back once more. He comes back to a different section of the auditorium, which has better coverage. He is greeted warmly on that second visit. He joins a small group six weeks later. You will never know this happened.
+
+--- CHOICE D (nuclear) ---
+Text: Ask if he'd be willing to share that feedback with the team during the Hits and Misses meeting.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -10
+
+Outcome (Win):
+Kevin looks at you. Kevin is a systems person. Kevin sees that you're also a systems person. Kevin says: 'Yeah. I'll do that.' Kevin comes to the H&M meeting. Kevin gives direct, specific, useful feedback. The campus pastor listens. Gary says: 'I just want to be honest, I think Kevin makes a fair point.' This is the first time Gary has been fully helpful. Nobody reacts. You file it.
+
+Outcome (Lose):
+Kevin is not a church staff person. Kevin was not prepared to attend a Hits and Misses meeting. Kevin says: 'Oh — I can come to a meeting?' You say: 'Please.' Kevin comes. The team receives Kevin's feedback with varying degrees of grace. Gary says: 'I just want to be honest, this is unusual for a guest to be at this meeting.' Kevin is now a guest who has been told by Gary that his presence is unusual. Kevin finishes his feedback and leaves. Kevin does not come back the following week.
+
+============================================================
+SCENE 9: The Overflow Problem
+Time: 12:10 PM  |  Location: Lobby / Overflow area
+============================================================
+
+NARRATIVE:
+Second service. The auditorium is full. Not full-ish. Full. There are people standing near the back. There are people standing in the lobby watching through the glass doors. Two ushers are doing the math and looking at you.
+
+The overflow room — a side room with a monitor feed — is available. The monitor feed was working last week. You have not checked if the monitor feed is working this week. The overflow room also has chairs in it but they are not set up for overflow. They are set up for the marriage counseling class that meets Thursday and Gary has not moved them.
+
+Gary is inside. Gary is in his usual spot. Gary has not been informed that overflow is needed.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Open the overflow room. Get it running now.
+Scores:  Ministry: +20  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+You find two volunteers and get the room set up in eight minutes. The monitor feed works. Twenty-three people use the overflow room. Four of them prefer it. Two of them say it's quieter. One of them has a newborn and cries with relief when she sees the monitor. You add overflow readiness to your pre-service checklist.
+
+--- CHOICE B (compassionate) ---
+Text: Manage the lobby personally. Give people a moment before making the call.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You work the lobby personally for eleven minutes, keeping people comfortable while your team sets up overflow. One family leaves. You get their name from the visitor card they filled out. You follow up Monday. They come back the following week to a seat you have personally ensured will be available. Dave sees their car and updates the map.
+
+--- CHOICE C (cowardly) ---
+Text: Ask Gary. Gary has been here for the overflow situation before.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+Gary receives the information. Gary processes the information. Gary has a process for overflow. Gary's process takes eleven minutes and involves Gary reorganizing the chairs in a sequence Gary finds intuitive. Gary's sequence is not wrong. Gary's sequence is just slower than the situation requires. People are standing in the lobby. Three of them leave before overflow is ready.
+
+--- CHOICE D (nuclear) ---
+Text: Text the campus pastor during service: 'We're at capacity. What do you want me to do?'
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: -10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome (Win):
+The campus pastor receives your text. He responds during the sermon in a way that suggests he checked his phone during his own sermon, which is a whole other conversation. His response: 'Your call.' You make the call. The call is correct. After service he finds you. 'Good call,' he says. 'You texted during your own sermon,' you say. He looks at you. 'Same time next week,' he says.
+
+Outcome (Lose):
+The campus pastor does not respond during service. He responds at 12:47 PM: 'Sorry, just saw this — how did it go?' You had already made the call. The call was fine. But you waited for an answer that didn't come, which cost you six minutes, and six minutes at capacity produces two families who leave and three people who stand in the lobby deciding whether to stay. One stays. Two leave. Dave updates the map.
+
+============================================================
+SCENE 10: Chad and BlippiCoin
+Time: 12:40 PM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Second service is running. The lobby is in good shape. You have twelve minutes before you need to be anywhere specific.
+
+Chad finds you. Chad is a bartender at Chili's but he's very into finance. He has been working his way through the staff all morning. He found you because — and he is very direct about this — 'you manage the front of house and I want to talk to you about a front-of-house opportunity.' Chad opens his phone. Chad has a deck. The deck is about BlippiCoin — a cryptocurrency backed by Blippi, the children's entertainer. Chad has been told by someone — you do not know who — that you are 'the decision-maker for this area.'
+
+Chad is wrong about what you make decisions about. Chad's confidence is unaffected by this.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Hard no. 'Not right now, Chad.'
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad nods. Chad finds the campus pastor in the lobby. The campus pastor listens to the pitch for four minutes before extracting himself with the pastoral warmth of a man who has escaped harder conversations. He finds you later. 'Who's Chad?' he asks. You explain. The campus pastor nods. He says: 'He had a deck.' 'He always has a deck,' you say. The campus pastor considers this.
+
+--- CHOICE B (cowardly) ---
+Text: Give him 5 minutes. This lobby manages itself.
+Scores:  Ministry: -10  |  Relational: 0  |  Self-Aware: -10
+
+Outcome:
+The lobby does not manage itself. A greeter has to handle two things without you. One of them works fine. The other one produces a situation that you have to address after service. You also now know more about BlippiCoin than you expected to know.
+
+--- CHOICE C (bold) ---
+Text: Take his card. Email later.
+Scores:  Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+
+Outcome:
+Chad sends the deck at 11:58 PM. The deck is 14 slides. Slide 7 is titled 'LOBBY SYNERGIES.' You do not know what lobby synergies means in the context of a Blippi-based cryptocurrency. You forward it to the kids ministry leader. She responds: 'Why.' You respond: 'Slide 7.' She responds: 'Oh.'
+
+--- CHOICE D (nuclear) ---
+Text: Invest $200 in BlippiCoin on the spot. You manage the lobby. Lobbies are about first impressions. BlippiCoin is about the future. These things connect somehow.
+Win Chance: 50%
+Win Scores:   Ministry: 0  |  Relational: 0  |  Self-Aware: 0
+Lose Scores:  Ministry: 0  |  Relational: 0  |  Self-Aware: -10
+Flags: BLIPPICOIN_INVESTED
+
+Outcome (Win):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. You did this in a church lobby while managing first impressions. BlippiCoin is worth $124,000 by the month-later meeting. You tell exactly one person. They are quiet for a long time. Then: 'Tell me more about this Chad.'
+
+Outcome (Lose):
+You have invested $200 in a cryptocurrency backed by a man in an orange and blue outfit who teaches children about excavators. BlippiCoin is worth $0. You tell no one. Chad follows up twice. Chad will stop finding you in the lobby and will start emailing you. You do not respond to Chad's emails. Chad is still a bartender at Chili's.
+
+============================================================
+SCENE 11: The Bad Google Review
+Time: 1:15 PM  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Services are done. A volunteer finds you with his phone turned outward. He is showing you something. He has the expression of someone who does not want to be the one showing you this but feels it should not wait.
+
+There is a Google review. Two stars. Posted forty-three minutes ago — meaning during second service. The review reads: 'Big church, didn't feel welcome. Nobody said hi. Coffee ran out. Couldn't find a seat.' The reviewer's name is 'K. Morris.' The profile photo is a blurry photo of a dog.
+
+Some of this is your responsibility. Some of it is not. All of it is your problem.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Draft a response right now. Professional, warm, specific.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+You write the response. You get it to ninety percent, then share it with the campus pastor before posting. He changes three words. You post it. The response is warm and specific and not defensive. K. Morris does not respond. One other reviewer, unprompted, adds a five-star review that says 'best lobby I've been in.' The campus pastor shows this to the elders. Gary says he's been here eleven years and it's always been welcoming. He is not wrong.
+
+--- CHOICE B (compassionate) ---
+Text: Try to identify who left it. Reach out directly.
+Scores:  Ministry: +10  |  Relational: +20  |  Self-Aware: +10
+
+Outcome:
+You look through connection cards from this morning. You find a 'K. Morris' on a card from second service. You call the number on Monday. She answers. She is surprised you called. The conversation lasts twelve minutes. She comes back the following Sunday. She leaves a four-star review. The one-star upgrade feels like a win. It is a win. Dave saw her leave the first time. Dave sees her come back. Dave updates the map.
+
+--- CHOICE C (cowardly) ---
+Text: Flag it for the campus pastor. This is above your pay grade.
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome:
+The campus pastor receives the flag Monday morning. He is not upset. He asks what happened with the coffee. You explain. He asks about the greeting gap. You explain. He asks you to handle the response. He trusts you with the response. You write a good response. You wish you had written it on Sunday when you had the context fresh.
+
+--- CHOICE D (nuclear) ---
+Text: Reply with: 'We'd love to connect with you about your experience. Our door is always open — and it closes slowly, by design.'
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: +10  |  Self-Aware: 0
+Lose Scores:  Ministry: -10  |  Relational: -20  |  Self-Aware: -20
+
+Outcome (Win):
+K. Morris responds: 'Lol okay.' This is not clearly positive. K. Morris updates her review to three stars. You do not know why. You do not ask. The campus pastor sees the reply and says: 'The door thing was a risk.' 'I know,' you say. 'It landed,' he says. He walks away.
+
+Outcome (Lose):
+K. Morris responds: 'This seems like something you're told to say.' She updates her review to one star. She adds a sentence: 'They replied but it felt scripted.' The campus pastor reads the exchange. He is quiet for a moment. 'What does 'closes slowly by design' mean?' he asks. You explain about Ron. He stares at you. 'Same time next week,' he says.
+
+============================================================
+SCENE 12: Hits and Misses
+Time: 20 min after last service  |  Location: Lobby
+============================================================
+
+NARRATIVE:
+Twenty minutes after second service. Everyone is standing. Nobody has eaten since the huddle donuts four hours ago. This is not a meeting with food. This is a meeting where you find out what people actually thought.
+
+Campus pastor goes first. Win — both services. Miss — he was in the lobby during turnover and not with the team. He looks at you.
+
+Before you can answer Gary the head usher says: 'I just want to be honest, I thought the lobby had some gaps today.' Gary was in the lobby for parts of today. Gary is not wrong about the gaps. Gary is also not the reason for the gaps. You nod slowly.
+
+DECISION: What do you do?
+
+--- CHOICE A (bold) ---
+Text: Report the full picture: the gap in coverage, the coffee, K. Morris, the family you did reach.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +20
+
+Outcome:
+The room listens. When you get to K. Morris the campus pastor writes something. When you get to the family who came back, he looks up. 'Tell me more about that,' he says. You do. That's the last thing on your report. The meeting ends on that. It's the right note.
+
+--- CHOICE B (bold) ---
+Text: Lead with the overflow win. Name the coffee miss. Skip the Google review.
+Scores:  Ministry: +10  |  Relational: +10  |  Self-Aware: +10
+
+Outcome:
+Clean. The campus pastor accepts the overflow call. He doesn't ask about K. Morris. Someone else will find the review eventually. You have a plan for it. That's enough for today.
+
+--- CHOICE C (cowardly) ---
+Text: 'Door felt warm. Lobby felt cold. We'll work on it.'
+Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -20
+
+Outcome:
+Nobody asks. The campus pastor writes 'door/lobby' in his notes. You have given him the shape of a problem without the substance. He will ask you on Monday. You will have to reconstruct it from memory. Some of the detail will be gone by Monday.
+
+--- CHOICE D (nuclear) ---
+Text: Name the Google review out loud in front of the team. Put it on the table.
+Win Chance: 60%
+Win Scores:   Ministry: +10  |  Relational: 0  |  Self-Aware: +10
+Lose Scores:  Ministry: -10  |  Relational: -10  |  Self-Aware: -10
+
+Outcome (Win):
+The room goes quiet when you name the review. The campus pastor looks at you directly. 'Two stars,' he says. 'Two stars,' you confirm. The team processes this together. It is the most honest the room has been all day. Gary says: 'I've been here eleven years and we've always had good reviews.' The campus pastor writes something. You do not ask what.
+
+Outcome (Lose):
+The room goes quieter than you expected. Tech team checks their phones. Worship team checks their phones. Someone Googles the church. Someone reads the review out loud without meaning to read it out loud. The campus pastor says: 'Let's address this offline.' Gary says: 'I just want to be honest, that door does close slowly.' Nobody responds to Gary.
+
+Around the room: Tech reports the stream was clean. Worship says second service had something. Kids ministry says Jackson is coming back next week. That's the win and the miss. Nobody claims the lobby when it comes up. Someone says the haze was a lot today. Nobody claims the haze.
+
+'Same time next week.'
+
+Four seconds.
+
+Gary moves first.
+
+============================================================
+ENDINGS
+============================================================
+
+--- ENDING 1: Fired. You are now a realtor. ---
+Condition: All three meters below 40
+Share Text: I GOT FIRED FROM EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 2: Reassigned. First Impressions Scheduling and Compliance Coordinator. ---
+Condition: Ministry < 40, Relational < 40, Self-Aware > 60
+Share Text: I'M NOW THE FIRST IMPRESSIONS SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: I'M NOW THE FIRST IMPRESSIONS SCHEDULING AND COMPLIANCE COORDINATOR.
+  Variant: FIRST IMPRESSIONS SCHEDULING AND COMPLIANCE COORDINATOR. AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 3: Tanner is your new boss. He has thoughts about frequency. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware < 40
+Share Text: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: TANNER IS MY NEW BOSS AT EXECUTION CHURCH.
+  Variant: MY NEW BOSS HAS 340 PODCAST SUBSCRIBERS AND A VISION DOWNLOAD JOURNAL.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 4: They called. Redemption City Church. Full benefits. Relocation package. ---
+Condition: Ministry > 60, Relational < 40, Self-Aware > 60
+Share Text: REDEMPTION CITY CHURCH CALLED. I'M OUT.
+  Variant: REDEMPTION CITY CHURCH CALLED. I'M OUT.
+  Variant: THEY CALLED. FULL BENEFITS. RELOCATION PACKAGE. I ANSWERED.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 5: Well done, good and faithful servant. Let's plan next Sunday. ---
+Condition: All three meters above 70
+Share Text: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: I SURVIVED SUNDAY AT EXECUTION CHURCH.
+  Variant: WELL DONE, GOOD AND FAITHFUL SERVANT. APPARENTLY.
+  Variant: I SURVIVED EXECUTION CHURCH. ASK ME HOW.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 6: We'll do better next time. ---
+Condition: Ministry < 60, Relational > 60, Self-Aware > 60
+Share Text: I COULD HAVE DONE BETTER IN MY ROLE AT EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 7: Pay raise. You can now afford brand name Ramen noodles. ---
+Condition: Ministry < 40, Relational > 60, Self-Aware < 40
+Share Text: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: I GOT A RAISE. I CAN AFFORD BRAND NAME RAMEN NOW.
+  Variant: PAY RAISE AT EXECUTION CHURCH. $83 A MONTH. I FRAMED THE LETTER.
+
+Narrative:
+[Placeholder — to be written]
+
+--- ENDING 8: Promoted. Better title. Real authority. Absolutely no pay raise. ---
+Condition: Ministry > 70, Relational > 70, Self-Aware < 40
+Share Text: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: I GOT PROMOTED AT EXECUTION CHURCH. NO RAISE THOUGH.
+  Variant: NEW TITLE. MORE CAMPUSES. SAME BUDGET. EXECUTION CHURCH.
+
+Narrative:
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN WIN ---
+[Placeholder — to be written]
+
+--- SPECIAL: BLIPPICOIN LOSE ---
+[Placeholder — to be written]
+
+--- SPECIAL: MEME ACCOUNT ---
+[Placeholder — to be written]
