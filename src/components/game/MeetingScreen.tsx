@@ -90,24 +90,6 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
         </div>
       )}
 
-      {/* Ending title */}
-      {ending && (
-        <div className="pt-2">
-          <p
-            className="text-[10px] uppercase tracking-widest mb-1"
-            style={{ color: '#9ca3af' }}
-          >
-            Your ending
-          </p>
-          <h2
-            className="text-lg font-semibold leading-snug"
-            style={{ color: '#1c1c1c' }}
-          >
-            {ending.title}
-          </h2>
-        </div>
-      )}
-
       {/* Main ending narrative */}
       {mainNarrative && (
         <div className="space-y-3" style={{ color: '#1c1c1c' }}>
