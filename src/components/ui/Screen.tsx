@@ -48,7 +48,7 @@ export default function Screen({ children, centered = false }: ScreenProps) {
               Survive Sunday
             </p>
             <p style={{ fontSize: '12px', color: '#ddd', marginTop: '6px', letterSpacing: '0.1em', textTransform: 'uppercase', lineHeight: 1 }}>
-              A choose-your-own ministry adventure game.
+              A game from Jonathan Malm.
             </p>
           </div>
 
