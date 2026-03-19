@@ -262,5 +262,5 @@ export function getEndingVariants(role: RoleCode): Record<string, string> {
 // Returns the setup intro text shown before every meeting.
 // Hard-coded — same for all roles.
 export function getMeetingSetup(): string {
-  return "One month later, you're standing outside your pastor's office. He called a one-on-one meeting with you. It sounded important."
+  return "One month later, you're standing outside your pastor's office. He called a one-on-one meeting with you. It sounded important.\n\nYou stare at the door. Taped below his name is a quote: 'Obstacles do not exist to be surrendered to, but only to be broken.' You aren’t sure who it’s by."
 }
