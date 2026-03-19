@@ -95,6 +95,8 @@ type RawChoice = {
   loseRelational?: number
   loseSelfAware?: number
   flags?: string[]
+  winFlags?: string[]
+  loseFlags?: string[]
   skipToScene?: number
 }
 
@@ -110,7 +112,9 @@ function parseScene(raw: string, sceneNumber: number): Scene {
       text: rc.text,
     }
 
-    if (rc.flags?.length) choice.flags = rc.flags
+    if (rc.flags?.length)     choice.flags     = rc.flags
+    if (rc.winFlags?.length)  choice.winFlags  = rc.winFlags
+    if (rc.loseFlags?.length) choice.loseFlags = rc.loseFlags
     if (rc.skipToScene != null) choice.skipToScene = rc.skipToScene
 
     if (rc.type === 'nuclear' && rc.split != null) {

@@ -37,7 +37,9 @@ export interface Choice {
   text: string        // player-facing button text (never labeled as Nuclear)
   scores?: ScoreDelta // for non-nuclear choices
   nuclear?: NuclearOutcome
-  flags?: string[]    // flags to set when this choice is made
+  flags?: string[]      // flags to set when this choice is made (any outcome)
+  winFlags?: string[]   // flags to set only on nuclear win
+  loseFlags?: string[]  // flags to set only on nuclear lose
   skipToScene?: number // hard skip to this scene on catastrophic choice
 }
 

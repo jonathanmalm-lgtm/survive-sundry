@@ -86,6 +86,16 @@ export default function ScenePlayer({
       for (const flag of choice.flags ?? []) {
         next = { ...next, flags: addFlag(next.flags, flag) }
       }
+      if (variant === 'win') {
+        for (const flag of choice.winFlags ?? []) {
+          next = { ...next, flags: addFlag(next.flags, flag) }
+        }
+      }
+      if (variant === 'lose') {
+        for (const flag of choice.loseFlags ?? []) {
+          next = { ...next, flags: addFlag(next.flags, flag) }
+        }
+      }
 
       return next
     })
