@@ -13,12 +13,12 @@ type Step = 'welcome' | 'name' | 'role' | 'intro'
 
 const ROLES: { code: RoleCode; label: string; description: string }[] = [
   { code: 'WL', label: 'Worship Leader',                   description: "Your beautiful voice won't be able to save you." },
-  { code: 'TL', label: 'Tech Leader',                      description: "Not enough gaff tape in the world for the day you're about to have." },
-  { code: 'KM', label: 'Kids Ministry Leader',             description: 'Okay, this might actually feel like a normal Sunday.' },
-  { code: 'FI', label: 'First Impressions Leader',         description: 'Your handshakes are about to get extra sweaty.' },
-  { code: 'AD', label: 'Administrator',                    description: "You're busy saving the ministry, but who will save you?" },
-  { code: 'CP', label: 'Campus Pastor',                    description: 'Even the joke about your smoking hot wife will bomb today.' },
-  { code: 'SM', label: 'Social Media & Photography Lead',  description: "50 fire emojis won't be enough to numb the pain today." },
+  { code: 'TL', label: 'Tech Leader (In Development)',                      description: "Not enough gaff tape in the world for the day you're about to have." },
+  { code: 'KM', label: 'Kids Ministry Leader (In Development)',             description: 'Okay, this might actually feel like a normal Sunday.' },
+  { code: 'FI', label: 'First Impressions Leader (In Development)',         description: 'Your handshakes are about to get extra sweaty.' },
+  { code: 'AD', label: 'Administrator (In Development)',                    description: "You're busy saving the ministry, but who will save you?" },
+  { code: 'CP', label: 'Campus Pastor (In Development)',                    description: 'Even the joke about your smoking hot wife will bomb today.' },
+  { code: 'SM', label: 'Social Media & Photography Lead (In Development)',  description: "50 fire emojis won't be enough to numb the pain today." },
 ]
 
 export default function Onboarding({ onComplete }: OnboardingProps) {
