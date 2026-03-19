@@ -71,9 +71,13 @@ export default function MeetingScreen({ state, onStateChange, onComplete }: Meet
         >
           One month later
         </p>
-        <p style={{ color: '#e5e7eb', lineHeight: '1.7' }}>
-          {p(setup)}
-        </p>
+        <div className="space-y-3">
+          {setup.split('\n\n').map((para, i) => (
+            <p key={i} style={{ color: '#e5e7eb', lineHeight: '1.7' }}>
+              {p(para)}
+            </p>
+          ))}
+        </div>
       </div>
 
       {/* BlippiCoin variant — shown before the ending */}
