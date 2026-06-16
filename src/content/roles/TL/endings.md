@@ -67,7 +67,7 @@ Your first listing is Ron's house. Ron has a lot of feedback about the lighting.
 
 Pastor Dave slides a piece of paper across the desk. "Tech Scheduling and Compliance Coordinator." Compliance. The word just sits there. "We think your attention to systems is actually a real gift," he says. "You're going to be great at identifying gaps." You drive home. The word compliance rides in the passenger seat the whole way.
 
-You will spend the next three years sending calendar reminders to people who do not read calendar reminders. Gary will cc himself on several of them.
+You will spend the next three years sending calendar reminders to people who do not read calendar reminders. Wendell will cc himself on several of them. You never gave Wendell your work email. Wendell has it anyway.
 
 ## Ending 3
 
@@ -79,19 +79,19 @@ Tanner's first directive is to remove the subwoofer. He calls it "sonically prid
 
 You're in the parking lot. Four minutes before the meeting. Your phone rings. It's Redemption City Church. "We've been watching your team for a while. We'd love to have a conversation." You look at the clock. Three minutes until the meeting. You look at Pastor Dave's window. He's in there.
 
-You go into the meeting anyway. You sit down. Pastor Dave talks. You hear about every other word. Dave from the parking lot somehow already knows about the call. Dave always knows. You still take the meeting.
+You go into the meeting anyway. You sit down. Pastor Dave talks. You hear about every other word. Wendell from the parking lot somehow already knows about the call. Wendell always knows. You still take the meeting.
 
 ## Ending 5
 
 He's smiling when you walk in. The real one. "I've been doing this for 22 years," he says. "You don't see someone coordinate a Sunday like that very often." He slides a notepad across. Specific bullet points — the camera hand-off, the way you ran the volunteer debrief, the family in row four who filled out a connection card because the environment felt welcoming. He noticed all of it. "Well done. Good and faithful servant. Now—" He flips the notepad. "Let's plan next Sunday."
 
-Dave from the parking lot had filed a laminated report. It was positive. He brought a copy. Pastor Dave already had a copy.
+Wendell from the parking lot had filed a laminated report. It was positive. He brought a copy. Pastor Dave already had a copy.
 
 ## Ending 6
 
 He walks through a color-coded recap. The wins are green. The areas of growth are yellow. There is one red. You know which one it is before he gets there. He circles it once with his pen. "The team trusts you. The congregation feels it on Sunday mornings. And you — you actually know where the gaps are." He shakes his head slowly. Not in disappointment. In the way of a man recalibrating. "We'll do better next time."
 
-The color-coded recap lives on your desk for three weeks. You look at the red circle every morning. Gary's name is not on it. This surprises you.
+The color-coded recap lives on your desk for three weeks. You look at the red circle every morning. Tom's name is not on it. This surprises you.
 
 ## Ending 7
 
@@ -103,16 +103,10 @@ You frame the letter. It hangs a little crooked. You leave it.
 
 He presents the new title. It is genuinely better. Then he presents the new responsibilities. The list is long. "—oversight of the full tech team, which will now include staging and lighting — plus the second campus launching in the fall — and the budget remains the same for now, we'll revisit that in—" he checks something, "—eighteen to twenty-four months." He closes the folder. He's beaming. "Congratulations." You shake his hand. You smile. You mean it. You get to your car. You open your calendar app. You stare at it for a long time. You put your phone face-down on the seat. You sit there for a minute. Then you drive home.
 
-## Blippicoin Win
+## Footage Win
 
-You tell him about BlippiCoin. All of it. The $200. Chad. The Chili's. You show him your portfolio on your phone. The number on the screen is $124,000. Pastor Dave stares at the phone. Then at you. Then at the phone. "You invested in a cryptocurrency backed by Blippi," he says slowly, "during the service." "During the between-service reset," you clarify. He starts laughing. Slowly at first. Then fully. He composes himself. "What do you even do with that?" You have thought about this. "Tithe it," you say. "And replace the subwoofer." He starts laughing again.
+At one point in the meeting Pastor Dave pauses. "Tanner mentioned you two had a… moment this morning." You hold his gaze. "Great kid," you say. "Very creative." Pastor Dave studies you a beat longer than necessary, then visibly decides not to pull that thread. You will never have booth trouble from Tanner again. On your way out, Wendell is in the lot. Wendell nods. You nod. Two men who know where everything is buried, agreeing, without a word, never to dig.
 
-You still do not have a theological answer on the tithing question. Chad texts seventeen times in one day. You do not respond to Chad.
+## Footage Lose
 
-## Blippicoin Lose
-
-The $200 is gone. You will never get it back. You tell the story exactly once, to someone who needed a laugh. It lands. The story gets funnier every time you tell it. Chad still follows up. Chad is still a bartender at Chili's.
-
-## Meme Account
-
-At one point he makes eye contact with you for slightly longer than necessary. He says: "I think it's important that we process frustrations through the right channels as a staff." He moves on. He does not say the word "screen." He does not need to. You will feel this sentence in your entire body for approximately three weeks.
+"One more thing," Pastor Dave says. "I'm told the booth cameras… run all the time?" "Motion-triggered," you clarify. "For production." He nods slowly. "Let's get HR a retention policy by Friday. And let's stop AirDropping people." You will spend Tuesday writing a "camera data policy" for a system only you understand. Tanner tells the story at small group. In his version, he was "just praying on the stage." Nobody at this church will ever look at the little red recording light the same way again.

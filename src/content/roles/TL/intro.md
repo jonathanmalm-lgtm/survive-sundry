@@ -1,7 +1,14 @@
-Your alarm goes off at 5:47 AM. The few people who know this is what you set your alarm to make fun of you for it. But it's the perfect amount of time you need to get ready and get to church on time. Plus it's a prime number. Bonus.
+---
+type: intro
+image: alarm-clock
+---
 
-You're exhausted. You were at the church until 2 AM last night resetting the stage after a wedding. They don't pay you enough for that shift. But it's a little extra money so it's nice. Plus you don't trust anyone else to do it right.
+Your alarm goes off at 5:47 AM. The handful of people who know you set it to 5:47 make fun of you for it. But it's the exact amount of time you need, and 547 is a prime number, so it can't be divided, which is more than you can say for your attention on a Sunday.
 
-The facilities team reported the 'bass sounds' weird, which means there's something wonky with a subwoofer. You know that because you heard a pop during Thursday's rehearsal. You jiggle a wire and it went away. But it seems the fix wasn't permanent.
+You were at the church until 2 AM resetting the stage after a wedding. They do not pay you enough for the 2 AM shift. They pay you a little extra, which is nice, and which is also how they get you. Mostly you did it because you don't trust anyone else to coil a cable without turning it into a nest of snakes.
 
-You browse through your closet to find the perfect black outfit then head to church.
+Facilities reported the bass "sounds weird," which is facilities for "a subwoofer is dying." You already know this. You heard the pop during Thursday rehearsal. You jiggled a wire. It stopped. You chose to believe the jiggle was permanent. The jiggle is never permanent.
+
+You put on the same all-black outfit you always wear, because the booth is dark and a tech leader should be neither seen nor heard, only blamed. You grab your laptop, your label maker, and the good HDMI cable you keep on your person at all times like a sidearm.
+
+Coffee on the way. Then church.
